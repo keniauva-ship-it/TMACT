@@ -1,275 +1,275 @@
-﻿ASEGURADORA,TIPO,ESTUDIO,GRUPO,MODALIDAD,TIEMPO DE APROBACIÓN,EDAD,FECHAESTUDIO,STATUS,PRIORIDAD
-HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:00:48:20,34,01/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,TAC DE TORAX,Tomografia,CT,000:00:47:32,34,01/07/25,Aprobado,3- Rutina
-HDI Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:08:51,62,01/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,000:00:15:15,61,01/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX ABDOMEN 1 POSICION,Radiología General,CR,,0,01/07/25,Agendado,3- Rutina
-,Externo,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:06:46,62,01/07/25,Aprobado,3- Rutina
-Qualitas,Urgencia,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:54,5,01/07/25,Aprobado,1- Prioritario
-Qualitas,Urgencia,RX RODILLA 2 POSICIONES,Radiología General,CR,000:00:07:09,5,01/07/25,Aprobado,1- Prioritario
-Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:33,46,02/07/25,Aprobado,3- Rutina
-Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:05:33,46,02/07/25,Aprobado,3- Rutina
-Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:25,56,02/07/25,Aprobado,3- Rutina
-Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:04:13,56,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:51,44,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:02:51,44,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:02:05,87,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:58,87,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:08:41,4,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:13:05,0,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:58:55,16,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:13:30,4,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX ABDOMEN 1 POSICION,Radiología General,CR,000:01:13:22,0,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:02:28,16,02/07/25,Aprobado,3- Rutina
-Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:43,0,02/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:08:28,72,03/07/25,Aprobado,3- Rutina
-Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:13,72,03/07/25,Aprobado,3- Rutina
-GENERICO EXTRANJERO,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:26,81,03/07/25,Aprobado,3- Rutina
-GENERICO EXTRANJERO,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:14:52,81,03/07/25,Aprobado,3- Rutina
-,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,59,03/07/25,Cancelado por Hospital,3- Rutina
-,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:08:08:06,42,03/07/25,Aprobado,3- Rutina
-"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:17,70,03/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:15:37,36,03/07/25,Aprobado,1- Prioritario
-AXA SEGUROS S.A. DE C.V.,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:01:39:27,61,03/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:03:02:40,59,03/07/25,Aprobado,3- Rutina
-Zurich Seguros,Interno,MAMOGRAFIA BILATERAL,Mastografía,MG,,47,03/07/25,Cancelado por Hospital,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:05:28,48,03/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Interno,ECO DE MAMA BILATERAL,Ultrasonido,US,,47,03/07/25,Cancelado por Hospital,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:03:39,37,04/07/25,Aprobado,1- Prioritario
-PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:20:32,29,04/07/25,Aprobado,3- Rutina
-,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,005:04:30:31,50,04/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:01:29:30,48,04/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:02:45:13,36,04/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Interno,ECO DE ABDOMEN TOTAL,Ultrasonido,US,,47,04/07/25,Cancelado por Hospital,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:23:30:42,67,04/07/25,Aprobado,3- Rutina
-,Externo,TAC DE TORAX,Tomografia,CT,000:01:50:35,76,04/07/25,Aprobado,3- Rutina
-,Externo,TAC ANGIO MESENTERICA,Tomografia,CT,004:01:13:03,46,04/07/25,Aprobado,3- Rutina
-,Externo,RM PROSTATA,Resonancia Magnetica,MR,001:03:04:06,68,04/07/25,Aprobado,3- Rutina
-,Externo,RM COLUMNA DORSAL,Resonancia Magnetica,MR,000:09:49:32,63,04/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,MN GAMMAGRAFIA GANGLIO CENTINELA,Medicina Nuclear,NM,000:00:07:27,70,04/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:18:28,29,04/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:02:41,41,05/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:01:57,40,04/07/25,Aprobado,1- Prioritario
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:23:16,67,04/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:05:23:49,46,05/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:01:04:17,37,05/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Interno,ECO DE MAMA BILATERAL,Ultrasonido,US,000:03:09:14,39,05/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:22:23:22,65,05/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,TAC DE OIDO-MASTOIDES,Tomografia,CT,000:01:11:45,36,05/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Interno,DENSITOMETRIA OSEA,Densitometria,OT,,47,05/07/25,Cancelado por Hospital,3- Rutina
-PACIENTE PARTICULAR,Interno,RX TORAX 2 POSICIONES,Radiología General,CR,000:00:40:53,92,05/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:16:47,46,05/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:07:11,35,05/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:57:26,65,05/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER ABDOMEN SUPERIOR,Ultrasonido,US,000:05:25:33,60,05/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:23:01,41,05/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Interno,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:55:04,39,05/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA UNILATERAL,Mastografía,MG,001:00:34:52,59,06/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,TAC ANGIO CORAZON-CORONARIAS,Tomografia,CT,000:01:11:27,34,06/07/25,Aprobado,3- Rutina
-,Externo,TAC DE TORAX,Tomografia,CT,003:23:34:14,79,06/07/25,Aprobado,3- Rutina
-,Externo,RM PROSTATA,Resonancia Magnetica,MR,000:21:48:40,74,07/07/25,Aprobado,3- Rutina
-,Externo,RM COLUMNA LUMBAR,Resonancia Magnetica,MR,000:08:53:10,63,07/07/25,Aprobado,3- Rutina
-,Externo,MN GAMMAGRAFIA DE PARATIROIDES,Medicina Nuclear,NM,000:08:33:06,62,07/07/25,Aprobado,3- Rutina
-,Externo,PET/CT CUERPO - 68GA-PSMA,PET/CT,PT,001:05:12:25,63,07/07/25,Aprobado,3- Rutina
-,Externo,RX ANTEBRAZO 2 POSICIONES,Radiología General,CR,000:22:16:43,42,07/07/25,Aprobado,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,,47,07/07/25,Cancelado por Hospital,1- Prioritario
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,,55,07/07/25,Agendado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,,55,07/07/25,Agendado,3- Rutina
-,Externo,RX BRAZO 2 POSICIONES,Radiología General,CR,,42,07/07/25,Agendado,3- Rutina
-Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:04,39,07/07/25,Aprobado,1- Prioritario
-Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:42:15,40,08/07/25,Aprobado,1- Prioritario
-,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:01:00:01,85,08/07/25,Aprobado,3- Rutina
-,Externo,TAC DE CUELLO,Tomografia,CT,003:22:16:07,77,08/07/25,Aprobado,3- Rutina
-PROMOCIONES VENTAS DE CONTADO,Externo,MN GAMMAGRAFIA OSEA,Medicina Nuclear,NM,000:00:22:55,64,08/07/25,Aprobado,3- Rutina
-,Externo,RX MANO 2 POSICIONES,Radiología General,CR,000:22:21:09,42,08/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,,55,08/07/25,Agendado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:07:24:22,55,08/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,004:00:32:58,80,08/07/25,Aprobado,3- Rutina
-ACCIONISTAS/CONSEJEROS CHRISTUS MUGUERZA,Interno,RX HOMBRO 1 POSICION,Radiología General,CR,000:05:30:59,16,08/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:53,53,09/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,000:19:37:20,64,09/07/25,Aprobado,3- Rutina
-,Externo,ECO PARTES BLANDAS,Ultrasonido,US,000:05:41:12,11,09/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,001:04:50:10,45,09/07/25,Aprobado,3- Rutina
-,Externo,TAC DE SENOS PARANASALES,Tomografia,CT,003:22:35:49,71,09/07/25,Aprobado,3- Rutina
-,Externo,TAC DE CRANEO,Tomografia,CT,000:01:30:32,61,09/07/25,Aprobado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,001:08:56:15,8,09/07/25,Aprobado,3- Rutina
-,Externo,RM ABDOMEN TOTAL,Resonancia Magnetica,MR,000:09:08:19,63,09/07/25,Aprobado,3- Rutina
-,Externo,PET/CT CUERPO - 68GA-PSMA,PET/CT,PT,003:21:17:05,64,09/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:11:01,53,09/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:03:39,80,09/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:13:02,21,09/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:11:19,21,09/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:23:07:12,45,09/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,003:20:31:26,70,09/07/25,Aprobado,3- Rutina
-,Externo,TAC DE CRANEO,Tomografia,CT,,10,09/07/25,Cancelado por Hospital,3- Rutina
-MEMBRESIA CHRISTUS MUGUERZA,Urgencia,TAC DE CARA-MACIZO FACIAL,Tomografia,CT,000:02:08:10,20,10/07/25,Aprobado,1- Prioritario
-PACIENTE PARTICULAR,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,003:21:47:30,58,10/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Externo,TAC DE CRANEO,Tomografia,CT,000:00:49:07,35,14/07/25,Aprobado,3- Rutina
-,Externo,RM ESPECTROSCOPIA,Resonancia Magnetica,MR,001:09:03:23,8,10/07/25,Aprobado,3- Rutina
-PROMOCIONES VENTAS DE CONTADO,Externo,MN GAMMAGRAFIA OSEA,Medicina Nuclear,NM,,69,10/07/25,Iniciado,3- Rutina
-PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:01:13:08,24,10/07/25,Aprobado,3- Rutina
-,Externo,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,000:00:35:40,59,10/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:02:29:54,24,10/07/25,Aprobado,3- Rutina
-MEMBRESIA SOCIO CHRISTUS,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:14:52,63,10/07/25,Aprobado,3- Rutina
-,Externo,ECO BIOPSIA DE MAMA,Ultrasonido,US,,56,10/07/25,Agendado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:05:58:05,70,10/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:05:29:31,83,10/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER RENAL,Ultrasonido,US,000:01:33:08,49,11/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:19:59:22,58,11/07/25,Aprobado,3- Rutina
-,Externo,TAC DE CRANEO,Tomografia,CT,,27,11/07/25,Cancelado por Hospital,3- Rutina
-,Externo,TAC DE CRANEO,Tomografia,CT,003:21:36:36,75,11/07/25,Aprobado,3- Rutina
-,Externo,RM ABDOMEN INFERIOR,Resonancia Magnetica,MR,,35,11/07/25,Agendado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,10,11/07/25,Agendado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:03:17:57,35,11/07/25,Aprobado,3- Rutina
-,Externo,RX FEMUR 4 POSICIONES,Radiología General,CR,000:19:07:02,67,12/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:22:15:52,63,12/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:05:16:47,58,12/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:23:16:59,64,12/07/25,Aprobado,3- Rutina
-,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,,64,12/07/25,Cancelado por Hospital,3- Rutina
-,Externo,DENSITOMETRIA OSEA,Densitometria,OT,000:05:14:48,59,12/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:27:11,20,12/07/25,Aprobado,3- Rutina
-PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:05:04,20,12/07/25,Aprobado,3- Rutina
-"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:05:22:16,74,12/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:44:51,64,12/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,ECO DE HOMBRO,Ultrasonido,US,000:00:10:15,5,12/07/25,Aprobado,3- Rutina
-,Externo,UTIL ECO PORTATIL,Ultrasonido,US,,49,13/07/25,Cancelado por Hospital,3- Rutina
-,Externo,MARCAJE POR MAMO/ECO,Mastografía,US,003:20:55:18,59,14/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,001:00:38:21,59,14/07/25,Aprobado,3- Rutina
-,Externo,TAC DE TORAX,Tomografia,CT,000:03:35:34,34,14/07/25,Aprobado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,27,14/07/25,Agendado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,003:20:52:25,75,15/07/25,Aprobado,3- Rutina
-PROMOCIONES VENTAS DE CONTADO,Externo,PET/CT CUERPO - 18F-DOPA,PET/CT,PT,,73,14/07/25,Cancelado por Hospital,3- Rutina
-PROMOCIONES VENTAS DE CONTADO,Externo,PET/CT CEREBRO - 18F-DOPA,PET/CT,PT,004:01:15:08,73,14/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:23:33,29,14/07/25,Aprobado,3- Rutina
-,Externo,RX PIE 2 POSICIONES,Radiología General,CR,001:06:13:14,75,14/07/25,Aprobado,3- Rutina
-,Interno,RX MUÑECA 2 POSICIONES,Radiología General,CR,004:17:37:49,38,14/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Urgencia,ECO PARTES BLANDAS,Ultrasonido,US,000:00:12:27,5,14/07/25,Aprobado,1- Prioritario
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:38:39,59,15/07/25,Aprobado,3- Rutina
-,Externo,RX MUÑECA 2 POSICIONES,Radiología General,CR,003:17:57:01,38,15/07/25,Aprobado,3- Rutina
-PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:18:05,89,15/07/25,Aprobado,2- Urgente
-HDI Seguros,Interno,ECO DE RODILLA,Ultrasonido,US,000:00:06:03,5,15/07/25,Aprobado,3- Rutina
-,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,32,15/07/25,Cancelado por Hospital,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,MN GAMMAGRAFIA GANGLIO CENTINELA,Medicina Nuclear,NM,000:00:57:50,59,15/07/25,Aprobado,3- Rutina
-,Externo,PET/CT CEREBRO - 18F-DOPA,PET/CT,PT,004:01:25:48,74,15/07/25,Aprobado,3- Rutina
-PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:16:45,89,15/07/25,Aprobado,2- Urgente
-,Externo,RX MUÑECA 1 POSICION,Radiología General,CR,004:17:35:18,38,16/07/25,Aprobado,3- Rutina
-Qualitas,Urgencia,TAC DE CRANEO,Tomografia,CT,000:00:47:52,43,16/07/25,Aprobado,1- Prioritario
-"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:14:30,58,16/07/25,Aprobado,3- Rutina
-"SINERGIA DEPORTIVA, SA DE CV",Externo,RX TORAX 1 POSICION,Radiología General,CR,000:03:16:02,36,16/07/25,Aprobado,3- Rutina
-"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:17:23,58,16/07/25,Aprobado,3- Rutina
-,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,36,16/07/25,Agendado,3- Rutina
-,Externo,TAC DE TORAX,Tomografia,CT,000:02:55:08,46,16/07/25,Aprobado,3- Rutina
-,Externo,RM RODILLA,Resonancia Magnetica,MR,003:21:53:19,79,17/07/25,Aprobado,3- Rutina
-PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:01:05:29,89,17/07/25,Aprobado,1- Prioritario
-Qualitas,Urgencia,TAC DE CARA-MACIZO FACIAL,Tomografia,CT,000:00:51:04,43,17/07/25,Aprobado,1- Prioritario
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:18:03:10,63,17/07/25,Aprobado,2- Urgente
-,Externo,RX ESCOLIOSIS 14X36 4 POSICIONES,Radiología General,CR,003:16:59:48,9,17/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RODILLA,Ultrasonido,US,000:00:05:59,16,18/07/25,Aprobado,3- Rutina
-,Interno,MAMOGRAFIA UNILATERAL,Mastografía,MG,000:01:28:49,59,18/07/25,Aprobado,3- Rutina
-"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:04:08:39,74,18/07/25,Aprobado,3- Rutina
-"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Urgencia,TAC ANGIO PULMONAR,Tomografia,CT,000:00:11:39,58,18/07/25,Aprobado,1- Prioritario
-HDI Seguros,Interno,RX PELVIS 1 POSICION,Radiología General,CR,000:04:46:09,63,18/07/25,Aprobado,2- Urgente
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:20:03:24,5,18/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX CRANEO 2 POSICIONES,Radiología General,CR,000:04:35:29,63,18/07/25,Aprobado,2- Urgente
-,Externo,ECO DE PELVIS,Ultrasonido,US,000:00:06:54,36,18/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:00:01:52,48,18/07/25,Aprobado,3- Rutina
-"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Urgencia,TAC ANGIO CORAZON-CORONARIAS,Tomografia,CT,,58,18/07/25,Cancelado por Hospital,1- Prioritario
-,Externo,RM MUÑECA,Resonancia Magnetica,MR,,30,18/07/25,Cancelado por Hospital,3- Rutina
-,Externo,RM RODILLA,Resonancia Magnetica,MR,000:00:27:37,30,18/07/25,Aprobado,3- Rutina
-,Externo,RM RODILLA,Resonancia Magnetica,MR,,24,18/07/25,Agendado,3- Rutina
-HDI Seguros,Interno,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,,63,18/07/25,Agendado,2- Urgente
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:04:43,4,18/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Externo,RX MANO 2 POSICIONES,Radiología General,CR,000:00:26:57,13,18/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX COLUMNA CERVICAL 1 POSICION,Radiología General,CR,000:04:20:28,63,18/07/25,Aprobado,2- Urgente
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:00:10:57,32,18/07/25,Aprobado,3- Rutina
-,Externo,ECO DE REGION INGUINAL,Ultrasonido,US,000:19:55:50,48,18/07/25,Aprobado,3- Rutina
-,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,003:18:19:15,65,19/07/25,Aprobado,3- Rutina
-,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,003:18:32:21,79,19/07/25,Aprobado,3- Rutina
-,Externo,RX RODILLA 2 POSICIONES,Radiología General,CR,000:16:34:00,73,19/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:01:52,27,19/07/25,Aprobado,2- Urgente
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:41,4,19/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:49:17,27,19/07/25,Aprobado,2- Urgente
-HDI Seguros,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:08:08,4,21/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:09:46,79,21/07/25,Aprobado,3- Rutina
-,Externo,ECO DE CONTROL CUALQUIER REGION,Ultrasonido,US,000:04:26:59,64,21/07/25,Aprobado,3- Rutina
-"NACIONAL MONTE DE PIEDAD, I.A.P.",Interno,ECO DOPPLER RENAL,Ultrasonido,US,000:00:37:15,45,21/07/25,Aprobado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:22:26:33,58,21/07/25,Aprobado,3- Rutina
-,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:21:15:22,48,21/07/25,Aprobado,3- Rutina
-,Externo,RM COLANGIO RESONANCIA,Resonancia Magnetica,MR,,79,21/07/25,Agendado,3- Rutina
-,Externo,RM RODILLA,Resonancia Magnetica,MR,000:17:56:32,73,21/07/25,Aprobado,3- Rutina
-,Externo,RM RODILLA,Resonancia Magnetica,MR,000:00:38:04,18,21/07/25,Aprobado,3- Rutina
-,Externo,RX MUÑECA 2 POSICIONES,Radiología General,CR,000:16:33:09,71,21/07/25,Aprobado,3- Rutina
-,Urgencia,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:35,5,21/07/25,Aprobado,1- Prioritario
-,Externo,RX COLUMNA DORSAL 1 POSICION,Radiología General,CR,000:17:50:04,82,21/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:35:02,91,21/07/25,Aprobado,3- Rutina
-,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:17:40:47,89,22/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:22:05,58,22/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,003:16:20:01,65,22/07/25,Aprobado,3- Rutina
-,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,,24,22/07/25,Agendado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,18,22/07/25,Agendado,3- Rutina
-,Externo,RX PIE 3 POSICIONES,Radiología General,CR,001:15:56:54,42,22/07/25,Aprobado,3- Rutina
-,Externo,RX HOMBRO 1 POSICION,Radiología General,CR,000:14:55:27,62,22/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,ECO PUNCION BIOPSIA,Ultrasonido,US,000:00:01:43,81,22/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,UTIL ECO PORTATIL,Ultrasonido,US,,65,22/07/25,Agendado,3- Rutina
-,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:01:07:42,91,22/07/25,Aprobado,3- Rutina
-,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:23:00:54,69,22/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,TAC DE TORAX,Tomografia,CT,001:22:16:11,75,22/07/25,Aprobado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:15:37:47,48,22/07/25,Aprobado,3- Rutina
-,Externo,RM HOMBRO,Resonancia Magnetica,MR,000:02:36:14,62,22/07/25,Aprobado,3- Rutina
-,Externo,DENSITOMETRIA OSEA,Densitometria,OT,000:04:23:03,58,23/07/25,Aprobado,3- Rutina
-,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:09:25,91,23/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,003:17:10:35,85,23/07/25,Aprobado,3- Rutina
-,Externo,TAC DE TORAX,Tomografia,CT,000:00:15:38,58,23/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Urgencia,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:00:21:21,27,23/07/25,Aprobado,1- Prioritario
-,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:16:00:03,73,23/07/25,Aprobado,3- Rutina
-"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX DEDOS DE MANO MULTIVISTA,Radiología General,CR,000:00:10:49,25,23/07/25,Aprobado,3- Rutina
-,Interno,ECO DE CUELLO,Ultrasonido,US,000:21:22:42,75,24/07/25,Aprobado,3- Rutina
-"SEGUROS ATLAS, S.A.",Interno,TAC DE CRANEO,Tomografia,CT,000:00:54:33,0,24/07/25,Aprobado,3- Rutina
-,Externo,RM AMBAS CADERAS,Resonancia Magnetica,MR,002:21:33:37,51,24/07/25,Aprobado,3- Rutina
-,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:22:02:47,19,24/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:04,81,24/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,TAC DE TORAX,Tomografia,CT,000:00:09:52,27,24/07/25,Aprobado,1- Prioritario
-,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:49:41,58,25/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX CODO 2 POSICIONES,Radiología General,CR,000:00:22:01,2,25/07/25,Aprobado,3- Rutina
-,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:24:50,58,25/07/25,Aprobado,3- Rutina
-,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:01:29:15,66,25/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:00:00:38,31,25/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:02:14:15,59,25/07/25,Aprobado,3- Rutina
-Qualitas,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:00:18:21,28,25/07/25,Aprobado,3- Rutina
-,Externo,RX MANO 1 POSICION,Radiología General,CR,000:00:23:40,10,25/07/25,Aprobado,3- Rutina
-,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:00:31:52,12,25/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:12:06,3,25/07/25,Aprobado,3- Rutina
-,Externo,RX MED MIEMBROS EJE MECANICO,Radiología General,CR,000:00:30:03,12,25/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:31,59,26/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Urgencia,ECO DE PARED ABDOMINAL,Ultrasonido,US,000:00:07:13,30,26/07/25,Aprobado,1- Prioritario
-AXA SEGUROS S.A. DE C.V.,Urgencia,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:00:33:12,60,26/07/25,Aprobado,1- Prioritario
-,Externo,RM COLUMNA LUMBAR,Resonancia Magnetica,MR,000:13:35:22,54,26/07/25,Aprobado,3- Rutina
-,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:00:31:40,19,26/07/25,Aprobado,3- Rutina
-AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:36:01,3,26/07/25,Aprobado,3- Rutina
-,Externo,RX PIE 4 POSICIONES,Radiología General,CR,006:16:49:37,12,26/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER ESCROTO,Ultrasonido,US,000:13:22:53,36,28/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,UTIL FLUORO HASTA 30 MINUTOS.,Radiología General,CR,000:00:00:53,31,28/07/25,Aprobado,3- Rutina
-,Externo,RX CRANEO 1 POSICION,Radiología General,CR,000:00:26:19,23,28/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:01:32,31,28/07/25,Aprobado,3- Rutina
-,Externo,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,000:00:22:32,23,28/07/25,Aprobado,3- Rutina
-PACIENTE PARTICULAR,Interno,RX RODILLA 2 POSICIONES,Radiología General,CR,000:00:18:37,31,28/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:12:12:01,59,28/07/25,Aprobado,2- Urgente
-,Interno,TAC COMPLEMENTO,Tomografia,CT,000:01:28:51,60,28/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX DEDOS DE MANO MULTIVISTA,Radiología General,CR,000:00:19:32,4,28/07/25,Aprobado,3- Rutina
-,Externo,RX HOMBRO 1 POSICION,Radiología General,CR,000:00:42:35,42,29/07/25,Aprobado,3- Rutina
-,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,,58,29/07/25,Descontinuado,3- Rutina
-HDI Seguros,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:06:51:58,49,29/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:08:10:38,49,29/07/25,Aprobado,3- Rutina
-,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:03,50,29/07/25,Aprobado,3- Rutina
-Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:03:08:25,0,29/07/25,Aprobado,3- Rutina
-,Externo,TAC DE HOMBRO,Tomografia,CT,000:01:22:05,42,29/07/25,Aprobado,3- Rutina
-Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:25,0,29/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:03:05:50,41,29/07/25,Aprobado,2- Urgente
-,Externo,RM HOMBRO,Resonancia Magnetica,MR,000:01:35:38,26,30/07/25,Aprobado,3- Rutina
-HDI Seguros,Interno,TAC EXPLORACION ABDOMINAL,Tomografia,CT,000:02:38:11,41,30/07/25,Aprobado,2- Urgente
-Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:06:51:46,4,30/07/25,Aprobado,3- Rutina
-Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:07:10:55,4,30/07/25,Aprobado,3- Rutina
-"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:01:38:19,64,30/07/25,Aprobado,3- Rutina
-,Externo,TAC COMPLEMENTO,Tomografia,CT,000:01:00:07,41,30/07/25,Aprobado,3- Rutina
-Qualitas,Urgencia,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:00:27:02,43,30/07/25,Aprobado,1- Prioritario
-Qualitas,Urgencia,RM ANGIO CRANEO O CEREBRO,Resonancia Magnetica,MR,000:04:23:43,43,30/07/25,Aprobado,1- Prioritario
+﻿ASEGURADORA,TIPO,ESTUDIO,GRUPO,MODALIDAD,TIEMPO DE APROBACIÓN,EDAD,FECHAESTUDIO,STATUS,PRIORIDAD,HoraEstudio
+HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:00:48:20,34,01/07/2025,Aprobado,3- Rutina,09:53
+HDI Seguros,Interno,TAC DE TORAX,Tomografia,CT,000:00:47:32,34,01/07/2025,Aprobado,3- Rutina,10:23
+HDI Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:08:51,62,01/07/2025,Aprobado,3- Rutina,11:34
+,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,000:00:15:15,61,01/07/2025,Aprobado,3- Rutina,17:14
+Qualitas,Interno,RX ABDOMEN 1 POSICION,Radiología General,CR,,0,01/07/2025,Agendado,3- Rutina,
+,Externo,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:06:46,62,01/07/2025,Aprobado,3- Rutina,18:35
+Qualitas,Urgencia,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:54,5,01/07/2025,Aprobado,1- Prioritario,19:15
+Qualitas,Urgencia,RX RODILLA 2 POSICIONES,Radiología General,CR,000:00:07:09,5,01/07/2025,Aprobado,1- Prioritario,20:12
+Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:33,46,02/07/2025,Aprobado,3- Rutina,09:53
+Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:05:33,46,02/07/2025,Aprobado,3- Rutina,09:53
+Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:25,56,02/07/2025,Aprobado,3- Rutina,10:01
+Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:04:13,56,02/07/2025,Aprobado,3- Rutina,10:54
+AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:51,44,02/07/2025,Aprobado,3- Rutina,11:13
+AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:02:51,44,02/07/2025,Aprobado,3- Rutina,11:31
+AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:02:05,87,02/07/2025,Aprobado,3- Rutina,13:37
+AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:58,87,02/07/2025,Aprobado,3- Rutina,14:38
+Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:08:41,4,02/07/2025,Aprobado,3- Rutina,18:16
+AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:13:05,0,02/07/2025,Aprobado,3- Rutina,18:16
+Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:58:55,16,02/07/2025,Aprobado,3- Rutina,18:25
+Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:13:30,4,02/07/2025,Aprobado,3- Rutina,18:25
+Qualitas,Interno,RX ABDOMEN 1 POSICION,Radiología General,CR,000:01:13:22,0,02/07/2025,Aprobado,3- Rutina,19:24
+Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:02:28,16,02/07/2025,Aprobado,3- Rutina,19:33
+Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:43,0,02/07/2025,Aprobado,3- Rutina,20:46
+AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:08:28,72,03/07/2025,Aprobado,3- Rutina,08:51
+Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:13,72,03/07/2025,Aprobado,3- Rutina,08:42
+GENERICO EXTRANJERO,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:04:26,81,03/07/2025,Aprobado,3- Rutina,09:10
+GENERICO EXTRANJERO,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:14:52,81,03/07/2025,Aprobado,3- Rutina,11:04
+,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,59,03/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:08:08:06,42,03/07/2025,Aprobado,3- Rutina,16:22
+"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:17,70,03/07/2025,Aprobado,3- Rutina,17:02
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:15:37,36,03/07/2025,Aprobado,1- Prioritario,17:02
+AXA SEGUROS S.A. DE C.V.,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:01:39:27,61,03/07/2025,Aprobado,3- Rutina,18:20
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:03:02:40,59,03/07/2025,Aprobado,3- Rutina,18:47
+Zurich Seguros,Interno,MAMOGRAFIA BILATERAL,Mastografía,MG,,47,03/07/2025,Cancelado por Hospital,3- Rutina,
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:05:28,48,03/07/2025,Aprobado,1- Prioritario,19:25
+Zurich Seguros,Interno,ECO DE MAMA BILATERAL,Ultrasonido,US,,47,03/07/2025,Cancelado por Hospital,3- Rutina,
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:03:39,37,04/07/2025,Aprobado,1- Prioritario,08:48
+PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:20:32,29,04/07/2025,Aprobado,3- Rutina,09:01
+,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,005:04:30:31,50,04/07/2025,Aprobado,3- Rutina,09:53
+Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:01:29:30,48,04/07/2025,Aprobado,1- Prioritario,11:22
+Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:02:45:13,36,04/07/2025,Aprobado,1- Prioritario,10:55
+Zurich Seguros,Interno,ECO DE ABDOMEN TOTAL,Ultrasonido,US,,47,04/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:23:30:42,67,04/07/2025,Aprobado,3- Rutina,13:55
+,Externo,TAC DE TORAX,Tomografia,CT,000:01:50:35,76,04/07/2025,Aprobado,3- Rutina,17:21
+,Externo,TAC ANGIO MESENTERICA,Tomografia,CT,004:01:13:03,46,04/07/2025,Aprobado,3- Rutina,17:28
+,Externo,RM PROSTATA,Resonancia Magnetica,MR,001:03:04:06,68,04/07/2025,Aprobado,3- Rutina,18:30
+,Externo,RM COLUMNA DORSAL,Resonancia Magnetica,MR,000:09:49:32,63,04/07/2025,Aprobado,3- Rutina,18:51
+AXA SEGUROS S.A. DE C.V.,Interno,MN GAMMAGRAFIA GANGLIO CENTINELA,Medicina Nuclear,NM,000:00:07:27,70,04/07/2025,Aprobado,3- Rutina,19:06
+PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:18:28,29,04/07/2025,Aprobado,3- Rutina,19:06
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:02:41,41,05/07/2025,Aprobado,1- Prioritario,19:17
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:01:57,40,04/07/2025,Aprobado,1- Prioritario,19:49
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:23:16,67,04/07/2025,Aprobado,3- Rutina,07:58
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:05:23:49,46,05/07/2025,Aprobado,3- Rutina,13:03
+Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:01:04:17,37,05/07/2025,Aprobado,1- Prioritario,13:43
+Zurich Seguros,Interno,ECO DE MAMA BILATERAL,Ultrasonido,US,000:03:09:14,39,05/07/2025,Aprobado,3- Rutina,16:41
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:22:23:22,65,05/07/2025,Aprobado,3- Rutina,16:51
+Zurich Seguros,Externo,TAC DE OIDO-MASTOIDES,Tomografia,CT,000:01:11:45,36,05/07/2025,Aprobado,1- Prioritario,16:51
+Zurich Seguros,Interno,DENSITOMETRIA OSEA,Densitometria,OT,,47,05/07/2025,Cancelado por Hospital,3- Rutina,
+PACIENTE PARTICULAR,Interno,RX TORAX 2 POSICIONES,Radiología General,CR,000:00:40:53,92,05/07/2025,Aprobado,3- Rutina,17:41
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:16:47,46,05/07/2025,Aprobado,3- Rutina,18:22
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:07:11,35,05/07/2025,Aprobado,3- Rutina,18:44
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:57:26,65,05/07/2025,Aprobado,3- Rutina,19:34
+,Externo,ECO DOPPLER ABDOMEN SUPERIOR,Ultrasonido,US,000:05:25:33,60,05/07/2025,Aprobado,3- Rutina,19:34
+Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:23:01,41,05/07/2025,Aprobado,1- Prioritario,19:44
+Zurich Seguros,Interno,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:55:04,39,05/07/2025,Aprobado,3- Rutina,16:59
+,Externo,MAMOGRAFIA UNILATERAL,Mastografía,MG,001:00:34:52,59,06/07/2025,Aprobado,3- Rutina,18:48
+HDI Seguros,Interno,TAC ANGIO CORAZON-CORONARIAS,Tomografia,CT,000:01:11:27,34,06/07/2025,Aprobado,3- Rutina,18:48
+,Externo,TAC DE TORAX,Tomografia,CT,003:23:34:14,79,06/07/2025,Aprobado,3- Rutina,09:03
+,Externo,RM PROSTATA,Resonancia Magnetica,MR,000:21:48:40,74,07/07/2025,Aprobado,3- Rutina,10:25
+,Externo,RM COLUMNA LUMBAR,Resonancia Magnetica,MR,000:08:53:10,63,07/07/2025,Aprobado,3- Rutina,10:05
+,Externo,MN GAMMAGRAFIA DE PARATIROIDES,Medicina Nuclear,NM,000:08:33:06,62,07/07/2025,Aprobado,3- Rutina,10:37
+,Externo,PET/CT CUERPO - 68GA-PSMA,PET/CT,PT,001:05:12:25,63,07/07/2025,Aprobado,3- Rutina,10:57
+,Externo,RX ANTEBRAZO 2 POSICIONES,Radiología General,CR,000:22:16:43,42,07/07/2025,Aprobado,3- Rutina,11:02
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,,47,07/07/2025,Cancelado por Hospital,1- Prioritario,
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,,55,07/07/2025,Agendado,3- Rutina,
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,,55,07/07/2025,Agendado,3- Rutina,
+,Externo,RX BRAZO 2 POSICIONES,Radiología General,CR,,42,07/07/2025,Agendado,3- Rutina,
+Zurich Seguros,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:04,39,07/07/2025,Aprobado,1- Prioritario,09:39
+Zurich Seguros,Externo,ECO DE ABDOMEN TOTAL,Ultrasonido,US,000:00:42:15,40,08/07/2025,Aprobado,1- Prioritario,10:10
+,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:01:00:01,85,08/07/2025,Aprobado,3- Rutina,12:04
+,Externo,TAC DE CUELLO,Tomografia,CT,003:22:16:07,77,08/07/2025,Aprobado,3- Rutina,12:05
+PROMOCIONES VENTAS DE CONTADO,Externo,MN GAMMAGRAFIA OSEA,Medicina Nuclear,NM,000:00:22:55,64,08/07/2025,Aprobado,3- Rutina,12:04
+,Externo,RX MANO 2 POSICIONES,Radiología General,CR,000:22:21:09,42,08/07/2025,Aprobado,3- Rutina,16:13
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,,55,08/07/2025,Agendado,3- Rutina,
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:07:24:22,55,08/07/2025,Aprobado,3- Rutina,17:37
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,004:00:32:58,80,08/07/2025,Aprobado,3- Rutina,17:49
+ACCIONISTAS/CONSEJEROS CHRISTUS MUGUERZA,Interno,RX HOMBRO 1 POSICION,Radiología General,CR,000:05:30:59,16,08/07/2025,Aprobado,3- Rutina,08:43
+PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:04:53,53,09/07/2025,Aprobado,3- Rutina,08:28
+,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,000:19:37:20,64,09/07/2025,Aprobado,3- Rutina,08:59
+,Externo,ECO PARTES BLANDAS,Ultrasonido,US,000:05:41:12,11,09/07/2025,Aprobado,3- Rutina,09:04
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,001:04:50:10,45,09/07/2025,Aprobado,3- Rutina,10:18
+,Externo,TAC DE SENOS PARANASALES,Tomografia,CT,003:22:35:49,71,09/07/2025,Aprobado,3- Rutina,10:28
+,Externo,TAC DE CRANEO,Tomografia,CT,000:01:30:32,61,09/07/2025,Aprobado,3- Rutina,11:07
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,001:08:56:15,8,09/07/2025,Aprobado,3- Rutina,11:34
+,Externo,RM ABDOMEN TOTAL,Resonancia Magnetica,MR,000:09:08:19,63,09/07/2025,Aprobado,3- Rutina,11:59
+,Externo,PET/CT CUERPO - 68GA-PSMA,PET/CT,PT,003:21:17:05,64,09/07/2025,Aprobado,3- Rutina,13:07
+PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:11:01,53,09/07/2025,Aprobado,3- Rutina,15:26
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:03:39,80,09/07/2025,Aprobado,3- Rutina,15:26
+PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:13:02,21,09/07/2025,Aprobado,3- Rutina,15:55
+PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:11:19,21,09/07/2025,Aprobado,3- Rutina,16:08
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:23:07:12,45,09/07/2025,Aprobado,3- Rutina,17:23
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,003:20:31:26,70,09/07/2025,Aprobado,3- Rutina,17:58
+,Externo,TAC DE CRANEO,Tomografia,CT,,10,09/07/2025,Cancelado por Hospital,3- Rutina,
+MEMBRESIA CHRISTUS MUGUERZA,Urgencia,TAC DE CARA-MACIZO FACIAL,Tomografia,CT,000:02:08:10,20,10/07/2025,Aprobado,1- Prioritario,11:14
+PACIENTE PARTICULAR,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,003:21:47:30,58,10/07/2025,Aprobado,3- Rutina,11:27
+AXA SEGUROS S.A. DE C.V.,Externo,TAC DE CRANEO,Tomografia,CT,000:00:49:07,35,14/07/2025,Aprobado,3- Rutina,12:21
+,Externo,RM ESPECTROSCOPIA,Resonancia Magnetica,MR,001:09:03:23,8,10/07/2025,Aprobado,3- Rutina,12:21
+PROMOCIONES VENTAS DE CONTADO,Externo,MN GAMMAGRAFIA OSEA,Medicina Nuclear,NM,,69,10/07/2025,Iniciado,3- Rutina,
+PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:01:13:08,24,10/07/2025,Aprobado,3- Rutina,13:04
+,Externo,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,000:00:35:40,59,10/07/2025,Aprobado,3- Rutina,16:39
+PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:02:29:54,24,10/07/2025,Aprobado,3- Rutina,17:01
+MEMBRESIA SOCIO CHRISTUS,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:14:52,63,10/07/2025,Aprobado,3- Rutina,18:02
+,Externo,ECO BIOPSIA DE MAMA,Ultrasonido,US,,56,10/07/2025,Agendado,3- Rutina,
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:05:58:05,70,10/07/2025,Aprobado,3- Rutina,18:23
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:05:29:31,83,10/07/2025,Aprobado,3- Rutina,08:11
+,Externo,ECO DOPPLER RENAL,Ultrasonido,US,000:01:33:08,49,11/07/2025,Aprobado,3- Rutina,10:46
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:19:59:22,58,11/07/2025,Aprobado,3- Rutina,12:04
+,Externo,TAC DE CRANEO,Tomografia,CT,,27,11/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,TAC DE CRANEO,Tomografia,CT,003:21:36:36,75,11/07/2025,Aprobado,3- Rutina,12:39
+,Externo,RM ABDOMEN INFERIOR,Resonancia Magnetica,MR,,35,11/07/2025,Agendado,3- Rutina,
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,10,11/07/2025,Agendado,3- Rutina,
+AXA SEGUROS S.A. DE C.V.,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:03:17:57,35,11/07/2025,Aprobado,3- Rutina,09:52
+,Externo,RX FEMUR 4 POSICIONES,Radiología General,CR,000:19:07:02,67,12/07/2025,Aprobado,3- Rutina,09:52
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:22:15:52,63,12/07/2025,Aprobado,3- Rutina,11:37
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:05:16:47,58,12/07/2025,Aprobado,3- Rutina,13:13
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:23:16:59,64,12/07/2025,Aprobado,3- Rutina,13:13
+,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,,64,12/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,DENSITOMETRIA OSEA,Densitometria,OT,000:05:14:48,59,12/07/2025,Aprobado,3- Rutina,13:00
+PREVISION SOCIAL,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:27:11,20,12/07/2025,Aprobado,3- Rutina,14:59
+PREVISION SOCIAL,Externo,RX COLUMNA LUMBAR 2 POSICIONES,Radiología General,CR,000:00:05:04,20,12/07/2025,Aprobado,3- Rutina,15:11
+"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:05:22:16,74,12/07/2025,Aprobado,3- Rutina,18:12
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:44:51,64,12/07/2025,Aprobado,3- Rutina,18:26
+HDI Seguros,Interno,ECO DE HOMBRO,Ultrasonido,US,000:00:10:15,5,12/07/2025,Aprobado,3- Rutina,13:24
+,Externo,UTIL ECO PORTATIL,Ultrasonido,US,,49,13/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,MARCAJE POR MAMO/ECO,Mastografía,US,003:20:55:18,59,14/07/2025,Aprobado,3- Rutina,08:09
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,001:00:38:21,59,14/07/2025,Aprobado,3- Rutina,10:35
+,Externo,TAC DE TORAX,Tomografia,CT,000:03:35:34,34,14/07/2025,Aprobado,3- Rutina,10:12
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,27,14/07/2025,Agendado,3- Rutina,
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,003:20:52:25,75,15/07/2025,Aprobado,3- Rutina,15:04
+PROMOCIONES VENTAS DE CONTADO,Externo,PET/CT CUERPO - 18F-DOPA,PET/CT,PT,,73,14/07/2025,Cancelado por Hospital,3- Rutina,
+PROMOCIONES VENTAS DE CONTADO,Externo,PET/CT CEREBRO - 18F-DOPA,PET/CT,PT,004:01:15:08,73,14/07/2025,Aprobado,3- Rutina,16:45
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:23:33,29,14/07/2025,Aprobado,3- Rutina,17:42
+,Externo,RX PIE 2 POSICIONES,Radiología General,CR,001:06:13:14,75,14/07/2025,Aprobado,3- Rutina,19:45
+,Interno,RX MUÑECA 2 POSICIONES,Radiología General,CR,004:17:37:49,38,14/07/2025,Aprobado,3- Rutina,19:45
+AXA SEGUROS S.A. DE C.V.,Urgencia,ECO PARTES BLANDAS,Ultrasonido,US,000:00:12:27,5,14/07/2025,Aprobado,1- Prioritario,08:16
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:00:38:39,59,15/07/2025,Aprobado,3- Rutina,09:08
+,Externo,RX MUÑECA 2 POSICIONES,Radiología General,CR,003:17:57:01,38,15/07/2025,Aprobado,3- Rutina,09:18
+PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:18:05,89,15/07/2025,Aprobado,2- Urgente,10:14
+HDI Seguros,Interno,ECO DE RODILLA,Ultrasonido,US,000:00:06:03,5,15/07/2025,Aprobado,3- Rutina,09:27
+,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,32,15/07/2025,Cancelado por Hospital,3- Rutina,
+AXA SEGUROS S.A. DE C.V.,Interno,MN GAMMAGRAFIA GANGLIO CENTINELA,Medicina Nuclear,NM,000:00:57:50,59,15/07/2025,Aprobado,3- Rutina,19:01
+,Externo,PET/CT CEREBRO - 18F-DOPA,PET/CT,PT,004:01:25:48,74,15/07/2025,Aprobado,3- Rutina,21:03
+PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:16:45,89,15/07/2025,Aprobado,2- Urgente,08:18
+,Externo,RX MUÑECA 1 POSICION,Radiología General,CR,004:17:35:18,38,16/07/2025,Aprobado,3- Rutina,08:28
+Qualitas,Urgencia,TAC DE CRANEO,Tomografia,CT,000:00:47:52,43,16/07/2025,Aprobado,1- Prioritario,11:28
+"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:14:30,58,16/07/2025,Aprobado,3- Rutina,11:33
+"SINERGIA DEPORTIVA, SA DE CV",Externo,RX TORAX 1 POSICION,Radiología General,CR,000:03:16:02,36,16/07/2025,Aprobado,3- Rutina,12:37
+"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:17:23,58,16/07/2025,Aprobado,3- Rutina,17:36
+,Externo,ECO DE MAMA BILATERAL,Ultrasonido,US,,36,16/07/2025,Agendado,3- Rutina,
+,Externo,TAC DE TORAX,Tomografia,CT,000:02:55:08,46,16/07/2025,Aprobado,3- Rutina,11:42
+,Externo,RM RODILLA,Resonancia Magnetica,MR,003:21:53:19,79,17/07/2025,Aprobado,3- Rutina,11:42
+PROVEEDORA DE SERVICIOS EMPRESARIALES Y SOLUCIONES OPTIMAS,Interno,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:01:05:29,89,17/07/2025,Aprobado,1- Prioritario,16:42
+Qualitas,Urgencia,TAC DE CARA-MACIZO FACIAL,Tomografia,CT,000:00:51:04,43,17/07/2025,Aprobado,1- Prioritario,16:42
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:18:03:10,63,17/07/2025,Aprobado,2- Urgente,20:46
+,Externo,RX ESCOLIOSIS 14X36 4 POSICIONES,Radiología General,CR,003:16:59:48,9,17/07/2025,Aprobado,3- Rutina,07:40
+,Externo,ECO DE RODILLA,Ultrasonido,US,000:00:05:59,16,18/07/2025,Aprobado,3- Rutina,08:10
+,Interno,MAMOGRAFIA UNILATERAL,Mastografía,MG,000:01:28:49,59,18/07/2025,Aprobado,3- Rutina,08:13
+"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:04:08:39,74,18/07/2025,Aprobado,3- Rutina,09:14
+"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Urgencia,TAC ANGIO PULMONAR,Tomografia,CT,000:00:11:39,58,18/07/2025,Aprobado,1- Prioritario,08:20
+HDI Seguros,Interno,RX PELVIS 1 POSICION,Radiología General,CR,000:04:46:09,63,18/07/2025,Aprobado,2- Urgente,08:38
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:20:03:24,5,18/07/2025,Aprobado,3- Rutina,08:38
+HDI Seguros,Interno,RX CRANEO 2 POSICIONES,Radiología General,CR,000:04:35:29,63,18/07/2025,Aprobado,2- Urgente,08:48
+,Externo,ECO DE PELVIS,Ultrasonido,US,000:00:06:54,36,18/07/2025,Aprobado,3- Rutina,08:52
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:00:01:52,48,18/07/2025,Aprobado,3- Rutina,10:07
+"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Urgencia,TAC ANGIO CORAZON-CORONARIAS,Tomografia,CT,,58,18/07/2025,Cancelado por Hospital,1- Prioritario,
+,Externo,RM MUÑECA,Resonancia Magnetica,MR,,30,18/07/2025,Cancelado por Hospital,3- Rutina,
+,Externo,RM RODILLA,Resonancia Magnetica,MR,000:00:27:37,30,18/07/2025,Aprobado,3- Rutina,10:50
+,Externo,RM RODILLA,Resonancia Magnetica,MR,,24,18/07/2025,Agendado,3- Rutina,
+HDI Seguros,Interno,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,,63,18/07/2025,Agendado,2- Urgente,
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:04:43,4,18/07/2025,Aprobado,3- Rutina,15:40
+PACIENTE PARTICULAR,Externo,RX MANO 2 POSICIONES,Radiología General,CR,000:00:26:57,13,18/07/2025,Aprobado,3- Rutina,15:47
+HDI Seguros,Interno,RX COLUMNA CERVICAL 1 POSICION,Radiología General,CR,000:04:20:28,63,18/07/2025,Aprobado,2- Urgente,16:52
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:00:10:57,32,18/07/2025,Aprobado,3- Rutina,19:15
+,Externo,ECO DE REGION INGUINAL,Ultrasonido,US,000:19:55:50,48,18/07/2025,Aprobado,3- Rutina,08:02
+,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,003:18:19:15,65,19/07/2025,Aprobado,3- Rutina,10:26
+,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,003:18:32:21,79,19/07/2025,Aprobado,3- Rutina,10:26
+,Externo,RX RODILLA 2 POSICIONES,Radiología General,CR,000:16:34:00,73,19/07/2025,Aprobado,3- Rutina,10:26
+PACIENTE PARTICULAR,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:01:52,27,19/07/2025,Aprobado,2- Urgente,14:40
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:41,4,19/07/2025,Aprobado,3- Rutina,19:53
+PACIENTE PARTICULAR,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:49:17,27,19/07/2025,Aprobado,2- Urgente,08:27
+HDI Seguros,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:08:08,4,21/07/2025,Aprobado,3- Rutina,08:45
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:01:09:46,79,21/07/2025,Aprobado,3- Rutina,08:56
+,Externo,ECO DE CONTROL CUALQUIER REGION,Ultrasonido,US,000:04:26:59,64,21/07/2025,Aprobado,3- Rutina,08:46
+"NACIONAL MONTE DE PIEDAD, I.A.P.",Interno,ECO DOPPLER RENAL,Ultrasonido,US,000:00:37:15,45,21/07/2025,Aprobado,3- Rutina,10:06
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:22:26:33,58,21/07/2025,Aprobado,3- Rutina,10:30
+,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:21:15:22,48,21/07/2025,Aprobado,3- Rutina,12:21
+,Externo,RM COLANGIO RESONANCIA,Resonancia Magnetica,MR,,79,21/07/2025,Agendado,3- Rutina,
+,Externo,RM RODILLA,Resonancia Magnetica,MR,000:17:56:32,73,21/07/2025,Aprobado,3- Rutina,17:08
+,Externo,RM RODILLA,Resonancia Magnetica,MR,000:00:38:04,18,21/07/2025,Aprobado,3- Rutina,17:08
+,Externo,RX MUÑECA 2 POSICIONES,Radiología General,CR,000:16:33:09,71,21/07/2025,Aprobado,3- Rutina,18:42
+,Urgencia,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:35,5,21/07/2025,Aprobado,1- Prioritario,18:42
+,Externo,RX COLUMNA DORSAL 1 POSICION,Radiología General,CR,000:17:50:04,82,21/07/2025,Aprobado,3- Rutina,19:10
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:35:02,91,21/07/2025,Aprobado,3- Rutina,08:04
+,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:17:40:47,89,22/07/2025,Aprobado,3- Rutina,08:38
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:22:05,58,22/07/2025,Aprobado,3- Rutina,08:51
+HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,003:16:20:01,65,22/07/2025,Aprobado,3- Rutina,09:15
+,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,,24,22/07/2025,Agendado,3- Rutina,
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,,18,22/07/2025,Agendado,3- Rutina,
+,Externo,RX PIE 3 POSICIONES,Radiología General,CR,001:15:56:54,42,22/07/2025,Aprobado,3- Rutina,12:08
+,Externo,RX HOMBRO 1 POSICION,Radiología General,CR,000:14:55:27,62,22/07/2025,Aprobado,3- Rutina,14:19
+HDI Seguros,Interno,ECO PUNCION BIOPSIA,Ultrasonido,US,000:00:01:43,81,22/07/2025,Aprobado,3- Rutina,14:19
+HDI Seguros,Interno,UTIL ECO PORTATIL,Ultrasonido,US,,65,22/07/2025,Agendado,3- Rutina,
+,Externo,MAMOGRAFIA BILATERAL,Mastografía,MG,000:01:07:42,91,22/07/2025,Aprobado,3- Rutina,14:28
+,Externo,TAC DE ABDOMEN TOTAL,Tomografia,CT,001:23:00:54,69,22/07/2025,Aprobado,3- Rutina,14:33
+AXA SEGUROS S.A. DE C.V.,Interno,TAC DE TORAX,Tomografia,CT,001:22:16:11,75,22/07/2025,Aprobado,3- Rutina,14:57
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:15:37:47,48,22/07/2025,Aprobado,3- Rutina,16:33
+,Externo,RM HOMBRO,Resonancia Magnetica,MR,000:02:36:14,62,22/07/2025,Aprobado,3- Rutina,10:00
+,Externo,DENSITOMETRIA OSEA,Densitometria,OT,000:04:23:03,58,23/07/2025,Aprobado,3- Rutina,10:47
+,Externo,ECO COMPLEMENTO MAMO BILATERAL,Ultrasonido,US,000:01:09:25,91,23/07/2025,Aprobado,3- Rutina,10:47
+PACIENTE PARTICULAR,Externo,TAC DE PELVIS-CADERA,Tomografia,CT,003:17:10:35,85,23/07/2025,Aprobado,3- Rutina,11:54
+,Externo,TAC DE TORAX,Tomografia,CT,000:00:15:38,58,23/07/2025,Aprobado,3- Rutina,14:38
+PACIENTE PARTICULAR,Urgencia,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:00:21:21,27,23/07/2025,Aprobado,1- Prioritario,15:48
+,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:16:00:03,73,23/07/2025,Aprobado,3- Rutina,17:35
+"PLAN SEGURO S.A. DE C.V., COMPAÑIA DE SEGUROS",Interno,RX DEDOS DE MANO MULTIVISTA,Radiología General,CR,000:00:10:49,25,23/07/2025,Aprobado,3- Rutina,10:52
+,Interno,ECO DE CUELLO,Ultrasonido,US,000:21:22:42,75,24/07/2025,Aprobado,3- Rutina,10:52
+"SEGUROS ATLAS, S.A.",Interno,TAC DE CRANEO,Tomografia,CT,000:00:54:33,0,24/07/2025,Aprobado,3- Rutina,14:31
+,Externo,RM AMBAS CADERAS,Resonancia Magnetica,MR,002:21:33:37,51,24/07/2025,Aprobado,3- Rutina,18:51
+,Externo,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:22:02:47,19,24/07/2025,Aprobado,3- Rutina,18:51
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:04,81,24/07/2025,Aprobado,3- Rutina,19:27
+PACIENTE PARTICULAR,Interno,TAC DE TORAX,Tomografia,CT,000:00:09:52,27,24/07/2025,Aprobado,1- Prioritario,09:25
+,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:01:49:41,58,25/07/2025,Aprobado,3- Rutina,09:36
+HDI Seguros,Interno,RX CODO 2 POSICIONES,Radiología General,CR,000:00:22:01,2,25/07/2025,Aprobado,3- Rutina,09:36
+,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:24:50,58,25/07/2025,Aprobado,3- Rutina,10:15
+,Externo,ECO DE RIÑONES Y VIAS URINARIAS,Ultrasonido,US,000:01:29:15,66,25/07/2025,Aprobado,3- Rutina,10:15
+PACIENTE PARTICULAR,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:00:00:38,31,25/07/2025,Aprobado,3- Rutina,11:06
+HDI Seguros,Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:02:14:15,59,25/07/2025,Aprobado,3- Rutina,12:45
+Qualitas,Interno,UTIL FLUORO PRIMEROS 60 MINUTOS.,Radiología General,CR,000:00:18:21,28,25/07/2025,Aprobado,3- Rutina,16:56
+,Externo,RX MANO 1 POSICION,Radiología General,CR,000:00:23:40,10,25/07/2025,Aprobado,3- Rutina,18:14
+,Externo,RX PELVIS 1 POSICION,Radiología General,CR,000:00:31:52,12,25/07/2025,Aprobado,3- Rutina,19:07
+AXA SEGUROS S.A. DE C.V.,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:12:06,3,25/07/2025,Aprobado,3- Rutina,19:20
+,Externo,RX MED MIEMBROS EJE MECANICO,Radiología General,CR,000:00:30:03,12,25/07/2025,Aprobado,3- Rutina,09:59
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:12:31,59,26/07/2025,Aprobado,3- Rutina,09:59
+AXA SEGUROS S.A. DE C.V.,Urgencia,ECO DE PARED ABDOMINAL,Ultrasonido,US,000:00:07:13,30,26/07/2025,Aprobado,1- Prioritario,11:02
+AXA SEGUROS S.A. DE C.V.,Urgencia,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:00:33:12,60,26/07/2025,Aprobado,1- Prioritario,11:13
+,Externo,RM COLUMNA LUMBAR,Resonancia Magnetica,MR,000:13:35:22,54,26/07/2025,Aprobado,3- Rutina,11:13
+,Externo,RM CRANEO O CEREBRO,Resonancia Magnetica,MR,000:00:31:40,19,26/07/2025,Aprobado,3- Rutina,13:31
+AXA SEGUROS S.A. DE C.V.,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:00:36:01,3,26/07/2025,Aprobado,3- Rutina,13:31
+,Externo,RX PIE 4 POSICIONES,Radiología General,CR,006:16:49:37,12,26/07/2025,Aprobado,3- Rutina,08:43
+,Externo,ECO DOPPLER ESCROTO,Ultrasonido,US,000:13:22:53,36,28/07/2025,Aprobado,3- Rutina,09:03
+PACIENTE PARTICULAR,Interno,UTIL FLUORO HASTA 30 MINUTOS.,Radiología General,CR,000:00:00:53,31,28/07/2025,Aprobado,3- Rutina,10:11
+,Externo,RX CRANEO 1 POSICION,Radiología General,CR,000:00:26:19,23,28/07/2025,Aprobado,3- Rutina,10:11
+PACIENTE PARTICULAR,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:01:32,31,28/07/2025,Aprobado,3- Rutina,10:47
+,Externo,RX COLUMNA CERVICAL 2 POSICIONES,Radiología General,CR,000:00:22:32,23,28/07/2025,Aprobado,3- Rutina,13:54
+PACIENTE PARTICULAR,Interno,RX RODILLA 2 POSICIONES,Radiología General,CR,000:00:18:37,31,28/07/2025,Aprobado,3- Rutina,13:54
+Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:12:12:01,59,28/07/2025,Aprobado,2- Urgente,20:42
+,Interno,TAC COMPLEMENTO,Tomografia,CT,000:01:28:51,60,28/07/2025,Aprobado,3- Rutina,20:54
+HDI Seguros,Interno,RX DEDOS DE MANO MULTIVISTA,Radiología General,CR,000:00:19:32,4,28/07/2025,Aprobado,3- Rutina,08:12
+,Externo,RX HOMBRO 1 POSICION,Radiología General,CR,000:00:42:35,42,29/07/2025,Aprobado,3- Rutina,09:01
+,Externo,ECO DOPPLER VENOSO EXT INF,Ultrasonido,US,,58,29/07/2025,Descontinuado,3- Rutina,
+HDI Seguros,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:06:51:58,49,29/07/2025,Aprobado,3- Rutina,09:43
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:08:10:38,49,29/07/2025,Aprobado,3- Rutina,10:07
+,Externo,RX TORAX 1 POSICION,Radiología General,CR,000:00:08:03,50,29/07/2025,Aprobado,3- Rutina,10:07
+Qualitas,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:03:08:25,0,29/07/2025,Aprobado,3- Rutina,11:13
+,Externo,TAC DE HOMBRO,Tomografia,CT,000:01:22:05,42,29/07/2025,Aprobado,3- Rutina,19:37
+Qualitas,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:00:05:25,0,29/07/2025,Aprobado,3- Rutina,19:48
+HDI Seguros,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:03:05:50,41,29/07/2025,Aprobado,2- Urgente,08:27
+,Externo,RM HOMBRO,Resonancia Magnetica,MR,000:01:35:38,26,30/07/2025,Aprobado,3- Rutina,08:37
+HDI Seguros,Interno,TAC EXPLORACION ABDOMINAL,Tomografia,CT,000:02:38:11,41,30/07/2025,Aprobado,2- Urgente,08:53
+Mapfre México,Interno,UTIL EQUIPO PORTATIL RX,Radiología General,CR,000:06:51:46,4,30/07/2025,Aprobado,3- Rutina,09:00
+Mapfre México,Interno,RX TORAX 1 POSICION,Radiología General,CR,000:07:10:55,4,30/07/2025,Aprobado,3- Rutina,09:21
+"SEGUROS VE POR MAS, S.A. GRUPO FINANCIERO VE POR MAS",Interno,TAC DE ABDOMEN TOTAL,Tomografia,CT,000:01:38:19,64,30/07/2025,Aprobado,3- Rutina,10:01
+,Externo,TAC COMPLEMENTO,Tomografia,CT,000:01:00:07,41,30/07/2025,Aprobado,3- Rutina,09:59
+Qualitas,Urgencia,RM COLUMNA CERVICAL,Resonancia Magnetica,MR,000:00:27:02,43,30/07/2025,Aprobado,1- Prioritario,10:29
+Qualitas,Urgencia,RM ANGIO CRANEO O CEREBRO,Resonancia Magnetica,MR,000:04:23:43,43,30/07/2025,Aprobado,1- Prioritario,11:20
