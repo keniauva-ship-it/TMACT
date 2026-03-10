@@ -19,7 +19,7 @@ user_id,product_id,product_name,brand,category,price,rating,color
 15,18,throw pillows,Gucci,Women's Fashion,73,4.498244681,Red
 84,19,cookware set,Kitchenware,Home & Furniture,451.49,3.278340556,White
 56,20,adidas tracksuit,Gucci,Men's Fashion,53,3.785245245,Green
-87,21,storage rack,H&M,Men's Fashion,56,2.609587353,Yellow
+87,21,sony bravia tv,Electronics,Men's Fashion,56,2.609587353,Yellow
 56,22,levi's jeans,Gucci,Women's Fashion,89,4.568632343,Green
 60,23,gap hoodie,Zara,Kids' Fashion,91,4.072724797,Yellow
 64,24,samsung galaxy tab,Zara,Women's Fashion,15,2.499756274,Yellow
@@ -434,7 +434,7 @@ user_id,product_id,product_name,brand,category,price,rating,color
 10,433,belt,H&M,Men's Fashion,59,3.87845411,Yellow
 44,434,power bank,Zara,Kids' Fashion,22,1.705658206,Yellow
 46,435,dell xps 13,Adidas,Men's Fashion,47,2.722706085,Blue
-27,436,wall art,Zara,Kids' Fashion,99,2.822618311,Black
+27,436,ikea sofa,,Home & Furniture,760.04,2.822618311,Black
 9,437,dining table set,Gucci,Men's Fashion,96,3.129701671,Green
 89,438,lenovo thinkpad,Adidas,Kids' Fashion,86,4.685958152,Yellow
 71,439,timberland boots,Zara,Men's Fashion,20,2.574077979,White
@@ -699,7 +699,7 @@ user_id,product_id,product_name,brand,category,price,rating,color
 82,698,sunglasses,Zara,Men's Fashion,85,1.804396765,White
 52,699,crocs,Adidas,Men's Fashion,50,1.653623132,Green
 96,700,instant pot,H&M,Women's Fashion,78,4.824649275,Yellow
-34,701,tempur-pedic mattress,Nike,Women's Fashion,17,2.258849245,Blue
+34,701,ipad pro,Tablets,Electronics,782.51,2.258849245,Blue
 46,702,lg oled tv,Gucci,Kids' Fashion,58,4.794781603,Blue
 27,703,nike running shoes,Gucci,Men's Fashion,21,3.425180331,Blue
 6,704,throw pillows,Adidas,Kids' Fashion,38,4.979678294,Green
@@ -859,7 +859,7 @@ user_id,product_id,product_name,brand,category,price,rating,color
 64,858,apple iphone 14,Zara,Kids' Fashion,96,4.451841229,Yellow
 48,859,ashley recliner,Adidas,Women's Fashion,44,1.400216676,Red
 75,860,closet organizer,Nike,Kids' Fashion,43,4.027847422,Blue
-60,861,kitchenaid mixer,Gucci,Men's Fashion,98,4.660135925,White
+60,861,backpack,,Accessories,176.45,4.660135925,White
 61,862,old navy dress,Adidas,Kids' Fashion,14,1.578920563,Blue
 49,863,wallet,Gucci,Men's Fashion,99,1.433025224,Red
 22,864,tote bag,Nike,Men's Fashion,48,3.940945968,Yellow
