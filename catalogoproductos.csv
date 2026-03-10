@@ -1,1001 +1,1001 @@
-user_id,product_id,product_name,brand,category,price,rating,color,size
-19,1,Dress,Adidas,Men's Fashion,40,1.0431592108361825,Black,XL
-97,2,Shoes,H&M,Women's Fashion,82,4.026416271141911,Black,L
-25,3,Dress,Adidas,Women's Fashion,44,3.337937559377053,Yellow,XL
-57,4,Shoes,Zara,Men's Fashion,23,1.0495229563128543,White,S
-79,5,T-shirt,Adidas,Men's Fashion,79,4.302773408398684,Black,M
-98,6,Dress,Adidas,Men's Fashion,47,1.3795657395330458,Yellow,L
-16,7,Jeans,Gucci,Men's Fashion,37,1.3567503746842564,White,XL
-63,8,Sweater,Zara,Kids' Fashion,64,4.36030328941572,Blue,XL
-96,9,Sweater,H&M,Men's Fashion,53,4.466181876278437,Green,XL
-36,10,T-shirt,Zara,Kids' Fashion,55,4.093234402033421,White,XL
-69,11,T-shirt,Adidas,Men's Fashion,51,1.1609879573062742,Red,S
-87,12,Sweater,Gucci,Kids' Fashion,91,2.699735537578599,Yellow,M
-9,13,Jeans,Nike,Kids' Fashion,35,1.6011935800534172,Red,M
-50,14,Dress,Zara,Women's Fashion,34,2.921004203947349,White,L
-31,15,Shoes,Zara,Men's Fashion,54,3.670412239336502,Yellow,M
-37,16,Dress,Adidas,Women's Fashion,27,1.4227161428043575,Blue,S
-41,17,Dress,Gucci,Women's Fashion,75,1.4806321322978917,Blue,XL
-15,18,Jeans,Gucci,Women's Fashion,73,4.498244680519686,Red,XL
-84,19,Shoes,Gucci,Women's Fashion,54,3.278340556246379,White,M
-56,20,Dress,Gucci,Men's Fashion,53,3.7852452454057937,Green,L
-87,21,Jeans,H&M,Men's Fashion,56,2.6095873530986724,Yellow,S
-56,22,Jeans,Gucci,Women's Fashion,89,4.568632342868542,Green,L
-60,23,Jeans,Zara,Kids' Fashion,91,4.072724797078319,Yellow,M
-64,24,Jeans,Zara,Women's Fashion,15,2.499756273932044,Yellow,XL
-65,25,Sweater,H&M,Kids' Fashion,38,1.020492671359242,Green,S
-26,26,Dress,Gucci,Women's Fashion,21,4.748169005039641,Green,S
-82,27,T-shirt,Adidas,Kids' Fashion,72,3.3017434083754096,Red,L
-87,28,Shoes,Zara,Women's Fashion,32,2.822802859802248,Yellow,L
-98,29,Shoes,Gucci,Women's Fashion,85,4.9409852209868586,Yellow,M
-20,30,Sweater,Nike,Kids' Fashion,99,3.110113572581459,Green,XL
-36,31,Jeans,H&M,Kids' Fashion,37,2.755187148705766,Blue,S
-98,32,T-shirt,Nike,Kids' Fashion,78,3.4472894702794954,White,XL
-69,33,Jeans,H&M,Kids' Fashion,89,4.799409018709708,Green,XL
-31,34,Jeans,H&M,Men's Fashion,80,3.9232611597712266,Black,S
-48,35,Jeans,Zara,Women's Fashion,37,4.173991567921782,Blue,L
-18,36,Dress,H&M,Kids' Fashion,74,1.0149961280920143,Green,S
-27,37,Sweater,Zara,Kids' Fashion,48,4.94766478278459,Blue,S
-60,38,T-shirt,Nike,Kids' Fashion,76,2.663067923739062,Yellow,S
-46,39,Jeans,Adidas,Men's Fashion,90,1.788771519300072,Yellow,M
-84,40,Dress,Zara,Women's Fashion,26,2.4356113364040395,Black,XL
-43,41,Jeans,Gucci,Women's Fashion,40,2.922173645847821,Blue,L
-43,42,Shoes,Zara,Kids' Fashion,43,1.6719588858059065,Red,S
-91,43,T-shirt,Adidas,Men's Fashion,39,3.601868546646005,White,M
-78,44,Jeans,Nike,Kids' Fashion,74,2.039156739091348,White,M
-60,45,Jeans,Gucci,Women's Fashion,85,4.886711103488975,Red,L
-44,46,Dress,Zara,Men's Fashion,38,2.82786983124548,Yellow,XL
-93,47,Jeans,Zara,Men's Fashion,62,1.2807316864746534,Green,S
-74,48,T-shirt,Gucci,Kids' Fashion,10,1.836963965888568,Green,M
-19,49,Sweater,Gucci,Kids' Fashion,52,3.01224078565306,Green,XL
-98,50,T-shirt,H&M,Women's Fashion,38,3.0832859328181086,Blue,L
-51,51,Jeans,Adidas,Women's Fashion,67,3.8429900228918754,Yellow,XL
-80,52,Dress,Nike,Kids' Fashion,59,3.964195137772806,Red,S
-39,53,T-shirt,Nike,Men's Fashion,16,1.2923199695786125,Red,M
-33,54,Shoes,H&M,Men's Fashion,33,2.450522629395141,Blue,S
-78,55,Sweater,Adidas,Kids' Fashion,76,2.820647079283965,Red,S
-24,56,Dress,Nike,Women's Fashion,53,2.251328486675961,White,XL
-99,57,Sweater,Adidas,Women's Fashion,52,3.613136293174617,Red,M
-83,58,Shoes,Adidas,Women's Fashion,61,1.6845413743576394,White,L
-38,59,Dress,Nike,Kids' Fashion,93,3.158493604214389,Blue,M
-51,60,Shoes,H&M,Kids' Fashion,24,1.590713070216225,Yellow,XL
-63,61,Shoes,Adidas,Women's Fashion,25,1.042408820147689,Yellow,M
-54,62,T-shirt,Nike,Men's Fashion,66,2.063108734779856,Blue,L
-53,63,Jeans,Zara,Kids' Fashion,55,4.026271065991512,White,L
-50,64,Shoes,Gucci,Kids' Fashion,72,1.7792107858467734,Red,M
-6,65,Shoes,H&M,Kids' Fashion,33,3.045016002595004,Yellow,XL
-87,66,Sweater,H&M,Kids' Fashion,59,4.550917310052925,Red,XL
-84,67,Jeans,Gucci,Women's Fashion,41,4.251683238918625,Green,M
-43,68,T-shirt,Gucci,Women's Fashion,76,4.3049362401792095,Red,S
-3,69,Sweater,Gucci,Women's Fashion,74,3.666667399691832,Yellow,M
-6,70,Dress,Gucci,Women's Fashion,36,2.538600852160797,Yellow,M
-15,71,Sweater,Adidas,Women's Fashion,35,4.864999297666657,White,M
-94,72,T-shirt,H&M,Women's Fashion,51,2.7936258074198936,Yellow,M
-98,73,T-shirt,Gucci,Men's Fashion,34,2.9239820574485926,Red,M
-6,74,Dress,Zara,Women's Fashion,68,2.8808081878968665,White,XL
-42,75,Dress,H&M,Women's Fashion,86,2.889443699732862,Blue,S
-54,76,Jeans,Adidas,Women's Fashion,39,2.9741393146980504,Black,XL
-37,77,Sweater,H&M,Kids' Fashion,90,2.2282631651177525,Blue,L
-9,78,T-shirt,Nike,Men's Fashion,76,1.2972571933246568,White,XL
-26,79,T-shirt,Nike,Men's Fashion,11,1.3334220867175706,Red,L
-71,80,Jeans,Nike,Kids' Fashion,21,2.938056289633595,Red,XL
-72,81,T-shirt,Nike,Women's Fashion,66,2.403440001805281,Green,S
-100,82,Dress,H&M,Kids' Fashion,31,4.612706002521094,Blue,S
-69,83,Shoes,Nike,Women's Fashion,49,1.421790366569129,Blue,L
-19,84,Sweater,Adidas,Women's Fashion,42,2.5601740446118324,Red,L
-84,85,Shoes,Nike,Women's Fashion,89,1.107632847390418,Yellow,XL
-4,86,Sweater,Zara,Men's Fashion,50,3.276221602515569,Yellow,M
-21,87,Shoes,Nike,Men's Fashion,41,4.126941613678208,Red,S
-85,88,Dress,Nike,Kids' Fashion,61,2.5578921317942567,White,L
-10,89,Dress,Gucci,Men's Fashion,66,3.896436962470069,White,L
-2,90,Jeans,H&M,Men's Fashion,37,3.961592462639102,Red,XL
-90,91,Jeans,H&M,Kids' Fashion,85,3.0525558220725157,Green,XL
-6,92,Jeans,Adidas,Men's Fashion,100,1.8450713044064728,White,M
-33,93,Shoes,Nike,Men's Fashion,70,4.928128215414036,White,S
-12,94,Shoes,Zara,Women's Fashion,21,3.941875648194909,Yellow,XL
-62,95,Shoes,Gucci,Women's Fashion,58,1.971525134654164,Blue,S
-22,96,Dress,Gucci,Women's Fashion,30,4.655251630403741,Red,L
-18,97,Jeans,Gucci,Men's Fashion,52,3.7618905512261382,Green,L
-44,98,Sweater,Gucci,Kids' Fashion,61,4.277089915641023,Black,XL
-25,99,Shoes,Nike,Kids' Fashion,93,4.280090724853463,Yellow,L
-79,100,Shoes,Adidas,Kids' Fashion,84,1.83719942156349,Red,L
-52,101,Jeans,Zara,Women's Fashion,95,1.5017542710399447,Green,XL
-71,102,Sweater,Gucci,Kids' Fashion,19,4.211889573000041,Red,S
-57,103,Jeans,Zara,Women's Fashion,84,3.6491707147745664,White,XL
-64,104,Jeans,H&M,Men's Fashion,24,4.737257324597893,White,M
-35,105,Jeans,Zara,Women's Fashion,52,1.7509311602979163,Yellow,L
-63,106,Jeans,H&M,Kids' Fashion,21,2.726230340988483,Red,L
-19,107,Sweater,Zara,Men's Fashion,23,3.3213469284575607,Red,L
-80,108,Sweater,Gucci,Men's Fashion,13,4.278042968142891,Green,L
-77,109,Jeans,Nike,Kids' Fashion,73,2.72765960082044,Black,XL
-22,110,Sweater,Gucci,Women's Fashion,33,4.665058098805442,Blue,XL
-99,111,Shoes,Zara,Women's Fashion,55,2.3936845906950563,Green,M
-92,112,Jeans,Adidas,Men's Fashion,15,2.446269480365057,White,S
-97,113,T-shirt,Zara,Men's Fashion,60,1.1884917976998357,White,L
-48,114,Shoes,H&M,Men's Fashion,37,1.457139593656438,Red,M
-37,115,Dress,Adidas,Kids' Fashion,64,2.8878066008190664,Blue,L
-77,116,Shoes,Adidas,Women's Fashion,60,3.114797145238716,Green,M
-52,117,Dress,Zara,Kids' Fashion,75,3.992174604280839,White,M
-63,118,Dress,Adidas,Men's Fashion,71,3.5173157730835607,Yellow,S
-10,119,Jeans,Nike,Men's Fashion,73,2.657925071165124,Yellow,S
-77,120,T-shirt,H&M,Men's Fashion,12,2.5073106927358912,Green,M
-95,121,T-shirt,Gucci,Men's Fashion,96,1.6339895968292044,Red,M
-90,122,Sweater,H&M,Women's Fashion,36,4.425129581852593,Blue,XL
-80,123,Sweater,Nike,Women's Fashion,65,2.6473934151433265,Yellow,L
-65,124,Sweater,H&M,Men's Fashion,62,1.0908131501294354,Black,L
-56,125,Sweater,H&M,Kids' Fashion,56,4.139373022505058,Green,L
-65,126,T-shirt,Nike,Kids' Fashion,55,4.851703509210904,Green,M
-7,127,Shoes,Zara,Women's Fashion,47,4.86740352988641,Yellow,M
-100,128,T-shirt,H&M,Women's Fashion,61,2.3104939634166746,Green,M
-70,129,T-shirt,Zara,Women's Fashion,85,2.1043220072345936,Yellow,M
-40,130,Shoes,Nike,Women's Fashion,81,1.0219724847287694,Green,M
-70,131,T-shirt,H&M,Men's Fashion,50,3.3774933674823044,Blue,M
-100,132,Sweater,Adidas,Women's Fashion,10,2.9977013284756358,White,M
-29,133,Shoes,H&M,Kids' Fashion,28,1.6645424017858694,Blue,XL
-23,134,Sweater,Zara,Women's Fashion,60,3.6336515298115786,Yellow,S
-94,135,Dress,Adidas,Kids' Fashion,14,3.654703012504208,Blue,L
-34,136,Shoes,Zara,Men's Fashion,45,1.0176547429590834,Blue,XL
-44,137,Dress,Gucci,Kids' Fashion,90,3.3205086094093903,Green,S
-16,138,Dress,H&M,Women's Fashion,23,1.8115782608758957,Yellow,S
-73,139,Sweater,Gucci,Women's Fashion,45,3.540081866561004,Blue,XL
-54,140,Shoes,Zara,Kids' Fashion,40,2.022643002946769,Green,M
-58,141,Jeans,Nike,Women's Fashion,28,4.441575547962888,Yellow,L
-46,142,Shoes,Nike,Men's Fashion,38,4.4039323943697415,White,XL
-88,143,Shoes,Gucci,Women's Fashion,81,4.922934883340847,White,L
-75,144,Shoes,Adidas,Kids' Fashion,57,1.000967235428064,Blue,M
-34,145,T-shirt,Zara,Kids' Fashion,60,4.821956688936054,Green,S
-75,146,Shoes,Adidas,Women's Fashion,53,3.4663879810046567,Yellow,M
-54,147,Shoes,Gucci,Kids' Fashion,48,2.582393026142008,Green,L
-39,148,Shoes,Adidas,Women's Fashion,82,2.716311659141037,Black,L
-95,149,Jeans,Adidas,Women's Fashion,56,4.001270462281135,Green,M
-67,150,T-shirt,Nike,Women's Fashion,43,1.1973307228303791,Green,M
-5,151,Shoes,Adidas,Men's Fashion,77,2.352064140181953,Blue,M
-31,152,Jeans,Nike,Men's Fashion,71,4.815682355275902,Green,S
-2,153,Shoes,Nike,Kids' Fashion,31,1.946292675520497,Black,S
-51,154,Dress,Zara,Men's Fashion,11,2.3012246310106845,Blue,L
-91,155,T-shirt,Gucci,Women's Fashion,48,2.433795361947496,White,L
-92,156,T-shirt,Adidas,Women's Fashion,21,1.1541873635251334,Red,L
-39,157,Dress,Adidas,Women's Fashion,67,3.981751297528464,Yellow,S
-99,158,Shoes,Adidas,Men's Fashion,88,2.923330927137081,Blue,M
-10,159,Jeans,Nike,Kids' Fashion,50,2.241727301168485,Green,S
-46,160,Shoes,Gucci,Women's Fashion,35,2.983802720525209,Black,L
-80,161,Sweater,Adidas,Women's Fashion,67,4.735471556646834,Blue,M
-40,162,T-shirt,Nike,Women's Fashion,48,2.9816414902965587,Red,L
-18,163,Dress,Nike,Women's Fashion,93,4.268027667457275,Green,S
-16,164,T-shirt,Nike,Men's Fashion,68,2.6365948985682017,Red,L
-34,165,Jeans,Gucci,Women's Fashion,67,2.275472954296478,White,XL
-100,166,Sweater,Adidas,Kids' Fashion,96,4.743823985146882,White,L
-92,167,Shoes,Zara,Kids' Fashion,43,4.478061369681752,Blue,S
-54,168,Sweater,Gucci,Women's Fashion,69,4.456580598642312,Green,XL
-62,169,Shoes,Zara,Men's Fashion,98,1.0894623247655315,Black,XL
-50,170,Sweater,Gucci,Men's Fashion,20,3.46519259419596,Yellow,M
-24,171,Jeans,Nike,Men's Fashion,42,1.7678665213854097,Blue,S
-13,172,Jeans,Zara,Women's Fashion,32,4.795455839373563,Yellow,M
-98,173,Dress,Nike,Kids' Fashion,21,3.1017985541636333,Yellow,S
-82,174,Jeans,Adidas,Kids' Fashion,80,3.3345388723020903,Black,M
-48,175,Dress,Adidas,Men's Fashion,55,1.9132709342103411,Blue,S
-59,176,Dress,H&M,Kids' Fashion,91,1.9981481322231769,Red,XL
-56,177,Sweater,Nike,Kids' Fashion,12,4.567658316917139,Yellow,M
-93,178,Jeans,Nike,Women's Fashion,26,1.6878695946892217,Red,XL
-54,179,Shoes,Adidas,Kids' Fashion,53,1.0283230598341992,Blue,M
-61,180,T-shirt,Zara,Kids' Fashion,43,2.366447234139604,Green,M
-74,181,Shoes,H&M,Kids' Fashion,80,4.829054628124489,Black,L
-39,182,Jeans,Zara,Men's Fashion,68,4.358912644717576,Yellow,L
-20,183,Jeans,Zara,Kids' Fashion,67,2.6752319584021422,Black,M
-67,184,Sweater,Zara,Women's Fashion,67,3.4485275944733207,Green,L
-38,185,Sweater,Gucci,Men's Fashion,34,1.5653542085362844,Yellow,L
-16,186,Jeans,Adidas,Men's Fashion,56,2.434972507006948,Blue,L
-81,187,Jeans,Zara,Women's Fashion,36,3.043009202558116,Green,S
-33,188,Shoes,Nike,Men's Fashion,44,4.359929898806648,Green,XL
-55,189,Jeans,Adidas,Women's Fashion,15,3.4669204388660257,Blue,L
-38,190,Sweater,Zara,Kids' Fashion,32,4.0330690744184015,Yellow,XL
-48,191,T-shirt,Gucci,Kids' Fashion,95,3.23067766700609,Black,M
-35,192,Sweater,Zara,Kids' Fashion,87,3.961569667170701,White,L
-8,193,T-shirt,H&M,Women's Fashion,60,2.936956138973573,White,L
-56,194,Sweater,Adidas,Women's Fashion,92,3.792556244059596,White,S
-32,195,Shoes,Zara,Kids' Fashion,60,3.3448666838230343,White,L
-72,196,Jeans,Gucci,Kids' Fashion,17,1.289426341691518,Red,M
-48,197,Jeans,Nike,Kids' Fashion,90,2.2990341257073896,Yellow,XL
-3,198,T-shirt,Zara,Men's Fashion,67,3.0321248414792685,Blue,XL
-39,199,T-shirt,Zara,Women's Fashion,15,4.9806556343987305,Black,M
-75,200,Sweater,H&M,Men's Fashion,45,4.1244272181603385,Black,S
-21,201,Jeans,Zara,Women's Fashion,57,4.246084616936485,Yellow,M
-84,202,Sweater,Nike,Men's Fashion,40,3.4955016049008285,Green,S
-53,203,Jeans,Zara,Women's Fashion,75,1.876204845276109,Yellow,S
-3,204,T-shirt,Zara,Kids' Fashion,81,1.8932431699654888,Black,M
-41,205,T-shirt,H&M,Men's Fashion,73,2.9765631054892503,Yellow,XL
-64,206,Jeans,Nike,Kids' Fashion,56,4.360464130624948,Yellow,XL
-30,207,Sweater,Gucci,Kids' Fashion,53,2.7895407951799887,Black,M
-9,208,Jeans,Zara,Men's Fashion,79,2.6711519717692216,White,M
-88,209,Dress,H&M,Women's Fashion,30,1.0286698782988175,Black,XL
-36,210,Jeans,Adidas,Women's Fashion,42,2.0490395950433924,Yellow,M
-6,211,Jeans,Zara,Women's Fashion,50,3.1738270630273906,Green,L
-24,212,T-shirt,Adidas,Women's Fashion,71,3.4395524353488987,White,S
-76,213,Jeans,Zara,Women's Fashion,80,4.860237045131733,Yellow,XL
-59,214,Dress,Adidas,Women's Fashion,98,1.793905201234702,Yellow,XL
-49,215,T-shirt,Adidas,Men's Fashion,49,3.623237714218981,Yellow,S
-87,216,Shoes,Gucci,Kids' Fashion,57,3.8824504946813096,White,M
-7,217,Sweater,Gucci,Women's Fashion,98,1.438125731490036,Yellow,S
-94,218,Sweater,Gucci,Men's Fashion,69,3.077033065769013,Red,M
-78,219,Dress,H&M,Women's Fashion,97,1.9688359670657716,Green,S
-35,220,T-shirt,H&M,Kids' Fashion,42,4.505382327331914,Blue,L
-68,221,T-shirt,Adidas,Men's Fashion,49,2.8591785457881453,Black,L
-77,222,Dress,Adidas,Kids' Fashion,36,1.1053187388647334,Yellow,S
-33,223,Jeans,Gucci,Women's Fashion,73,2.970808688030995,White,XL
-48,224,T-shirt,Adidas,Women's Fashion,88,1.7486279574238806,White,L
-46,225,Dress,Nike,Men's Fashion,61,1.6351942155874275,Yellow,S
-6,226,Sweater,H&M,Men's Fashion,16,2.431736481815157,Green,XL
-44,227,Dress,Adidas,Kids' Fashion,20,4.144274439239306,Red,S
-66,228,Shoes,H&M,Men's Fashion,15,1.967415572178569,Green,S
-81,229,Shoes,Adidas,Kids' Fashion,65,1.8233129054424029,Red,XL
-96,230,Shoes,Zara,Men's Fashion,82,4.592905503612744,Black,S
-92,231,Dress,Zara,Women's Fashion,33,4.738404627787549,Red,L
-93,232,Jeans,Zara,Men's Fashion,49,1.414358499717263,Red,S
-79,233,Shoes,Nike,Kids' Fashion,39,4.706320333423921,Red,M
-64,234,Sweater,H&M,Kids' Fashion,55,1.6990521973140904,White,S
-61,235,Shoes,Zara,Women's Fashion,50,1.8145301271666143,Green,L
-40,236,Shoes,Zara,Men's Fashion,44,1.7182978589840951,White,S
-68,237,Shoes,Adidas,Men's Fashion,58,3.6620106291965024,White,S
-10,238,Shoes,Adidas,Kids' Fashion,47,2.146848905757285,White,XL
-33,239,Shoes,Gucci,Kids' Fashion,93,3.956210591357851,White,L
-27,240,Dress,H&M,Men's Fashion,10,2.2345268528513578,Black,L
-55,241,Jeans,Gucci,Men's Fashion,21,2.404954172174892,Green,S
-72,242,Dress,H&M,Men's Fashion,52,4.128792274336508,Green,M
-88,243,Shoes,H&M,Men's Fashion,79,1.0593185895156374,White,XL
-77,244,Sweater,Zara,Women's Fashion,85,3.474621900383424,Blue,XL
-27,245,Dress,H&M,Women's Fashion,15,2.333669709673072,Black,S
-89,246,Jeans,Gucci,Kids' Fashion,68,3.184283802094046,Green,S
-32,247,Shoes,Zara,Women's Fashion,72,2.2601921989303704,White,S
-83,248,Sweater,Zara,Kids' Fashion,81,3.616173282778204,Red,M
-34,249,Jeans,H&M,Kids' Fashion,41,1.8756187142979173,Black,XL
-68,250,Dress,H&M,Women's Fashion,21,2.7725214471034425,Yellow,XL
-46,251,Jeans,Gucci,Kids' Fashion,87,2.1932834273658703,White,L
-43,252,Dress,H&M,Men's Fashion,25,1.659000334748932,Blue,L
-65,253,T-shirt,Zara,Kids' Fashion,98,4.23682985311631,White,M
-20,254,Jeans,Gucci,Kids' Fashion,15,1.393034744449516,Yellow,L
-74,255,T-shirt,H&M,Kids' Fashion,81,2.550519354071389,Green,M
-33,256,Jeans,Gucci,Kids' Fashion,86,2.0597694144917424,Blue,L
-38,257,Shoes,Nike,Women's Fashion,82,3.481409233178037,Red,S
-86,258,Dress,Gucci,Women's Fashion,14,3.563482805805457,Yellow,S
-44,259,Shoes,Nike,Men's Fashion,27,2.504419165241355,White,L
-34,260,Dress,Adidas,Kids' Fashion,59,4.154888891923636,Green,S
-50,261,Dress,Zara,Men's Fashion,49,2.9810815810545708,Yellow,S
-68,262,Jeans,Gucci,Women's Fashion,94,4.288581440201506,Blue,S
-5,263,Jeans,Zara,Men's Fashion,71,4.053594853387537,Yellow,XL
-46,264,Dress,Gucci,Women's Fashion,55,3.190616883631264,White,XL
-8,265,T-shirt,H&M,Kids' Fashion,60,2.7467303554625904,Blue,XL
-51,266,Jeans,Gucci,Kids' Fashion,62,2.3677625608105166,White,XL
-25,267,Jeans,Adidas,Women's Fashion,53,4.4413371188881605,Black,S
-32,268,Jeans,Adidas,Kids' Fashion,22,3.9395819315667513,Yellow,L
-34,269,Shoes,H&M,Kids' Fashion,100,4.743391172218395,Black,S
-3,270,Sweater,Adidas,Kids' Fashion,60,4.213088306604582,Blue,XL
-76,271,Jeans,Nike,Men's Fashion,45,4.07521625877933,Blue,L
-43,272,Dress,Nike,Kids' Fashion,95,2.311251112941413,White,M
-4,273,Dress,Nike,Men's Fashion,29,1.7646092540562788,White,XL
-77,274,Dress,Adidas,Women's Fashion,18,1.6572669608916375,Red,S
-58,275,Jeans,Nike,Men's Fashion,93,3.809488549369063,Green,XL
-73,276,Jeans,Nike,Men's Fashion,43,1.393377272783157,Yellow,M
-50,277,Dress,H&M,Kids' Fashion,49,1.8898813636690384,White,M
-4,278,Jeans,Gucci,Men's Fashion,98,2.9585049973107247,Black,L
-3,279,Shoes,Adidas,Kids' Fashion,11,2.191241877131676,Yellow,M
-31,280,Dress,Gucci,Kids' Fashion,19,2.1297317987919677,White,XL
-30,281,Jeans,H&M,Women's Fashion,67,2.2565259336221293,Green,S
-18,282,Jeans,Nike,Men's Fashion,75,1.2665901666885886,Black,M
-95,283,Sweater,H&M,Men's Fashion,80,4.179828150021965,White,S
-78,284,T-shirt,Zara,Men's Fashion,23,3.814152153793728,Black,S
-49,285,Sweater,Nike,Women's Fashion,80,3.704188789710081,Yellow,L
-69,286,T-shirt,H&M,Kids' Fashion,13,3.2360642783823703,White,XL
-71,287,T-shirt,Zara,Kids' Fashion,62,4.537102678729776,Blue,XL
-13,288,Sweater,Nike,Men's Fashion,38,2.108827714388503,Black,M
-88,289,Sweater,Adidas,Kids' Fashion,18,2.805553333530071,Blue,M
-38,290,Sweater,Zara,Men's Fashion,13,4.883941461573281,White,S
-3,291,Dress,H&M,Women's Fashion,64,4.818010098109168,White,XL
-91,292,T-shirt,Nike,Men's Fashion,63,3.075503825550362,Green,S
-9,293,Sweater,Nike,Men's Fashion,96,2.7696609053376635,Black,XL
-4,294,Dress,H&M,Women's Fashion,89,4.092572014583608,White,XL
-39,295,Dress,H&M,Kids' Fashion,56,2.4245426247424477,Black,XL
-99,296,T-shirt,H&M,Women's Fashion,25,4.10023032339017,White,S
-30,297,Sweater,Gucci,Kids' Fashion,14,1.8779895082592104,Blue,XL
-4,298,Shoes,Zara,Women's Fashion,14,1.416317140810032,Red,M
-69,299,Shoes,Gucci,Kids' Fashion,21,2.9546026555101785,Green,S
-3,300,Shoes,Adidas,Kids' Fashion,57,4.923508936133672,White,S
-66,301,Shoes,Adidas,Kids' Fashion,93,2.0449924940500632,Yellow,M
-49,302,T-shirt,Gucci,Kids' Fashion,37,4.903871565964996,White,M
-11,303,Jeans,Gucci,Women's Fashion,94,3.6858621434119527,White,XL
-7,304,Dress,Adidas,Women's Fashion,85,1.3003985626051704,Green,M
-26,305,Shoes,H&M,Women's Fashion,90,2.330814131685098,White,L
-73,306,T-shirt,Gucci,Men's Fashion,23,2.8006797532519627,Black,XL
-62,307,Dress,Zara,Men's Fashion,11,3.88902225335098,Yellow,S
-42,308,Jeans,Adidas,Men's Fashion,60,4.4221600804783545,Yellow,S
-37,309,Jeans,Gucci,Kids' Fashion,17,3.754996802089696,Black,S
-61,310,Jeans,H&M,Men's Fashion,83,3.945481348726717,White,XL
-55,311,Jeans,Nike,Men's Fashion,55,4.803390239313735,Black,L
-41,312,Jeans,Zara,Men's Fashion,45,2.927937578250864,White,S
-97,313,Shoes,H&M,Women's Fashion,76,4.512074442396954,Green,XL
-13,314,Jeans,Nike,Kids' Fashion,94,2.062362221473407,Red,L
-90,315,Jeans,Nike,Kids' Fashion,56,1.217955460343093,White,XL
-34,316,Jeans,H&M,Women's Fashion,68,2.0985010170637293,Red,S
-55,317,Dress,Adidas,Women's Fashion,23,4.395249784950678,Red,XL
-88,318,Sweater,Zara,Men's Fashion,49,1.1558698495007471,Yellow,S
-39,319,Jeans,H&M,Men's Fashion,61,1.231913046074928,White,L
-25,320,Sweater,H&M,Kids' Fashion,86,3.146928022843712,Yellow,L
-34,321,Shoes,Gucci,Kids' Fashion,40,4.452209683354289,Red,S
-58,322,Shoes,H&M,Kids' Fashion,18,1.7072254279225771,Red,M
-30,323,Shoes,Zara,Women's Fashion,95,2.3261684524169715,Green,M
-3,324,Sweater,Gucci,Men's Fashion,18,4.530634427162867,Black,XL
-67,325,T-shirt,Nike,Men's Fashion,91,2.6680892078074705,Black,XL
-7,326,Jeans,Zara,Men's Fashion,20,3.3138697518070765,Green,L
-95,327,Dress,Adidas,Kids' Fashion,72,4.572943412760792,White,L
-34,328,Jeans,Adidas,Kids' Fashion,12,1.2953162144142518,Blue,L
-49,329,Jeans,Nike,Women's Fashion,56,3.736030130388548,Blue,XL
-15,330,T-shirt,Zara,Men's Fashion,26,2.137827815116155,Blue,M
-61,331,T-shirt,Adidas,Kids' Fashion,25,3.2729014263305336,Black,S
-25,332,Shoes,Zara,Men's Fashion,75,3.149412945567453,Blue,M
-60,333,Dress,H&M,Kids' Fashion,70,2.0424289871919465,Yellow,M
-80,334,Sweater,Zara,Men's Fashion,16,1.855252274126113,Yellow,L
-25,335,Sweater,Gucci,Men's Fashion,88,3.3966615634688773,Red,XL
-71,336,T-shirt,Nike,Kids' Fashion,28,4.169716342983278,White,XL
-1,337,Shoes,Nike,Women's Fashion,80,1.591559597927799,White,L
-22,338,Sweater,Nike,Women's Fashion,70,1.4441987043717144,Blue,S
-46,339,Dress,Gucci,Women's Fashion,74,1.8040174178378063,White,M
-52,340,Sweater,Adidas,Women's Fashion,32,1.24647151363249,Blue,L
-27,341,Jeans,Gucci,Men's Fashion,91,4.473672898105133,Red,XL
-69,342,Sweater,Zara,Women's Fashion,27,3.9797174272472913,Yellow,S
-29,343,T-shirt,Gucci,Women's Fashion,91,4.742029060404385,Yellow,XL
-42,344,Dress,Nike,Kids' Fashion,44,3.873916154990273,Blue,L
-97,345,Shoes,H&M,Kids' Fashion,67,1.420409071311115,Yellow,S
-62,346,Jeans,Adidas,Kids' Fashion,19,4.829417307054634,Yellow,XL
-76,347,Dress,H&M,Men's Fashion,18,1.110510847617889,Blue,XL
-52,348,Shoes,Zara,Kids' Fashion,76,2.9157420591034118,Blue,XL
-36,349,Dress,Adidas,Kids' Fashion,97,3.150290195689506,White,XL
-50,350,Jeans,H&M,Kids' Fashion,80,2.797018295763922,Black,XL
-52,351,Jeans,Nike,Women's Fashion,95,4.471219774888296,Red,XL
-41,352,Dress,H&M,Men's Fashion,71,1.5032919398927622,Green,XL
-87,353,Sweater,Nike,Women's Fashion,78,2.9122221673458943,Blue,M
-7,354,Dress,Gucci,Men's Fashion,74,3.864665917264911,Red,M
-59,355,Sweater,Nike,Kids' Fashion,43,2.4895505808124136,Red,XL
-93,356,Dress,Zara,Kids' Fashion,68,4.330070804344967,Black,S
-89,357,T-shirt,Adidas,Kids' Fashion,15,3.4120012288399155,Yellow,L
-66,358,Shoes,Adidas,Men's Fashion,55,1.1749526479520285,Blue,XL
-55,359,Dress,Nike,Kids' Fashion,68,4.449500337752415,Red,L
-42,360,Sweater,H&M,Women's Fashion,24,2.257292487112441,Black,XL
-78,361,Sweater,H&M,Kids' Fashion,62,1.760450533742448,Blue,XL
-22,362,Jeans,Adidas,Men's Fashion,15,1.2812930533569915,Red,S
-72,363,Jeans,Nike,Kids' Fashion,33,3.1428849870669957,Yellow,L
-60,364,Jeans,Nike,Kids' Fashion,65,2.0404569623668447,Black,M
-92,365,T-shirt,Nike,Men's Fashion,16,3.282472036892723,White,L
-7,366,Dress,Nike,Women's Fashion,29,4.153341475721546,Yellow,L
-17,367,Shoes,Nike,Women's Fashion,31,2.7106654151082084,Yellow,S
-60,368,Shoes,Nike,Women's Fashion,35,1.541757712023375,Blue,XL
-62,369,Shoes,Nike,Women's Fashion,96,3.795107582218228,Green,M
-75,370,T-shirt,Nike,Kids' Fashion,58,2.6342443123316874,White,S
-65,371,Dress,Nike,Women's Fashion,33,1.0810982815671255,White,XL
-63,372,Dress,Nike,Men's Fashion,41,1.8439193609858444,White,S
-87,373,T-shirt,Adidas,Men's Fashion,63,3.1531428229983547,Green,M
-23,374,Jeans,Nike,Men's Fashion,20,1.4740252153688411,Black,S
-68,375,Jeans,Zara,Women's Fashion,49,4.268766181323494,Blue,XL
-16,376,Shoes,H&M,Kids' Fashion,22,3.8331598142926575,Green,S
-33,377,Shoes,Zara,Women's Fashion,54,3.722545456144456,Black,L
-55,378,T-shirt,Nike,Men's Fashion,45,3.5712699533249124,Red,S
-89,379,Jeans,Nike,Women's Fashion,25,3.63755290273276,White,M
-73,380,Dress,Gucci,Women's Fashion,23,1.2041756259931802,Red,XL
-32,381,Shoes,H&M,Men's Fashion,23,3.324489276111087,Green,S
-97,382,T-shirt,Gucci,Men's Fashion,93,3.584985286068869,Yellow,M
-32,383,Jeans,H&M,Men's Fashion,86,2.5338537961633807,Black,L
-90,384,Sweater,H&M,Kids' Fashion,84,1.4619140427922783,Black,L
-74,385,Shoes,Gucci,Women's Fashion,35,3.6667200515347167,Yellow,L
-27,386,Dress,Adidas,Women's Fashion,17,3.5783539485125164,Yellow,XL
-52,387,Dress,Adidas,Women's Fashion,24,1.1699527477743614,Green,XL
-7,388,T-shirt,H&M,Men's Fashion,86,4.117232750059591,Green,M
-51,389,T-shirt,Zara,Women's Fashion,91,1.547099791359091,White,XL
-89,390,Sweater,Adidas,Women's Fashion,86,4.448025481894307,Green,M
-66,391,Dress,Gucci,Women's Fashion,25,3.8281848127805858,Blue,M
-73,392,T-shirt,Zara,Men's Fashion,53,2.814820300461843,White,S
-19,393,Shoes,H&M,Men's Fashion,32,1.7522184719051317,Black,M
-77,394,T-shirt,Gucci,Men's Fashion,56,3.532018951236213,Yellow,M
-90,395,Shoes,Nike,Women's Fashion,14,2.5907494190256406,Yellow,M
-33,396,Shoes,Zara,Men's Fashion,74,2.865913132404481,Blue,M
-100,397,Shoes,Zara,Kids' Fashion,94,1.5739434983982157,White,XL
-39,398,T-shirt,H&M,Men's Fashion,16,2.1909533321531898,White,M
-36,399,Dress,Adidas,Men's Fashion,37,2.6298403002831896,Yellow,L
-95,400,Jeans,H&M,Women's Fashion,91,2.4347381893772657,Green,S
-41,401,Jeans,Gucci,Women's Fashion,93,4.636617389662897,Green,S
-10,402,Shoes,H&M,Women's Fashion,30,1.5036793599233174,Yellow,M
-83,403,Shoes,Adidas,Men's Fashion,61,3.4857480490953003,Red,S
-37,404,Shoes,Adidas,Men's Fashion,71,2.93889156216477,Green,M
-61,405,Jeans,Adidas,Women's Fashion,30,2.67999252851008,Blue,S
-89,406,Shoes,Nike,Men's Fashion,54,1.7513915812972516,Black,L
-50,407,Shoes,Nike,Women's Fashion,78,3.5821012773746967,White,XL
-54,408,Sweater,H&M,Men's Fashion,62,2.984203036362436,White,L
-28,409,Shoes,Nike,Kids' Fashion,26,2.010899195833048,Red,S
-48,410,Jeans,H&M,Kids' Fashion,64,4.723107547783871,Green,XL
-35,411,Sweater,Nike,Men's Fashion,67,3.2636472587364875,Red,M
-66,412,Shoes,Nike,Kids' Fashion,63,3.402409929588457,Black,XL
-18,413,Jeans,Zara,Women's Fashion,21,4.849343339346474,Green,XL
-13,414,Dress,Zara,Kids' Fashion,63,2.175163961532831,Black,XL
-22,415,Jeans,H&M,Kids' Fashion,41,2.7288765346091584,Yellow,L
-30,416,Sweater,H&M,Women's Fashion,92,3.2515158407055598,Blue,S
-58,417,Shoes,H&M,Women's Fashion,88,2.8468915044211016,Red,S
-82,418,Jeans,Zara,Men's Fashion,34,4.986091107444631,Blue,S
-44,419,T-shirt,H&M,Kids' Fashion,72,3.30257564858351,Yellow,L
-79,420,Jeans,Adidas,Men's Fashion,81,4.720487413126936,White,M
-18,421,T-shirt,Nike,Kids' Fashion,89,1.6541333315922553,White,M
-79,422,Dress,Nike,Kids' Fashion,20,2.1155797847759064,Blue,S
-56,423,Jeans,Adidas,Men's Fashion,83,4.502435021051873,Black,M
-52,424,Shoes,Adidas,Women's Fashion,45,3.055542338244526,Yellow,M
-100,425,Jeans,Nike,Men's Fashion,96,3.8120856705559953,Blue,XL
-11,426,Jeans,Zara,Men's Fashion,48,4.644768214952789,Black,L
-8,427,T-shirt,Zara,Kids' Fashion,15,4.717963172509233,Yellow,XL
-80,428,T-shirt,Gucci,Kids' Fashion,34,1.904094939025006,Green,M
-57,429,Shoes,Gucci,Women's Fashion,94,3.828901926592884,Black,XL
-72,430,T-shirt,Nike,Kids' Fashion,92,2.771944720999697,Black,S
-46,431,Jeans,H&M,Kids' Fashion,18,2.6213904863913293,Green,S
-7,432,Jeans,H&M,Kids' Fashion,55,2.2386216273604527,Blue,L
-10,433,Jeans,H&M,Men's Fashion,59,3.87845410972745,Yellow,M
-44,434,T-shirt,Zara,Kids' Fashion,22,1.7056582064104375,Yellow,M
-46,435,T-shirt,Adidas,Men's Fashion,47,2.722706085435669,Blue,XL
-27,436,T-shirt,Zara,Kids' Fashion,99,2.822618310932883,Black,XL
-9,437,Shoes,Gucci,Men's Fashion,96,3.129701670696802,Green,XL
-89,438,T-shirt,Adidas,Kids' Fashion,86,4.685958151653461,Yellow,XL
-71,439,Jeans,Zara,Men's Fashion,20,2.5740779792568627,White,XL
-49,440,Dress,Zara,Women's Fashion,83,4.720335237515362,White,L
-47,441,Sweater,Adidas,Men's Fashion,50,1.8416056192273205,Black,XL
-88,442,T-shirt,H&M,Men's Fashion,74,3.907727442310226,Red,S
-37,443,Sweater,Gucci,Men's Fashion,11,3.021282847461632,White,L
-84,444,Dress,Nike,Men's Fashion,31,1.5645708175729318,White,XL
-38,445,Sweater,H&M,Kids' Fashion,74,4.199138753626619,Yellow,L
-18,446,Shoes,Adidas,Kids' Fashion,91,1.129824851276771,Black,L
-84,447,Shoes,H&M,Kids' Fashion,27,4.730448148414897,Yellow,XL
-75,448,Shoes,Gucci,Kids' Fashion,53,2.1448474190296,Green,M
-5,449,Shoes,H&M,Men's Fashion,82,4.547042541741298,Black,XL
-92,450,Shoes,Nike,Kids' Fashion,59,4.326285345176918,Black,XL
-42,451,T-shirt,Adidas,Kids' Fashion,69,2.978109187043206,Green,XL
-43,452,Jeans,H&M,Kids' Fashion,11,3.702569195096641,Green,XL
-30,453,Shoes,Nike,Men's Fashion,34,2.5738015876842444,Red,S
-50,454,Shoes,Zara,Kids' Fashion,47,3.6658025844577673,White,L
-58,455,T-shirt,Gucci,Women's Fashion,51,1.290974737347243,Blue,M
-93,456,Shoes,Gucci,Men's Fashion,14,4.435460757041129,Blue,M
-70,457,Jeans,Gucci,Women's Fashion,36,1.595981701591444,Green,M
-20,458,T-shirt,Gucci,Kids' Fashion,18,1.1844500332003207,Black,L
-52,459,Dress,Adidas,Kids' Fashion,10,2.342762727934474,Black,S
-39,460,Jeans,H&M,Kids' Fashion,94,2.582289276418058,Black,L
-43,461,Shoes,Zara,Kids' Fashion,93,1.0301270335362465,Red,M
-65,462,Dress,Zara,Women's Fashion,34,2.02982036357802,Yellow,M
-24,463,Dress,Adidas,Men's Fashion,25,3.1823244494605354,Blue,M
-53,464,Shoes,Zara,Men's Fashion,74,1.3621575462332012,Green,L
-1,465,T-shirt,Gucci,Women's Fashion,17,1.202302846194363,White,M
-30,466,Sweater,H&M,Men's Fashion,37,1.06447859153281,Black,L
-13,467,Jeans,Adidas,Women's Fashion,69,1.7953435567661875,Red,L
-40,468,Dress,Zara,Women's Fashion,38,1.314761527708611,White,S
-83,469,Dress,Nike,Women's Fashion,95,4.906295819601038,Yellow,XL
-76,470,T-shirt,Adidas,Kids' Fashion,34,4.638343236370082,Blue,S
-38,471,T-shirt,Nike,Women's Fashion,96,2.3192924301788524,Black,M
-11,472,Jeans,Adidas,Women's Fashion,67,3.482992747973891,Green,L
-98,473,Dress,Nike,Women's Fashion,51,1.688509534910141,Red,S
-79,474,Dress,H&M,Kids' Fashion,68,1.3706615422107191,Yellow,L
-73,475,Sweater,H&M,Men's Fashion,69,4.0741937037699305,Yellow,S
-14,476,Shoes,H&M,Women's Fashion,70,4.077371639485593,White,XL
-100,477,Sweater,Nike,Men's Fashion,30,1.559270898129546,Black,S
-77,478,T-shirt,H&M,Women's Fashion,12,1.342996211976295,Green,L
-1,479,Sweater,Nike,Men's Fashion,51,1.1975723059826162,Green,XL
-9,480,Dress,Nike,Men's Fashion,70,1.79272710809258,Blue,XL
-52,481,Jeans,Zara,Women's Fashion,24,1.671659400944899,Blue,XL
-85,482,Dress,Gucci,Women's Fashion,97,3.57821856011162,Yellow,M
-86,483,T-shirt,Zara,Women's Fashion,75,2.651376556909944,Black,XL
-92,484,Sweater,Gucci,Men's Fashion,47,2.124746600420972,Red,XL
-54,485,Dress,H&M,Women's Fashion,70,2.6381295770145043,Black,S
-69,486,Jeans,Adidas,Women's Fashion,69,1.202709784321439,Yellow,L
-21,487,T-shirt,Adidas,Women's Fashion,62,3.69895031182018,Blue,XL
-30,488,Sweater,H&M,Men's Fashion,81,1.19499834878018,Yellow,XL
-45,489,Dress,Adidas,Men's Fashion,37,3.5606684393497297,Black,M
-12,490,T-shirt,Nike,Men's Fashion,41,1.9797044022936952,Green,L
-55,491,Dress,Zara,Kids' Fashion,42,3.122132854612722,Black,M
-30,492,Sweater,Zara,Kids' Fashion,69,1.378184911447914,Blue,M
-57,493,Shoes,H&M,Kids' Fashion,88,3.126248292620187,White,XL
-54,494,Sweater,Zara,Kids' Fashion,82,4.680935629078745,Green,M
-14,495,Jeans,Nike,Women's Fashion,78,1.1296540071029817,Blue,S
-92,496,T-shirt,Adidas,Kids' Fashion,59,1.7276955895208173,Green,L
-88,497,Jeans,Gucci,Women's Fashion,30,3.697727095901658,Yellow,M
-50,498,Dress,Zara,Men's Fashion,59,2.9859824140897167,Yellow,XL
-60,499,Dress,Adidas,Kids' Fashion,93,2.6014024743552038,White,L
-36,500,Shoes,Zara,Women's Fashion,88,1.7044395201145366,Red,M
-20,501,Sweater,Adidas,Kids' Fashion,41,4.322167156198151,Green,S
-61,502,Dress,Zara,Kids' Fashion,33,4.987964320970842,Blue,M
-84,503,Sweater,Adidas,Kids' Fashion,16,4.534499079292976,White,XL
-70,504,Sweater,Zara,Men's Fashion,22,2.096109251633728,Black,XL
-24,505,Dress,Zara,Women's Fashion,75,1.7297821493407022,Black,S
-47,506,Shoes,Nike,Women's Fashion,51,3.983456227013783,Blue,M
-37,507,T-shirt,Zara,Women's Fashion,85,4.056667234732924,White,XL
-72,508,Dress,Gucci,Men's Fashion,25,4.459064432526452,Blue,M
-95,509,Dress,Gucci,Men's Fashion,28,1.9577097618973367,Blue,L
-9,510,Shoes,Nike,Men's Fashion,60,3.108177745483727,Green,L
-52,511,Jeans,H&M,Kids' Fashion,78,2.93007161400505,Black,S
-71,512,Shoes,Nike,Men's Fashion,92,2.362367850261077,Blue,S
-7,513,Jeans,Zara,Men's Fashion,65,4.061790921507698,Green,M
-27,514,Dress,Adidas,Kids' Fashion,47,3.432789513884916,White,M
-1,515,Dress,Nike,Kids' Fashion,64,3.748936698427991,White,S
-51,516,Shoes,Gucci,Women's Fashion,33,1.6041588640383084,Red,S
-29,517,T-shirt,Gucci,Men's Fashion,74,2.8489694583537952,Blue,M
-87,518,Sweater,Gucci,Men's Fashion,56,2.580412062121995,Yellow,S
-28,519,Sweater,Adidas,Women's Fashion,29,3.475022400933677,Blue,XL
-8,520,Dress,Zara,Men's Fashion,13,3.070483461986028,Red,L
-90,521,T-shirt,Adidas,Men's Fashion,19,3.256780571680539,White,M
-24,522,Sweater,Adidas,Men's Fashion,80,2.9390797234183057,Yellow,S
-82,523,Sweater,Gucci,Women's Fashion,71,1.224769959497188,Black,S
-51,524,T-shirt,Nike,Kids' Fashion,47,1.9344500176750348,Black,S
-72,525,T-shirt,Adidas,Kids' Fashion,58,2.443379935979906,Blue,M
-36,526,Jeans,Zara,Women's Fashion,70,2.9296883485274963,Red,L
-12,527,T-shirt,Nike,Kids' Fashion,31,4.14779066270218,Yellow,M
-98,528,Shoes,Zara,Men's Fashion,33,2.7147621741886026,Black,M
-77,529,Shoes,Gucci,Women's Fashion,59,1.995143535362487,White,L
-7,530,Shoes,Adidas,Kids' Fashion,71,3.3564104018035827,Black,M
-50,531,Dress,H&M,Women's Fashion,45,2.8930977062148844,Green,L
-32,532,Shoes,Zara,Men's Fashion,21,2.066029253582321,Blue,L
-12,533,Shoes,Nike,Kids' Fashion,11,4.825169004349863,Green,S
-40,534,Dress,Adidas,Kids' Fashion,94,4.508485512596069,Yellow,M
-24,535,Jeans,Nike,Women's Fashion,87,1.204241994898244,Red,L
-82,536,Dress,H&M,Kids' Fashion,18,3.3474610739217217,Yellow,S
-41,537,Jeans,Nike,Men's Fashion,68,2.4059670706428222,Red,M
-11,538,Dress,Nike,Men's Fashion,94,2.3695275455416125,Blue,M
-26,539,T-shirt,Nike,Kids' Fashion,10,3.10162343410321,Blue,L
-26,540,Jeans,H&M,Kids' Fashion,80,1.1656149909013949,Yellow,M
-48,541,Jeans,Nike,Women's Fashion,17,2.136926727091897,Green,S
-35,542,Dress,Adidas,Men's Fashion,92,4.022021188026615,Red,S
-15,543,Jeans,Gucci,Men's Fashion,86,4.165312333327837,Yellow,M
-54,544,T-shirt,Nike,Women's Fashion,77,3.556866321338189,Red,L
-68,545,Shoes,Zara,Men's Fashion,82,2.004271238180019,Red,XL
-6,546,Shoes,Zara,Women's Fashion,93,1.3562617808119044,Red,L
-6,547,Sweater,H&M,Kids' Fashion,89,2.544323557095194,Yellow,XL
-79,548,Sweater,Zara,Kids' Fashion,65,1.4929925625271236,Red,M
-11,549,Dress,Zara,Women's Fashion,96,4.283951139983333,Blue,XL
-57,550,T-shirt,Nike,Men's Fashion,69,2.9282577428168195,Yellow,L
-49,551,Jeans,H&M,Women's Fashion,83,4.073676651771997,Blue,M
-2,552,Sweater,Adidas,Kids' Fashion,50,4.480168912504218,Blue,M
-10,553,Shoes,Adidas,Men's Fashion,90,1.1984941197654535,Green,XL
-11,554,Sweater,Adidas,Men's Fashion,51,4.096963788638659,Blue,L
-21,555,T-shirt,Adidas,Women's Fashion,67,3.936087108680365,Blue,L
-26,556,T-shirt,H&M,Women's Fashion,39,2.600749075535833,Red,L
-45,557,Shoes,Adidas,Women's Fashion,85,1.5020219983988097,Black,M
-2,558,Jeans,Adidas,Women's Fashion,23,2.0266822697055797,Red,XL
-6,559,Shoes,Gucci,Women's Fashion,10,4.233459275828356,Red,XL
-31,560,Dress,Adidas,Women's Fashion,99,1.002064068673565,Red,XL
-65,561,Shoes,Zara,Men's Fashion,96,3.968456344675378,Yellow,M
-37,562,T-shirt,Zara,Kids' Fashion,29,4.440105990803638,Green,L
-44,563,Shoes,Adidas,Men's Fashion,39,4.043087202994669,Blue,XL
-70,564,Shoes,Adidas,Kids' Fashion,31,4.563265489529814,Blue,M
-13,565,Sweater,Nike,Kids' Fashion,11,2.5928850494829168,White,L
-100,566,Dress,Gucci,Kids' Fashion,80,4.024158908237746,White,M
-27,567,Dress,Zara,Kids' Fashion,96,1.2067229460310762,Black,M
-61,568,Sweater,Gucci,Kids' Fashion,20,3.492861270836571,Red,L
-92,569,Dress,Nike,Kids' Fashion,55,4.239391099321933,Blue,XL
-4,570,T-shirt,Adidas,Women's Fashion,54,1.452466381841047,Black,S
-23,571,Jeans,Nike,Men's Fashion,23,2.6192183691043205,Red,M
-17,572,Sweater,H&M,Men's Fashion,63,4.051564760911642,Blue,S
-80,573,Shoes,Zara,Kids' Fashion,78,3.401509067928137,White,L
-9,574,Jeans,Gucci,Women's Fashion,92,4.491894014291022,Black,L
-99,575,T-shirt,H&M,Kids' Fashion,72,4.755480007672844,White,L
-76,576,T-shirt,H&M,Women's Fashion,26,3.089887684926298,White,S
-41,577,T-shirt,H&M,Women's Fashion,66,2.1606955120415234,White,M
-65,578,Dress,Gucci,Women's Fashion,48,3.121693130994281,Green,L
-26,579,Shoes,Gucci,Women's Fashion,57,4.985949918767776,White,XL
-38,580,Shoes,Adidas,Men's Fashion,92,2.494203848358386,Green,S
-65,581,Sweater,Zara,Men's Fashion,83,4.715188838618067,Red,L
-24,582,Dress,Zara,Men's Fashion,70,2.2431035471118395,White,M
-96,583,Dress,H&M,Kids' Fashion,64,4.454992310265407,Green,L
-71,584,T-shirt,Gucci,Women's Fashion,17,2.63550072139775,Black,S
-6,585,Jeans,Adidas,Women's Fashion,68,3.5916888409866767,Yellow,M
-38,586,Sweater,Nike,Kids' Fashion,99,2.280076388926437,Yellow,M
-41,587,T-shirt,Adidas,Women's Fashion,50,1.2529617272688585,Blue,XL
-46,588,T-shirt,Gucci,Kids' Fashion,24,3.411287732023826,White,S
-71,589,T-shirt,Adidas,Women's Fashion,99,1.0242497517145526,Red,L
-56,590,T-shirt,Nike,Kids' Fashion,65,2.4293298390384206,Green,L
-61,591,Jeans,Gucci,Women's Fashion,97,2.036236384768328,White,M
-29,592,Jeans,Nike,Kids' Fashion,47,1.7590751533021205,Yellow,M
-97,593,Sweater,H&M,Men's Fashion,89,3.1455191481223097,White,S
-97,594,Sweater,Nike,Kids' Fashion,86,3.842198105236463,Yellow,S
-53,595,T-shirt,Gucci,Women's Fashion,96,3.633088055124007,Blue,S
-9,596,Dress,H&M,Women's Fashion,35,3.939543887889841,Black,L
-95,597,Jeans,H&M,Men's Fashion,38,3.2439759020490424,Blue,M
-79,598,Shoes,Gucci,Women's Fashion,77,1.4264405009787162,Yellow,XL
-52,599,T-shirt,H&M,Men's Fashion,80,4.46590120785099,Green,S
-40,600,T-shirt,Adidas,Men's Fashion,97,1.4973990159023316,Yellow,M
-80,601,Dress,Adidas,Women's Fashion,44,1.0347072487833082,White,L
-7,602,Sweater,Zara,Women's Fashion,11,4.34286438934025,White,L
-26,603,Dress,Zara,Kids' Fashion,13,2.03098840339048,Black,S
-74,604,T-shirt,Gucci,Men's Fashion,10,3.9765006942974335,Yellow,S
-92,605,Jeans,Adidas,Women's Fashion,62,2.901295957009731,Red,S
-35,606,Dress,Nike,Women's Fashion,28,4.214703599908896,White,S
-40,607,T-shirt,Nike,Women's Fashion,55,1.1788030981565618,Yellow,S
-90,608,T-shirt,H&M,Women's Fashion,51,2.7110812194367973,Blue,M
-89,609,Sweater,Adidas,Kids' Fashion,75,4.785525240759863,Red,S
-85,610,Shoes,H&M,Women's Fashion,62,2.5328562118891824,Green,M
-2,611,Shoes,Gucci,Kids' Fashion,85,2.032281097179503,White,L
-28,612,Shoes,Zara,Men's Fashion,27,2.269794298996219,Blue,XL
-80,613,Jeans,Gucci,Women's Fashion,37,4.652599021987508,Black,XL
-89,614,Sweater,Gucci,Men's Fashion,47,1.350981011154583,Green,L
-44,615,T-shirt,Nike,Kids' Fashion,67,2.894450299921472,Red,L
-80,616,Dress,Zara,Women's Fashion,98,4.871838867222296,Red,M
-19,617,Jeans,Adidas,Kids' Fashion,77,1.702611669239405,Black,XL
-51,618,Shoes,Gucci,Kids' Fashion,85,4.728247063334171,Green,L
-10,619,T-shirt,Nike,Women's Fashion,97,1.288444339680079,Blue,M
-68,620,Sweater,Nike,Kids' Fashion,37,3.4621543782315536,White,XL
-17,621,Shoes,H&M,Men's Fashion,72,2.6500838926647985,Yellow,S
-30,622,T-shirt,Nike,Men's Fashion,45,3.7846314135843233,Red,XL
-67,623,Shoes,Adidas,Kids' Fashion,62,1.6105051313860996,Green,L
-83,624,T-shirt,Nike,Women's Fashion,70,4.450171664877935,White,L
-75,625,Shoes,Adidas,Kids' Fashion,78,3.4525323674615795,Black,L
-44,626,Jeans,Adidas,Men's Fashion,29,4.18033034240844,Yellow,S
-61,627,T-shirt,Adidas,Men's Fashion,94,1.8716496105038989,Green,M
-93,628,Sweater,Nike,Women's Fashion,64,3.8126764367057873,Red,S
-80,629,Shoes,Gucci,Men's Fashion,95,3.579320091965556,White,M
-74,630,T-shirt,Nike,Women's Fashion,84,1.6614612903928974,White,XL
-65,631,T-shirt,Zara,Kids' Fashion,32,4.197234004324763,White,S
-64,632,Dress,Zara,Kids' Fashion,66,3.755337679891101,Yellow,M
-73,633,Dress,Nike,Women's Fashion,72,3.751515852459196,Red,L
-9,634,Shoes,Nike,Kids' Fashion,27,1.2952964188326406,Yellow,S
-34,635,Jeans,Adidas,Women's Fashion,29,2.2350569966689218,Yellow,XL
-10,636,Shoes,Gucci,Kids' Fashion,96,4.6022106490577865,Yellow,L
-33,637,Shoes,Zara,Kids' Fashion,55,3.770055014681934,Green,S
-7,638,Sweater,Adidas,Men's Fashion,22,4.9052804605304665,White,M
-22,639,Shoes,Zara,Men's Fashion,26,3.5524714785499576,Blue,L
-11,640,T-shirt,Zara,Kids' Fashion,72,2.7514166708130268,Red,S
-10,641,Shoes,Zara,Kids' Fashion,20,1.985714887523942,White,M
-75,642,T-shirt,Gucci,Kids' Fashion,22,4.965199288819955,Black,S
-63,643,T-shirt,Zara,Kids' Fashion,42,4.62809881985902,Black,L
-64,644,Shoes,H&M,Kids' Fashion,79,1.0745667225897506,White,M
-46,645,T-shirt,Zara,Kids' Fashion,98,4.696076856201794,Black,S
-36,646,Sweater,Zara,Men's Fashion,36,2.8142334990659794,Green,M
-25,647,Shoes,Adidas,Women's Fashion,60,1.6159672371990217,Black,M
-74,648,T-shirt,Gucci,Men's Fashion,20,3.260638818293495,White,L
-82,649,T-shirt,Gucci,Women's Fashion,76,2.4414806576875763,Red,S
-22,650,Dress,Gucci,Women's Fashion,99,4.3090895745756175,Green,M
-35,651,Shoes,Gucci,Men's Fashion,16,1.0050871518547542,Yellow,XL
-8,652,Jeans,Zara,Kids' Fashion,74,1.0625071762655964,Yellow,L
-65,653,Dress,Gucci,Kids' Fashion,17,4.811990498153584,Red,L
-34,654,Shoes,Zara,Kids' Fashion,42,4.276502785887214,Blue,S
-6,655,T-shirt,Zara,Men's Fashion,33,1.999312310266624,Black,S
-67,656,Jeans,Nike,Men's Fashion,79,4.660541004440319,White,M
-36,657,Jeans,Nike,Men's Fashion,87,2.0975454829088958,Yellow,L
-60,658,Jeans,Adidas,Women's Fashion,40,3.252305172159593,Green,L
-97,659,Shoes,Zara,Women's Fashion,21,1.024989525670207,White,M
-11,660,Dress,Adidas,Kids' Fashion,41,2.689886463072138,Blue,S
-30,661,Jeans,Gucci,Kids' Fashion,71,1.5336121410042902,Blue,XL
-4,662,Dress,Nike,Women's Fashion,14,3.4567401113945544,Black,S
-17,663,Sweater,Zara,Women's Fashion,52,1.1949642031700618,Black,L
-33,664,Shoes,H&M,Kids' Fashion,28,4.464839094994941,White,L
-89,665,T-shirt,H&M,Women's Fashion,25,3.1717470470668934,Red,S
-37,666,T-shirt,H&M,Women's Fashion,76,1.938962642091928,Black,S
-49,667,Shoes,Nike,Kids' Fashion,64,1.0982353157898852,Blue,XL
-77,668,Shoes,Zara,Men's Fashion,11,1.8422788671618355,White,S
-100,669,Shoes,Adidas,Women's Fashion,66,2.92974159743459,White,L
-48,670,T-shirt,Gucci,Men's Fashion,55,4.268877637646993,Yellow,M
-8,671,Dress,Adidas,Women's Fashion,16,3.234874806884243,Blue,L
-31,672,Sweater,Zara,Kids' Fashion,93,2.958262821752012,Blue,M
-79,673,T-shirt,Gucci,Kids' Fashion,83,3.1840131431574275,Yellow,M
-2,674,Shoes,Adidas,Kids' Fashion,72,1.947337779231864,Green,L
-11,675,Sweater,Nike,Kids' Fashion,29,1.398131792409376,Green,XL
-25,676,Shoes,Nike,Women's Fashion,11,2.779424044771708,Black,L
-74,677,Shoes,Gucci,Women's Fashion,68,4.565208378666075,Blue,L
-11,678,Dress,H&M,Men's Fashion,85,2.8629809334068224,Black,L
-99,679,Jeans,Adidas,Kids' Fashion,19,1.179131481313553,Yellow,L
-5,680,Dress,Nike,Women's Fashion,55,4.049538098056264,Red,XL
-59,681,Shoes,Zara,Kids' Fashion,24,3.809658143846299,Black,L
-13,682,Jeans,Adidas,Women's Fashion,52,4.351322209527126,Blue,XL
-75,683,Jeans,Gucci,Men's Fashion,31,2.4103074868321754,White,XL
-31,684,Dress,Adidas,Women's Fashion,12,3.9413154716573753,White,S
-37,685,Jeans,Nike,Men's Fashion,19,1.269435004559401,White,M
-9,686,Jeans,H&M,Women's Fashion,75,2.9465056423202856,Green,M
-35,687,Sweater,H&M,Kids' Fashion,74,4.174085420293045,Blue,L
-19,688,Sweater,H&M,Kids' Fashion,91,1.3736199668115423,White,XL
-5,689,Jeans,H&M,Kids' Fashion,32,3.221341779752774,Black,L
-11,690,Jeans,H&M,Kids' Fashion,34,2.152949486013709,White,L
-38,691,T-shirt,Adidas,Kids' Fashion,13,3.268427817311049,Blue,XL
-91,692,Dress,Nike,Women's Fashion,39,4.70535477909077,Red,XL
-44,693,Shoes,Nike,Men's Fashion,62,2.5543032033922044,Green,L
-98,694,T-shirt,Adidas,Kids' Fashion,51,2.0500639939058307,Red,L
-45,695,Dress,Zara,Women's Fashion,78,4.734713083950378,Red,XL
-81,696,Sweater,Adidas,Men's Fashion,39,4.5927665608080135,Green,XL
-61,697,T-shirt,Nike,Women's Fashion,99,4.804098158293213,Green,L
-82,698,Sweater,Zara,Men's Fashion,85,1.8043967645785437,White,XL
-52,699,T-shirt,Adidas,Men's Fashion,50,1.6536231320458272,Green,S
-96,700,Dress,H&M,Women's Fashion,78,4.8246492753207,Yellow,S
-34,701,Jeans,Nike,Women's Fashion,17,2.258849244950669,Blue,XL
-46,702,Shoes,Gucci,Kids' Fashion,58,4.794781603103964,Blue,L
-27,703,Shoes,Gucci,Men's Fashion,21,3.4251803311051345,Blue,S
-6,704,T-shirt,Adidas,Kids' Fashion,38,4.9796782936579325,Green,M
-32,705,Dress,Nike,Kids' Fashion,67,2.1969046712990146,Black,L
-91,706,Jeans,Gucci,Women's Fashion,69,1.0500462578370575,Green,S
-100,707,Dress,Adidas,Women's Fashion,68,4.295812637312633,Green,M
-17,708,T-shirt,Nike,Kids' Fashion,76,4.448919722567996,Black,M
-57,709,T-shirt,Adidas,Men's Fashion,53,1.683155281482577,White,XL
-50,710,Sweater,Zara,Men's Fashion,58,2.169090130844664,Red,S
-37,711,Jeans,Adidas,Men's Fashion,34,3.4839397351205137,Red,M
-76,712,Shoes,Gucci,Kids' Fashion,100,4.610941929179471,Green,S
-25,713,Jeans,Gucci,Men's Fashion,75,4.44012016300772,Blue,XL
-91,714,Shoes,Zara,Men's Fashion,35,2.491495140678589,White,S
-48,715,Shoes,Nike,Women's Fashion,84,4.868671075928118,Yellow,L
-11,716,Shoes,Adidas,Men's Fashion,68,3.9283382928868336,Red,S
-8,717,Sweater,Nike,Women's Fashion,34,4.22690922306324,Yellow,M
-73,718,T-shirt,Zara,Women's Fashion,30,1.373331833878399,White,L
-59,719,Dress,H&M,Women's Fashion,34,1.9399615985868688,Blue,M
-97,720,Shoes,Adidas,Men's Fashion,27,2.573743469300905,Black,S
-42,721,Shoes,Zara,Kids' Fashion,77,2.2061699390445635,Blue,M
-78,722,Dress,Adidas,Women's Fashion,73,3.957991510673311,Blue,L
-55,723,T-shirt,Nike,Men's Fashion,97,1.109084447881032,White,S
-82,724,Shoes,Adidas,Women's Fashion,57,3.16532405890063,Yellow,S
-87,725,Jeans,Gucci,Women's Fashion,12,3.805121225728592,Black,XL
-40,726,T-shirt,Nike,Men's Fashion,10,3.206257441855496,Red,XL
-72,727,Jeans,Adidas,Women's Fashion,11,4.420346267104071,White,S
-95,728,Dress,Zara,Men's Fashion,63,2.409415897427331,Yellow,S
-26,729,Sweater,Gucci,Kids' Fashion,10,2.7286888209350737,Yellow,XL
-72,730,Jeans,Zara,Kids' Fashion,68,1.6073116824226394,Green,M
-20,731,Sweater,Adidas,Men's Fashion,62,4.898212137949798,White,XL
-48,732,Shoes,Zara,Women's Fashion,28,2.6450588124304923,Blue,S
-89,733,Sweater,Adidas,Women's Fashion,75,4.891155555210273,Black,M
-89,734,Dress,Zara,Women's Fashion,80,1.5925635946790164,Blue,XL
-65,735,Sweater,H&M,Men's Fashion,28,3.902509392279671,Yellow,L
-11,736,T-shirt,Adidas,Men's Fashion,94,2.7616943109060967,White,L
-20,737,T-shirt,Adidas,Kids' Fashion,78,1.1267956152974978,Blue,S
-30,738,Jeans,H&M,Men's Fashion,100,1.0338431929963692,Blue,L
-24,739,Sweater,Gucci,Kids' Fashion,80,1.23081761173739,Red,M
-68,740,Dress,Nike,Women's Fashion,72,3.691134961355608,White,XL
-49,741,Shoes,Nike,Women's Fashion,81,3.3868368182647823,Blue,XL
-54,742,Dress,H&M,Men's Fashion,85,3.462802611159326,Yellow,L
-15,743,Jeans,H&M,Women's Fashion,55,1.729135622303739,Red,XL
-21,744,Shoes,Zara,Men's Fashion,97,2.999073582628465,Black,XL
-73,745,Sweater,Zara,Men's Fashion,40,3.753972994332569,Blue,L
-13,746,Shoes,Gucci,Kids' Fashion,21,1.2506412464341623,Black,S
-37,747,Jeans,Adidas,Kids' Fashion,73,1.41973993323154,White,XL
-87,748,Sweater,Zara,Kids' Fashion,45,3.346345375193649,Red,S
-31,749,Shoes,Gucci,Women's Fashion,43,2.386806405486635,Black,L
-71,750,Shoes,Nike,Kids' Fashion,57,3.727593991354872,Red,L
-65,751,Jeans,Gucci,Kids' Fashion,72,2.097525173219469,Blue,S
-14,752,Dress,Gucci,Men's Fashion,72,1.9733009657894285,Blue,L
-17,753,Jeans,Zara,Kids' Fashion,86,4.2090982166451685,Yellow,S
-63,754,Jeans,Gucci,Kids' Fashion,79,1.8938237440768175,Red,L
-99,755,T-shirt,Zara,Women's Fashion,90,3.4672099396707865,White,S
-37,756,Jeans,Adidas,Men's Fashion,34,1.669924032380525,Black,XL
-66,757,Shoes,Gucci,Kids' Fashion,61,4.188203485333442,Black,L
-32,758,Jeans,Nike,Women's Fashion,51,4.222293805556814,Green,M
-39,759,Shoes,Gucci,Kids' Fashion,65,1.8292858750432148,Black,S
-35,760,Jeans,Nike,Women's Fashion,57,3.458410207272511,Green,S
-86,761,Dress,H&M,Men's Fashion,92,3.643455853546427,Black,L
-8,762,Jeans,Nike,Kids' Fashion,50,3.804358643524517,Blue,XL
-71,763,T-shirt,Nike,Men's Fashion,25,2.0855466420967725,Green,S
-10,764,Dress,H&M,Women's Fashion,30,2.0614920730034725,Black,M
-25,765,Sweater,H&M,Kids' Fashion,86,4.826714567008198,Blue,S
-25,766,Jeans,Zara,Men's Fashion,40,4.461908067214153,Green,M
-83,767,Shoes,H&M,Men's Fashion,72,4.630137819988413,Yellow,L
-12,768,Shoes,H&M,Women's Fashion,95,4.599817817388383,White,M
-71,769,Sweater,Zara,Men's Fashion,28,4.47617222178992,White,S
-93,770,T-shirt,H&M,Kids' Fashion,14,4.680516842481243,Yellow,S
-71,771,T-shirt,Zara,Men's Fashion,82,1.5658426086441128,Red,XL
-34,772,Shoes,Gucci,Men's Fashion,24,4.773680198551219,Black,XL
-70,773,Shoes,Nike,Women's Fashion,74,2.5048761629214176,Black,XL
-74,774,Dress,H&M,Men's Fashion,94,2.9773552563375367,White,L
-39,775,Dress,H&M,Men's Fashion,60,3.201146072539632,White,M
-73,776,Dress,Nike,Men's Fashion,86,2.21938430393718,Red,M
-40,777,Jeans,Adidas,Kids' Fashion,88,1.7981290963364325,Green,M
-25,778,Dress,Nike,Kids' Fashion,80,3.975467677830078,White,L
-98,779,Jeans,Nike,Kids' Fashion,94,3.7260358743068207,Yellow,XL
-46,780,T-shirt,Gucci,Kids' Fashion,89,1.7214787839333945,Blue,XL
-83,781,Sweater,Nike,Men's Fashion,85,4.828402784929459,Green,L
-23,782,T-shirt,Adidas,Men's Fashion,31,1.9480869398705123,White,M
-76,783,Jeans,H&M,Women's Fashion,59,2.197254325025513,Red,S
-95,784,Sweater,Zara,Men's Fashion,46,3.0739062223182816,White,M
-77,785,T-shirt,H&M,Men's Fashion,57,1.2698340276554738,Red,S
-65,786,T-shirt,H&M,Kids' Fashion,73,3.958356667730027,White,L
-91,787,Dress,H&M,Women's Fashion,96,3.255146989828646,Blue,XL
-34,788,Jeans,Adidas,Kids' Fashion,74,3.1438729248635977,Red,S
-22,789,Jeans,Nike,Women's Fashion,99,2.51420491178642,Yellow,XL
-31,790,Shoes,Adidas,Men's Fashion,34,1.0985673797241886,Red,S
-73,791,Jeans,Gucci,Women's Fashion,58,3.648417121296503,Green,L
-88,792,Sweater,Adidas,Kids' Fashion,88,4.645175946919393,Yellow,XL
-28,793,T-shirt,Zara,Kids' Fashion,82,1.3204700723008638,Black,XL
-9,794,Jeans,H&M,Women's Fashion,68,4.293960350544236,Black,M
-2,795,Jeans,Gucci,Kids' Fashion,30,1.4819665724485276,Black,S
-3,796,Jeans,H&M,Women's Fashion,86,1.856397460211856,Black,M
-68,797,Sweater,H&M,Kids' Fashion,62,1.117533503515248,Red,XL
-28,798,Jeans,H&M,Kids' Fashion,75,1.7967267212576012,Blue,M
-48,799,Shoes,Adidas,Men's Fashion,20,2.3278871226154085,Yellow,XL
-61,800,T-shirt,H&M,Men's Fashion,38,4.782806321628216,Red,S
-33,801,Jeans,Zara,Men's Fashion,39,3.513026866310333,Black,XL
-66,802,Shoes,Gucci,Men's Fashion,26,2.64295286344516,Green,XL
-56,803,Sweater,Nike,Men's Fashion,13,1.6154252144956214,Blue,XL
-66,804,T-shirt,Zara,Kids' Fashion,91,2.6307266412853325,Black,M
-53,805,Dress,H&M,Men's Fashion,84,3.3897458628353414,Blue,XL
-100,806,Jeans,Zara,Women's Fashion,11,3.7786305270389233,Green,L
-74,807,Jeans,Zara,Men's Fashion,31,2.003227448848981,Blue,S
-20,808,T-shirt,Adidas,Women's Fashion,26,4.324805158780109,Yellow,L
-5,809,Jeans,Adidas,Men's Fashion,22,3.1425952778540425,White,XL
-31,810,Jeans,Zara,Kids' Fashion,39,1.0669133706371694,Black,M
-9,811,Jeans,Gucci,Kids' Fashion,63,1.8430967807499488,White,M
-9,812,Dress,Nike,Women's Fashion,23,1.1767334992926166,Blue,M
-42,813,Sweater,Zara,Men's Fashion,97,3.0508326297176045,Blue,M
-62,814,Sweater,Zara,Women's Fashion,48,2.7959801706610983,Yellow,XL
-78,815,Sweater,Zara,Women's Fashion,16,3.127369463710594,Black,S
-24,816,Jeans,Nike,Kids' Fashion,86,1.09083862383619,Blue,XL
-51,817,T-shirt,Adidas,Kids' Fashion,15,1.1605006718708668,Black,XL
-42,818,Dress,Nike,Women's Fashion,36,4.02293820181525,Blue,L
-45,819,T-shirt,Zara,Men's Fashion,41,3.443916707036098,White,XL
-91,820,T-shirt,Nike,Women's Fashion,49,3.159661540408299,White,L
-65,821,Dress,H&M,Women's Fashion,30,3.637743931369832,Blue,XL
-75,822,T-shirt,Gucci,Kids' Fashion,48,4.743995465955004,Green,XL
-65,823,T-shirt,H&M,Kids' Fashion,77,2.883007250473137,White,L
-3,824,Shoes,Zara,Women's Fashion,17,1.080282826533863,White,L
-32,825,T-shirt,Zara,Men's Fashion,12,1.8513957128994625,White,M
-35,826,Shoes,Adidas,Women's Fashion,92,4.775265822835174,Red,S
-13,827,Shoes,Nike,Women's Fashion,92,1.7803086713602094,Red,XL
-94,828,Sweater,H&M,Women's Fashion,29,4.401707974274554,Green,S
-18,829,Dress,Adidas,Men's Fashion,19,4.2570846480415545,Black,XL
-94,830,Jeans,Gucci,Kids' Fashion,54,3.729791859161868,Green,S
-19,831,Jeans,Gucci,Kids' Fashion,37,2.548301228789525,Black,S
-96,832,Jeans,Nike,Women's Fashion,87,2.3573407480614743,Blue,L
-70,833,Sweater,H&M,Kids' Fashion,82,1.1000558840751022,Yellow,L
-99,834,Shoes,H&M,Women's Fashion,98,3.77632476171058,Yellow,S
-15,835,T-shirt,Nike,Kids' Fashion,84,2.891092635051421,Yellow,XL
-93,836,Jeans,Gucci,Women's Fashion,21,4.24899805965906,White,L
-59,837,Shoes,Nike,Kids' Fashion,50,2.406013133937443,Black,M
-33,838,Jeans,Zara,Men's Fashion,60,2.6772891068056395,Blue,S
-26,839,Dress,Nike,Kids' Fashion,68,2.655170363155884,Blue,S
-73,840,Shoes,Zara,Kids' Fashion,84,3.154720588404741,Red,S
-56,841,Dress,Zara,Men's Fashion,37,3.0051642079844783,Blue,M
-59,842,Jeans,Adidas,Men's Fashion,44,3.0622732805232724,White,XL
-52,843,Shoes,Nike,Kids' Fashion,91,2.723012963579289,Red,M
-1,844,Sweater,Zara,Kids' Fashion,11,2.8851093739325293,Blue,M
-66,845,Sweater,Gucci,Men's Fashion,92,2.1024246005977343,Green,M
-82,846,T-shirt,Nike,Kids' Fashion,26,4.304919133983496,Yellow,M
-88,847,T-shirt,Gucci,Women's Fashion,10,1.3749819296285328,Green,S
-78,848,Shoes,Nike,Kids' Fashion,31,3.763596384540637,White,L
-14,849,Dress,Nike,Kids' Fashion,60,3.6429906907382974,Green,S
-2,850,T-shirt,Nike,Kids' Fashion,73,1.270582725054258,Yellow,L
-24,851,Jeans,Nike,Men's Fashion,46,2.685204468362614,Yellow,XL
-38,852,Jeans,H&M,Kids' Fashion,83,3.0112484967640607,Red,XL
-5,853,Dress,H&M,Kids' Fashion,20,3.009772948321204,Green,L
-72,854,T-shirt,Adidas,Kids' Fashion,83,3.709391012428488,Green,M
-96,855,Jeans,H&M,Kids' Fashion,88,1.9022367224903864,Red,L
-55,856,Jeans,Gucci,Women's Fashion,93,1.8010346338961636,Green,XL
-37,857,Dress,H&M,Men's Fashion,93,4.350896543360726,Blue,M
-64,858,T-shirt,Zara,Kids' Fashion,96,4.451841228617943,Yellow,M
-48,859,T-shirt,Adidas,Women's Fashion,44,1.4002166758874734,Red,L
-75,860,Dress,Nike,Kids' Fashion,43,4.027847421729146,Blue,S
-60,861,Shoes,Gucci,Men's Fashion,98,4.660135925497219,White,XL
-61,862,Sweater,Adidas,Kids' Fashion,14,1.57892056272944,Blue,S
-49,863,Shoes,Gucci,Men's Fashion,99,1.4330252244999713,Red,S
-22,864,Sweater,Nike,Men's Fashion,48,3.94094596820846,Yellow,L
-54,865,Jeans,Gucci,Women's Fashion,80,1.6728649930714936,Yellow,M
-89,866,Shoes,H&M,Men's Fashion,66,4.550095005978127,White,S
-3,867,Jeans,Nike,Men's Fashion,90,4.235108869512084,Black,S
-84,868,Sweater,Gucci,Kids' Fashion,72,3.9294719588990894,Red,L
-98,869,Jeans,Zara,Men's Fashion,100,1.839078604510107,Black,XL
-100,870,Jeans,Nike,Kids' Fashion,26,2.7080091380488724,Yellow,S
-56,871,Shoes,H&M,Men's Fashion,66,2.6223709153220285,White,XL
-94,872,Jeans,H&M,Women's Fashion,96,4.646393153602185,Black,M
-16,873,T-shirt,Gucci,Kids' Fashion,27,3.338711160454985,Red,L
-54,874,Dress,Gucci,Kids' Fashion,45,4.163516573017342,Yellow,XL
-74,875,Jeans,Adidas,Kids' Fashion,52,3.275055379255416,Black,L
-26,876,Dress,Nike,Kids' Fashion,82,1.2981686337719855,Green,M
-92,877,Sweater,Zara,Women's Fashion,29,4.5004308727166284,Red,L
-34,878,Sweater,Nike,Women's Fashion,59,4.023961130050301,Yellow,XL
-1,879,T-shirt,Nike,Kids' Fashion,67,4.3014616705889335,Red,S
-18,880,Sweater,Zara,Kids' Fashion,48,1.9378068143090597,White,L
-25,881,Shoes,H&M,Men's Fashion,20,2.763920221496355,Red,XL
-35,882,Sweater,Gucci,Women's Fashion,57,2.4145047667618638,Yellow,XL
-73,883,Shoes,Nike,Kids' Fashion,49,1.9337976626029565,Yellow,L
-94,884,Dress,Zara,Men's Fashion,51,2.894494254484225,Green,L
-90,885,T-shirt,Zara,Kids' Fashion,94,3.031971531896187,White,XL
-38,886,Dress,Gucci,Men's Fashion,27,3.416143045780282,Blue,M
-79,887,Sweater,Adidas,Men's Fashion,88,3.645241825230726,Blue,XL
-39,888,Sweater,Gucci,Kids' Fashion,73,4.953445889820932,Blue,S
-60,889,Shoes,Adidas,Kids' Fashion,25,4.596019469844858,Yellow,XL
-67,890,T-shirt,H&M,Men's Fashion,42,1.04110632448713,Black,M
-32,891,Dress,H&M,Women's Fashion,84,1.444006995711216,White,XL
-63,892,T-shirt,Adidas,Women's Fashion,62,3.942359066241472,Blue,M
-98,893,Shoes,H&M,Kids' Fashion,76,2.072747671924219,Red,S
-22,894,Shoes,Adidas,Men's Fashion,37,1.4113573958981478,Black,S
-89,895,Jeans,Gucci,Women's Fashion,88,2.1043282771105507,Yellow,L
-41,896,Jeans,Gucci,Men's Fashion,80,4.369727156652768,Black,S
-84,897,Jeans,H&M,Women's Fashion,22,3.816709538284177,White,S
-98,898,Dress,Nike,Women's Fashion,44,4.21062020474198,Green,M
-83,899,Shoes,Gucci,Men's Fashion,85,2.4017897775191543,Red,XL
-94,900,T-shirt,Nike,Men's Fashion,91,1.6081447651913567,Blue,XL
-44,901,Jeans,Zara,Men's Fashion,41,4.640523706049213,Red,XL
-91,902,Shoes,Gucci,Women's Fashion,40,3.1874602653963757,Black,XL
-27,903,Sweater,Nike,Women's Fashion,99,2.1908077348511608,Yellow,M
-80,904,Sweater,Zara,Women's Fashion,27,1.766195133761789,Yellow,M
-87,905,Jeans,Nike,Women's Fashion,83,1.0503324676804544,Red,XL
-5,906,Shoes,Nike,Kids' Fashion,23,2.5470224755839097,Yellow,M
-38,907,T-shirt,Adidas,Men's Fashion,27,1.5733527814685797,Yellow,L
-32,908,Shoes,Zara,Kids' Fashion,36,3.1944873957491,White,M
-80,909,Jeans,Nike,Women's Fashion,32,3.3256505576714024,Green,XL
-45,910,Sweater,Adidas,Kids' Fashion,34,1.2026522123965375,Green,S
-63,911,Jeans,Nike,Kids' Fashion,89,2.099922459991689,White,S
-40,912,Dress,Adidas,Men's Fashion,22,3.287389527049684,Blue,L
-25,913,Shoes,Gucci,Kids' Fashion,56,3.969007920122268,Black,S
-11,914,T-shirt,H&M,Kids' Fashion,46,4.057433315782728,Red,L
-14,915,Shoes,Adidas,Kids' Fashion,35,2.930754717584444,White,M
-89,916,Sweater,Nike,Men's Fashion,91,3.456679608274945,Black,M
-8,917,Jeans,Zara,Men's Fashion,23,2.835769686780922,Red,M
-76,918,Shoes,H&M,Kids' Fashion,73,3.803150907795694,Red,XL
-83,919,Shoes,Adidas,Women's Fashion,96,3.35679762370069,Red,S
-21,920,T-shirt,Gucci,Women's Fashion,95,3.8049406413640665,Red,M
-13,921,Jeans,Gucci,Men's Fashion,24,2.9164895937776456,Green,S
-81,922,Jeans,Gucci,Men's Fashion,45,4.575139766805076,Green,L
-13,923,Sweater,Zara,Men's Fashion,79,2.8298935832831686,White,L
-92,924,Sweater,Nike,Men's Fashion,80,3.7032654446554014,Black,M
-40,925,Sweater,H&M,Women's Fashion,69,3.2838810491974546,Blue,S
-37,926,Dress,Zara,Women's Fashion,73,2.1903764841810616,Blue,L
-29,927,T-shirt,Adidas,Men's Fashion,71,4.9467575476089305,White,XL
-37,928,Sweater,Adidas,Kids' Fashion,10,4.585559724465988,Black,L
-64,929,Shoes,Gucci,Kids' Fashion,33,3.989968344884924,Blue,S
-49,930,T-shirt,Adidas,Women's Fashion,31,3.012986785664934,White,M
-19,931,Dress,Zara,Kids' Fashion,73,3.855769320270512,Blue,XL
-64,932,Jeans,H&M,Kids' Fashion,68,2.56370069288509,Yellow,L
-16,933,Sweater,Adidas,Kids' Fashion,76,3.3918882615322623,Blue,L
-98,934,T-shirt,Nike,Women's Fashion,82,2.636831886837697,Green,XL
-77,935,Sweater,Adidas,Men's Fashion,60,1.883630518503253,Black,S
-72,936,Sweater,Gucci,Men's Fashion,33,1.8814469253327668,White,M
-80,937,T-shirt,Gucci,Men's Fashion,38,1.1232397856633063,Red,S
-30,938,T-shirt,Gucci,Kids' Fashion,100,3.217890048418737,Blue,S
-81,939,Jeans,H&M,Men's Fashion,93,4.945684190748571,White,M
-63,940,T-shirt,Gucci,Kids' Fashion,77,3.721576137398128,White,XL
-24,941,Jeans,Zara,Men's Fashion,70,1.659599165583011,White,XL
-60,942,Shoes,Adidas,Men's Fashion,49,1.96887742218606,Green,L
-37,943,Jeans,Gucci,Kids' Fashion,71,4.056119883016917,Blue,L
-65,944,Sweater,H&M,Kids' Fashion,49,3.077371474451204,Black,S
-72,945,Jeans,Gucci,Kids' Fashion,58,2.0130725520669435,Red,L
-78,946,Sweater,H&M,Women's Fashion,15,1.6682707967091797,Red,S
-1,947,T-shirt,Zara,Kids' Fashion,48,3.155635638047163,White,S
-37,948,Sweater,Gucci,Women's Fashion,83,3.5517657049232025,Yellow,XL
-4,949,T-shirt,Zara,Kids' Fashion,96,4.472837069105822,Green,M
-4,950,T-shirt,Zara,Men's Fashion,86,1.7063112011635615,Green,L
-61,951,Sweater,Nike,Kids' Fashion,62,2.948747205567807,Black,L
-17,952,Dress,Zara,Women's Fashion,60,2.554289246651599,Black,L
-88,953,Jeans,Nike,Kids' Fashion,19,1.5419846980617409,Blue,L
-61,954,T-shirt,Gucci,Women's Fashion,74,2.8022966526242867,Green,L
-81,955,Jeans,Nike,Kids' Fashion,64,1.7977229968853874,White,XL
-39,956,Sweater,H&M,Men's Fashion,88,3.912168791848424,Black,M
-2,957,Jeans,Nike,Men's Fashion,57,4.928868618068378,White,L
-46,958,Shoes,Adidas,Men's Fashion,16,2.204637505868551,Green,M
-100,959,Sweater,H&M,Kids' Fashion,45,2.5655731426176587,Yellow,XL
-94,960,Jeans,Gucci,Men's Fashion,50,4.139661022212959,Red,M
-62,961,Jeans,Nike,Women's Fashion,40,1.7300712787520611,White,L
-4,962,Shoes,Adidas,Women's Fashion,97,2.608358764649981,Green,L
-85,963,Shoes,H&M,Men's Fashion,21,4.284576208971265,Black,XL
-1,964,Dress,Nike,Women's Fashion,31,4.541801542689294,White,S
-21,965,Sweater,Nike,Men's Fashion,55,3.5048915386512896,Yellow,S
-6,966,Jeans,Gucci,Kids' Fashion,66,4.865912994593836,Black,S
-92,967,Shoes,Gucci,Kids' Fashion,85,4.003376676880102,Blue,M
-84,968,Sweater,Gucci,Kids' Fashion,46,1.339532011577433,Black,S
-12,969,T-shirt,Gucci,Kids' Fashion,26,2.3083121191885643,Red,L
-78,970,Sweater,H&M,Kids' Fashion,19,4.976832450404386,White,L
-82,971,Shoes,H&M,Men's Fashion,45,3.3757177663871096,Green,XL
-84,972,Jeans,Gucci,Men's Fashion,14,4.783297802985486,White,XL
-4,973,Jeans,H&M,Kids' Fashion,20,3.7406712330563376,Red,L
-56,974,Shoes,Gucci,Kids' Fashion,72,3.10045761118194,Black,XL
-46,975,Dress,Zara,Men's Fashion,19,3.1010542669038688,Black,L
-82,976,Dress,Nike,Kids' Fashion,42,1.535476919818875,White,M
-4,977,T-shirt,Nike,Men's Fashion,91,4.040697715971895,Red,XL
-23,978,T-shirt,Zara,Men's Fashion,98,4.176305463989147,Black,M
-77,979,T-shirt,Nike,Men's Fashion,96,1.8932888458452155,Blue,S
-28,980,T-shirt,H&M,Kids' Fashion,50,4.812332538501465,Blue,XL
-35,981,Shoes,Nike,Women's Fashion,97,3.4449676228113724,White,XL
-50,982,Jeans,Nike,Kids' Fashion,11,4.038688935203389,Green,S
-94,983,Dress,Zara,Men's Fashion,50,4.457362281598346,Red,XL
-70,984,Dress,Gucci,Men's Fashion,64,2.9060201819420155,Green,XL
-57,985,T-shirt,H&M,Women's Fashion,36,2.512345782355948,Green,S
-1,986,Shoes,Gucci,Men's Fashion,11,4.614652815655338,Blue,M
-77,987,Shoes,H&M,Women's Fashion,42,3.2490771632599875,Red,M
-80,988,T-shirt,H&M,Men's Fashion,56,2.5739645481483446,Blue,XL
-67,989,T-shirt,Adidas,Men's Fashion,78,4.715256873865723,Black,S
-51,990,T-shirt,Gucci,Men's Fashion,16,3.392566739533724,Yellow,S
-60,991,Shoes,Nike,Kids' Fashion,25,4.972677491285118,Red,L
-42,992,T-shirt,Gucci,Women's Fashion,91,4.922173018868103,Black,M
-89,993,Shoes,H&M,Women's Fashion,33,4.000541835824288,Yellow,S
-59,994,Sweater,H&M,Men's Fashion,89,4.440832869904192,Green,L
-34,995,Sweater,Adidas,Kids' Fashion,58,4.3951116186697625,Red,S
-20,996,Shoes,Zara,Women's Fashion,55,1.6200805921533727,Black,M
-42,997,Sweater,Nike,Kids' Fashion,13,1.5444639343864257,Green,L
-9,998,Sweater,Zara,Men's Fashion,47,3.961913075556092,White,L
-8,999,T-shirt,Zara,Women's Fashion,68,3.089721517884114,Blue,S
-91,1000,Shoes,Adidas,Women's Fashion,79,3.0935529876473917,White,L
+user_id,product_id,product_name,brand,category,price,rating,color
+19,1,watch strap,Adidas,Accessories,142.68,1.043159211,Black
+97,2,ikea sofa,H&M,Women's Fashion,82,4.026416271,Black
+25,3,backpack,Adidas,Women's Fashion,44,3.337937559,Yellow
+57,4,macbook air,Zara,Electronics,23,1.049522956,White
+79,5,under armour t-shirt,Adidas,Clothing & Apparel,79,4.302773408,Black
+98,6,ipad pro,Adidas,Men's Fashion,47,1.37956574,Yellow
+16,7,sony bravia tv,Gucci,Men's Fashion,37,1.356750375,White
+63,8,carter's onesie,Zara,Kids' Fashion,64,4.360303289,Blue
+96,9,vase,H&M,Men's Fashion,53,4.466181876,Green
+36,10,zara blouse,Zara,Kids' Fashion,55,4.093234402,White
+69,11,phone case,Adidas,Men's Fashion,51,1.160987957,Red
+87,12,sunglasses,Gucci,Kids' Fashion,91,2.699735538,Yellow
+9,13,crocs,Nike,Kids' Fashion,35,1.60119358,Red
+50,14,instant pot,Zara,Women's Fashion,34,2.921004204,White
+31,15,tempur-pedic mattress,Zara,Men's Fashion,54,3.670412239,Yellow
+37,16,lg oled tv,Adidas,Women's Fashion,27,1.422716143,Blue
+41,17,nike running shoes,Gucci,Women's Fashion,75,1.480632132,Blue
+15,18,throw pillows,Gucci,Women's Fashion,73,4.498244681,Red
+84,19,cookware set,Kitchenware,Home & Furniture,451.49,3.278340556,White
+56,20,adidas tracksuit,Gucci,Men's Fashion,53,3.785245245,Green
+87,21,storage rack,H&M,Men's Fashion,56,2.609587353,Yellow
+56,22,levi's jeans,Gucci,Women's Fashion,89,4.568632343,Green
+60,23,gap hoodie,Zara,Kids' Fashion,91,4.072724797,Yellow
+64,24,samsung galaxy tab,Zara,Women's Fashion,15,2.499756274,Yellow
+65,25,apple iphone 14,H&M,Kids' Fashion,38,1.020492671,Green
+26,26,ashley recliner,Gucci,Women's Fashion,21,4.748169005,Green
+82,27,closet organizer,Adidas,Kids' Fashion,72,3.301743408,Red
+87,28,kitchenaid mixer,Zara,Home & Furniture,32,2.82280286,Yellow
+98,29,old navy dress,Gucci,Women's Fashion,85,4.940985221,Yellow
+20,30,wallet,Nike,Accessories,99,3.110113573,Green
+36,31,tote bag,H&M,Kids' Fashion,37,2.755187149,Blue
+98,32,apple watch,Nike,Kids' Fashion,78,3.44728947,White
+69,33,children's hoodie,H&M,Kids' Fashion,89,4.799409019,Green
+31,34,charging cable,H&M,Men's Fashion,80,3.92326116,Black
+48,35,fitbit charge,Zara,Women's Fashion,37,4.173991568,Blue
+18,36,office chair,H&M,Kids' Fashion,74,1.014996128,Green
+27,37,brooklinen sheets,Zara,Kids' Fashion,48,4.947664783,Blue
+60,38,nike air force 1,Nike,Kids' Fashion,76,2.663067924,Yellow
+46,39,bose soundbar,Adidas,Men's Fashion,90,1.788771519,Yellow
+84,40,samsung galaxy s23,Zara,Women's Fashion,26,2.435611336,Black
+43,41,belt,Gucci,Women's Fashion,40,2.922173646,Blue
+43,42,power bank,Zara,Kids' Fashion,43,1.671958886,Red
+91,43,dell xps 13,Adidas,Men's Fashion,39,3.601868547,White
+78,44,wall art,Nike,Kids' Fashion,74,2.039156739,White
+60,45,dining table set,Gucci,Women's Fashion,85,4.886711103,Red
+44,46,lenovo thinkpad,Zara,Men's Fashion,38,2.827869831,Yellow
+93,47,timberland boots,Zara,Men's Fashion,62,1.280731686,Green
+74,48,dyson vacuum,Gucci,Kids' Fashion,10,1.836963966,Green
+19,49,google pixel 7,Gucci,Kids' Fashion,52,3.012240786,Green
+98,50,watch strap,H&M,Women's Fashion,38,3.083285933,Blue
+51,51,ikea sofa,Adidas,Women's Fashion,67,3.842990023,Yellow
+80,52,backpack,Nike,Kids' Fashion,59,3.964195138,Red
+39,53,macbook air,Nike,Men's Fashion,16,1.29231997,Red
+33,54,under armour t-shirt,H&M,Men's Fashion,33,2.450522629,Blue
+78,55,ipad pro,Adidas,Kids' Fashion,76,2.820647079,Red
+24,56,sony bravia tv,Nike,Women's Fashion,53,2.251328487,White
+99,57,carter's onesie,Adidas,Women's Fashion,52,3.613136293,Red
+83,58,vase,Adidas,Women's Fashion,61,1.684541374,White
+38,59,zara blouse,Nike,Kids' Fashion,93,3.158493604,Blue
+51,60,phone case,H&M,Kids' Fashion,24,1.59071307,Yellow
+63,61,sunglasses,Adidas,Women's Fashion,25,1.04240882,Yellow
+54,62,crocs,Nike,Men's Fashion,66,2.063108735,Blue
+53,63,instant pot,Zara,Kids' Fashion,55,4.026271066,White
+50,64,tempur-pedic mattress,Gucci,Kids' Fashion,72,1.779210786,Red
+6,65,lg oled tv,H&M,Kids' Fashion,33,3.045016003,Yellow
+87,66,nike running shoes,H&M,Kids' Fashion,59,4.55091731,Red
+84,67,throw pillows,Gucci,Women's Fashion,41,4.251683239,Green
+43,68,cookware set,Gucci,Women's Fashion,76,381.24,Red
+3,69,adidas tracksuit,Gucci,Women's Fashion,74,3.6666674,Yellow
+6,70,storage rack,Gucci,Women's Fashion,36,2.538600852,Yellow
+15,71,levi's jeans,Adidas,Women's Fashion,35,4.864999298,White
+94,72,gap hoodie,H&M,Clothing & Apparel,51,2.793625807,Yellow
+98,73,samsung galaxy tab,Gucci,Men's Fashion,34,2.923982057,Red
+6,74,apple iphone 14,Zara,Women's Fashion,68,2.880808188,White
+42,75,ashley recliner,H&M,Women's Fashion,86,2.8894437,Blue
+54,76,closet organizer,Adidas,Women's Fashion,39,2.974139315,Black
+37,77,kitchenaid mixer,H&M,Home & Furniture,90,2.228263165,Blue
+9,78,old navy dress,Nike,Men's Fashion,76,1.297257193,White
+26,79,wallet,Nike,Accessories,11,1.333422087,Red
+71,80,tote bag,Nike,Kids' Fashion,21,2.93805629,Red
+72,81,apple watch,Nike,Women's Fashion,66,2.403440002,Green
+100,82,children's hoodie,H&M,Kids' Fashion,31,4.612706003,Blue
+69,83,charging cable,Nike,Women's Fashion,49,1.421790367,Blue
+19,84,fitbit charge,Adidas,Women's Fashion,42,2.560174045,Red
+84,85,office chair,Nike,Women's Fashion,89,1.107632847,Yellow
+4,86,brooklinen sheets,Zara,Men's Fashion,50,3.276221603,Yellow
+21,87,nike air force 1,Nike,Men's Fashion,41,4.126941614,Red
+85,88,bose soundbar,Nike,Kids' Fashion,61,2.557892132,White
+10,89,samsung galaxy s23,Gucci,Men's Fashion,66,3.896436962,White
+2,90,belt,H&M,Men's Fashion,37,3.961592463,Red
+90,91,power bank,H&M,Kids' Fashion,85,3.052555822,Green
+6,92,dell xps 13,Adidas,Men's Fashion,100,1.845071304,White
+33,93,wall art,Nike,Men's Fashion,70,4.928128215,White
+12,94,dining table set,Zara,Women's Fashion,21,3.941875648,Yellow
+62,95,lenovo thinkpad,Gucci,Women's Fashion,58,1.971525135,Blue
+22,96,timberland boots,Gucci,Women's Fashion,30,4.65525163,Red
+18,97,dyson vacuum,Gucci,Men's Fashion,52,3.761890551,Green
+44,98,google pixel 7,Gucci,Kids' Fashion,61,4.277089916,Black
+25,99,watch strap,Nike,Kids' Fashion,93,4.280090725,Yellow
+79,100,ikea sofa,Adidas,Kids' Fashion,84,1.837199422,Red
+52,101,backpack,Zara,Women's Fashion,95,1.501754271,Green
+71,102,macbook air,Gucci,Accessories,19,4.211889573,Red
+57,103,under armour t-shirt,Zara,Women's Fashion,84,3.649170715,White
+64,104,ipad pro,H&M,Men's Fashion,24,4.737257325,White
+35,105,sony bravia tv,Zara,Women's Fashion,52,1.75093116,Yellow
+63,106,carter's onesie,H&M,Kids' Fashion,21,2.726230341,Red
+19,107,vase,Zara,Men's Fashion,23,3.321346928,Red
+80,108,zara blouse,Gucci,Men's Fashion,13,4.278042968,Green
+77,109,phone case,Nike,Kids' Fashion,73,2.727659601,Black
+22,110,sunglasses,Gucci,Women's Fashion,33,4.665058099,Blue
+99,111,crocs,Zara,Women's Fashion,55,2.393684591,Green
+92,112,instant pot,Adidas,Men's Fashion,15,2.44626948,White
+97,113,tempur-pedic mattress,Zara,Men's Fashion,60,1.188491798,White
+48,114,lg oled tv,H&M,Men's Fashion,37,1.457139594,Red
+37,115,nike running shoes,Adidas,Kids' Fashion,64,2.887806601,Blue
+77,116,throw pillows,Adidas,Women's Fashion,60,3.114797145,Green
+52,117,cookware set,Zara,Kids' Fashion,75,3.992174604,White
+63,118,adidas tracksuit,Adidas,Men's Fashion,71,3.517315773,Yellow
+10,119,storage rack,Nike,Men's Fashion,73,2.657925071,Yellow
+77,120,levi's jeans,H&M,Men's Fashion,12,2.507310693,Green
+95,121,gap hoodie,Gucci,Men's Fashion,96,1.633989597,Red
+90,122,samsung galaxy tab,H&M,Women's Fashion,36,4.425129582,Blue
+80,123,apple iphone 14,Nike,Women's Fashion,65,2.647393415,Yellow
+65,124,ashley recliner,H&M,Men's Fashion,62,1.09081315,Black
+56,125,closet organizer,H&M,Kids' Fashion,56,4.139373023,Green
+65,126,kitchenaid mixer,Nike,Home & Furniture,55,4.851703509,Green
+7,127,old navy dress,Zara,Women's Fashion,47,4.86740353,Yellow
+100,128,wallet,H&M,Women's Fashion,61,2.310493963,Green
+70,129,tote bag,Zara,Women's Fashion,85,2.104322007,Yellow
+40,130,apple watch,Nike,Women's Fashion,81,1.021972485,Green
+70,131,children's hoodie,H&M,Men's Fashion,50,3.377493367,Blue
+100,132,charging cable,Adidas,Women's Fashion,10,2.997701328,White
+29,133,fitbit charge,H&M,Kids' Fashion,28,1.664542402,Blue
+23,134,office chair,Zara,Women's Fashion,60,3.63365153,Yellow
+94,135,brooklinen sheets,Adidas,Kids' Fashion,14,3.654703013,Blue
+34,136,nike air force 1,Zara,Men's Fashion,45,1.017654743,Blue
+44,137,bose soundbar,Gucci,Kids' Fashion,90,3.320508609,Green
+16,138,samsung galaxy s23,H&M,Women's Fashion,23,1.811578261,Yellow
+73,139,belt,Gucci,Women's Fashion,45,3.540081867,Blue
+54,140,power bank,Zara,Kids' Fashion,40,2.022643003,Green
+58,141,dell xps 13,Nike,Women's Fashion,28,4.441575548,Yellow
+46,142,wall art,Nike,Men's Fashion,38,4.403932394,White
+88,143,dining table set,Gucci,Women's Fashion,81,4.922934883,White
+75,144,lenovo thinkpad,Adidas,Kids' Fashion,57,1.000967235,Blue
+34,145,timberland boots,Zara,Kids' Fashion,60,4.821956689,Green
+75,146,dyson vacuum,Adidas,Women's Fashion,53,3.466387981,Yellow
+54,147,google pixel 7,Gucci,Kids' Fashion,48,2.582393026,Green
+39,148,watch strap,Adidas,Women's Fashion,82,2.716311659,Black
+95,149,ikea sofa,Adidas,Women's Fashion,56,4.001270462,Green
+67,150,backpack,Nike,Women's Fashion,43,1.197330723,Green
+5,151,macbook air,Adidas,Men's Fashion,77,2.35206414,Blue
+31,152,under armour t-shirt,Nike,Men's Fashion,71,4.815682355,Green
+2,153,ipad pro,Nike,Kids' Fashion,31,1.946292676,Black
+51,154,sony bravia tv,Zara,Men's Fashion,11,2.301224631,Blue
+91,155,carter's onesie,Gucci,Women's Fashion,48,2.433795362,White
+92,156,vase,Adidas,Women's Fashion,21,1.154187364,Red
+39,157,zara blouse,Adidas,Women's Fashion,67,3.981751298,Yellow
+99,158,phone case,Adidas,Men's Fashion,88,2.923330927,Blue
+10,159,sunglasses,Nike,Kids' Fashion,50,2.241727301,Green
+46,160,crocs,Gucci,Women's Fashion,35,2.983802721,Black
+80,161,instant pot,Adidas,Women's Fashion,67,4.735471557,Blue
+40,162,tempur-pedic mattress,Nike,Women's Fashion,48,2.98164149,Red
+18,163,lg oled tv,Nike,Women's Fashion,93,4.268027667,Green
+16,164,nike running shoes,Nike,Men's Fashion,68,2.636594899,Red
+34,165,throw pillows,Gucci,Women's Fashion,67,2.275472954,White
+100,166,cookware set,Adidas,Kids' Fashion,96,4.743823985,White
+92,167,adidas tracksuit,Zara,Kids' Fashion,43,4.47806137,Blue
+54,168,storage rack,Gucci,Women's Fashion,69,4.456580599,Green
+62,169,levi's jeans,Zara,Men's Fashion,98,1.089462325,Black
+50,170,gap hoodie,Gucci,Men's Fashion,20,3.465192594,Yellow
+24,171,samsung galaxy tab,Nike,Men's Fashion,42,1.767866521,Blue
+13,172,apple iphone 14,Zara,Women's Fashion,32,4.795455839,Yellow
+98,173,ashley recliner,Nike,Kids' Fashion,21,3.101798554,Yellow
+82,174,closet organizer,Adidas,Kids' Fashion,80,3.334538872,Black
+48,175,kitchenaid mixer,Adidas,Men's Fashion,55,1.913270934,Blue
+59,176,old navy dress,H&M,Kids' Fashion,91,1.998148132,Red
+56,177,wallet,Nike,Kids' Fashion,12,4.567658317,Yellow
+93,178,tote bag,Nike,Women's Fashion,26,1.687869595,Red
+54,179,apple watch,Adidas,Kids' Fashion,53,1.02832306,Blue
+61,180,children's hoodie,Zara,Kids' Fashion,43,2.366447234,Green
+74,181,charging cable,H&M,Kids' Fashion,80,4.829054628,Black
+39,182,fitbit charge,Zara,Men's Fashion,68,4.358912645,Yellow
+20,183,office chair,Zara,Kids' Fashion,67,2.675231958,Black
+67,184,brooklinen sheets,Zara,Women's Fashion,67,3.448527594,Green
+38,185,nike air force 1,Gucci,Men's Fashion,34,1.565354209,Yellow
+16,186,bose soundbar,Adidas,Men's Fashion,56,2.434972507,Blue
+81,187,samsung galaxy s23,Zara,Women's Fashion,36,3.043009203,Green
+33,188,belt,Nike,Men's Fashion,44,4.359929899,Green
+55,189,power bank,Adidas,Women's Fashion,15,3.466920439,Blue
+38,190,dell xps 13,Zara,Kids' Fashion,32,4.033069074,Yellow
+48,191,wall art,Gucci,Kids' Fashion,95,3.230677667,Black
+35,192,dining table set,Zara,Kids' Fashion,87,3.961569667,White
+8,193,lenovo thinkpad,H&M,Women's Fashion,60,2.936956139,White
+56,194,timberland boots,Adidas,Women's Fashion,92,3.792556244,White
+32,195,dyson vacuum,Zara,Kids' Fashion,60,3.344866684,White
+72,196,google pixel 7,Gucci,Kids' Fashion,17,1.289426342,Red
+48,197,watch strap,Nike,Kids' Fashion,90,2.299034126,Yellow
+3,198,ikea sofa,Zara,Men's Fashion,67,3.032124841,Blue
+39,199,backpack,Zara,Women's Fashion,15,4.980655634,Black
+75,200,macbook air,H&M,Men's Fashion,45,4.124427218,Black
+21,201,under armour t-shirt,Zara,Women's Fashion,57,4.246084617,Yellow
+84,202,ipad pro,Nike,Men's Fashion,40,3.495501605,Green
+53,203,sony bravia tv,Zara,Women's Fashion,75,1.876204845,Yellow
+3,204,carter's onesie,Zara,Kids' Fashion,81,1.89324317,Black
+41,205,vase,H&M,Men's Fashion,73,2.976563105,Yellow
+64,206,zara blouse,Nike,Kids' Fashion,56,4.360464131,Yellow
+30,207,phone case,Gucci,Kids' Fashion,53,2.789540795,Black
+9,208,sunglasses,Zara,Men's Fashion,79,2.671151972,White
+88,209,crocs,H&M,Women's Fashion,30,1.028669878,Black
+36,210,instant pot,Adidas,Women's Fashion,42,2.049039595,Yellow
+6,211,tempur-pedic mattress,Zara,Women's Fashion,50,3.173827063,Green
+24,212,lg oled tv,Adidas,Women's Fashion,71,3.439552435,White
+76,213,nike running shoes,Zara,Women's Fashion,80,4.860237045,Yellow
+59,214,throw pillows,Adidas,Women's Fashion,98,1.793905201,Yellow
+49,215,cookware set,Adidas,Men's Fashion,49,3.623237714,Yellow
+87,216,adidas tracksuit,Gucci,Kids' Fashion,57,3.882450495,White
+7,217,storage rack,Gucci,Women's Fashion,98,1.438125731,Yellow
+94,218,levi's jeans,Gucci,Men's Fashion,69,3.077033066,Red
+78,219,gap hoodie,H&M,Women's Fashion,97,1.968835967,Green
+35,220,samsung galaxy tab,H&M,Kids' Fashion,42,4.505382327,Blue
+68,221,apple iphone 14,Adidas,Men's Fashion,49,2.859178546,Black
+77,222,ashley recliner,Adidas,Kids' Fashion,36,1.105318739,Yellow
+33,223,closet organizer,Gucci,Women's Fashion,73,2.970808688,White
+48,224,kitchenaid mixer,Adidas,Women's Fashion,88,1.748627957,White
+46,225,old navy dress,Nike,Men's Fashion,61,1.635194216,Yellow
+6,226,wallet,H&M,Men's Fashion,16,2.431736482,Green
+44,227,tote bag,Adidas,Kids' Fashion,20,4.144274439,Red
+66,228,apple watch,H&M,Men's Fashion,15,1.967415572,Green
+81,229,children's hoodie,Adidas,Kids' Fashion,65,1.823312905,Red
+96,230,charging cable,Zara,Men's Fashion,82,4.592905504,Black
+92,231,fitbit charge,Zara,Women's Fashion,33,4.738404628,Red
+93,232,office chair,Zara,Men's Fashion,49,1.4143585,Red
+79,233,brooklinen sheets,Nike,Kids' Fashion,39,4.706320333,Red
+64,234,nike air force 1,H&M,Kids' Fashion,55,1.699052197,White
+61,235,bose soundbar,Zara,Women's Fashion,50,1.814530127,Green
+40,236,samsung galaxy s23,Zara,Men's Fashion,44,1.718297859,White
+68,237,belt,Adidas,Men's Fashion,58,3.662010629,White
+10,238,power bank,Adidas,Kids' Fashion,47,2.146848906,White
+33,239,dell xps 13,Gucci,Kids' Fashion,93,3.956210591,White
+27,240,wall art,H&M,Men's Fashion,10,2.234526853,Black
+55,241,dining table set,Gucci,Men's Fashion,21,2.404954172,Green
+72,242,lenovo thinkpad,H&M,Men's Fashion,52,4.128792274,Green
+88,243,timberland boots,H&M,Men's Fashion,79,1.05931859,White
+77,244,dyson vacuum,Zara,Women's Fashion,85,3.4746219,Blue
+27,245,google pixel 7,H&M,Women's Fashion,15,2.33366971,Black
+89,246,watch strap,Gucci,Kids' Fashion,68,3.184283802,Green
+32,247,ikea sofa,Zara,Women's Fashion,72,2.260192199,White
+83,248,backpack,Zara,Kids' Fashion,81,3.616173283,Red
+34,249,macbook air,H&M,Kids' Fashion,41,1.875618714,Black
+68,250,under armour t-shirt,H&M,Women's Fashion,21,2.772521447,Yellow
+46,251,ipad pro,Gucci,Kids' Fashion,87,2.193283427,White
+43,252,sony bravia tv,H&M,Men's Fashion,25,1.659000335,Blue
+65,253,carter's onesie,Zara,Kids' Fashion,98,4.236829853,White
+20,254,vase,Gucci,Kids' Fashion,15,1.393034744,Yellow
+74,255,zara blouse,H&M,Kids' Fashion,81,2.550519354,Green
+33,256,phone case,Gucci,Kids' Fashion,86,2.059769414,Blue
+38,257,sunglasses,Nike,Women's Fashion,82,3.481409233,Red
+86,258,crocs,Gucci,Women's Fashion,14,3.563482806,Yellow
+44,259,instant pot,Nike,Men's Fashion,27,2.504419165,White
+34,260,tempur-pedic mattress,Adidas,Kids' Fashion,59,4.154888892,Green
+50,261,lg oled tv,Zara,Men's Fashion,49,2.981081581,Yellow
+68,262,nike running shoes,Gucci,Women's Fashion,94,4.28858144,Blue
+5,263,throw pillows,Zara,Men's Fashion,71,4.053594853,Yellow
+46,264,cookware set,Gucci,Women's Fashion,55,3.190616884,White
+8,265,adidas tracksuit,H&M,Kids' Fashion,60,2.746730355,Blue
+51,266,storage rack,Gucci,Kids' Fashion,62,2.367762561,White
+25,267,levi's jeans,Adidas,Women's Fashion,53,4.441337119,Black
+32,268,gap hoodie,Adidas,Kids' Fashion,22,3.939581932,Yellow
+34,269,samsung galaxy tab,H&M,Kids' Fashion,100,4.743391172,Black
+3,270,apple iphone 14,Adidas,Kids' Fashion,60,4.213088307,Blue
+76,271,ashley recliner,Nike,Men's Fashion,45,4.075216259,Blue
+43,272,closet organizer,Nike,Kids' Fashion,95,2.311251113,White
+4,273,kitchenaid mixer,Nike,Men's Fashion,29,1.764609254,White
+77,274,old navy dress,Adidas,Women's Fashion,18,1.657266961,Red
+58,275,wallet,Nike,Men's Fashion,93,3.809488549,Green
+73,276,tote bag,Nike,Men's Fashion,43,1.393377273,Yellow
+50,277,apple watch,H&M,Kids' Fashion,49,1.889881364,White
+4,278,children's hoodie,Gucci,Men's Fashion,98,2.958504997,Black
+3,279,charging cable,Adidas,Kids' Fashion,11,2.191241877,Yellow
+31,280,fitbit charge,Gucci,Kids' Fashion,19,2.129731799,White
+30,281,office chair,H&M,Women's Fashion,67,2.256525934,Green
+18,282,brooklinen sheets,Nike,Men's Fashion,75,1.266590167,Black
+95,283,nike air force 1,H&M,Men's Fashion,80,4.17982815,White
+78,284,bose soundbar,Zara,Men's Fashion,23,3.814152154,Black
+49,285,samsung galaxy s23,Nike,Women's Fashion,80,3.70418879,Yellow
+69,286,belt,H&M,Kids' Fashion,13,3.236064278,White
+71,287,power bank,Zara,Kids' Fashion,62,4.537102679,Blue
+13,288,dell xps 13,Nike,Men's Fashion,38,2.108827714,Black
+88,289,wall art,Adidas,Kids' Fashion,18,2.805553334,Blue
+38,290,dining table set,Zara,Men's Fashion,13,4.883941462,White
+3,291,lenovo thinkpad,H&M,Women's Fashion,64,4.818010098,White
+91,292,timberland boots,Nike,Men's Fashion,63,3.075503826,Green
+9,293,dyson vacuum,Nike,Men's Fashion,96,2.769660905,Black
+4,294,google pixel 7,H&M,Women's Fashion,89,4.092572015,White
+39,295,watch strap,H&M,Kids' Fashion,56,2.424542625,Black
+99,296,ikea sofa,H&M,Women's Fashion,25,4.100230323,White
+30,297,backpack,Gucci,Kids' Fashion,14,1.877989508,Blue
+4,298,macbook air,Zara,Women's Fashion,14,1.416317141,Red
+69,299,under armour t-shirt,Gucci,Kids' Fashion,21,2.954602656,Green
+3,300,ipad pro,Adidas,Kids' Fashion,57,4.923508936,White
+66,301,sony bravia tv,Adidas,Kids' Fashion,93,2.044992494,Yellow
+49,302,carter's onesie,Gucci,Kids' Fashion,37,4.903871566,White
+11,303,vase,Gucci,Women's Fashion,94,3.685862143,White
+7,304,zara blouse,Adidas,Women's Fashion,85,1.300398563,Green
+26,305,phone case,H&M,Women's Fashion,90,2.330814132,White
+73,306,sunglasses,Gucci,Men's Fashion,23,2.800679753,Black
+62,307,crocs,Zara,Men's Fashion,11,3.889022253,Yellow
+42,308,instant pot,Adidas,Men's Fashion,60,4.42216008,Yellow
+37,309,tempur-pedic mattress,Gucci,Kids' Fashion,17,3.754996802,Black
+61,310,lg oled tv,H&M,Men's Fashion,83,3.945481349,White
+55,311,nike running shoes,Nike,Men's Fashion,55,4.803390239,Black
+41,312,throw pillows,Zara,Men's Fashion,45,2.927937578,White
+97,313,cookware set,H&M,Women's Fashion,76,4.512074442,Green
+13,314,adidas tracksuit,Nike,Kids' Fashion,94,2.062362221,Red
+90,315,storage rack,Nike,Kids' Fashion,56,1.21795546,White
+34,316,levi's jeans,H&M,Women's Fashion,68,2.098501017,Red
+55,317,gap hoodie,Adidas,Women's Fashion,23,4.395249785,Red
+88,318,samsung galaxy tab,Zara,Men's Fashion,49,1.15586985,Yellow
+39,319,apple iphone 14,H&M,Men's Fashion,61,1.231913046,White
+25,320,ashley recliner,H&M,Kids' Fashion,86,3.146928023,Yellow
+34,321,closet organizer,Gucci,Kids' Fashion,40,4.452209683,Red
+58,322,kitchenaid mixer,H&M,Kids' Fashion,18,1.707225428,Red
+30,323,old navy dress,Zara,Women's Fashion,95,2.326168452,Green
+3,324,wallet,Gucci,Men's Fashion,18,4.530634427,Black
+67,325,tote bag,Nike,Men's Fashion,91,2.668089208,Black
+7,326,apple watch,Zara,Men's Fashion,20,3.313869752,Green
+95,327,children's hoodie,Adidas,Kids' Fashion,72,4.572943413,White
+34,328,charging cable,Adidas,Kids' Fashion,12,1.295316214,Blue
+49,329,fitbit charge,Nike,Women's Fashion,56,3.73603013,Blue
+15,330,office chair,Zara,Men's Fashion,26,2.137827815,Blue
+61,331,brooklinen sheets,Adidas,Kids' Fashion,25,3.272901426,Black
+25,332,nike air force 1,Zara,Men's Fashion,75,3.149412946,Blue
+60,333,bose soundbar,H&M,Kids' Fashion,70,2.042428987,Yellow
+80,334,samsung galaxy s23,Zara,Men's Fashion,16,1.855252274,Yellow
+25,335,belt,Gucci,Men's Fashion,88,3.396661563,Red
+71,336,power bank,Nike,Kids' Fashion,28,4.169716343,White
+1,337,dell xps 13,Nike,Women's Fashion,80,1.591559598,White
+22,338,wall art,Nike,Women's Fashion,70,1.444198704,Blue
+46,339,dining table set,Gucci,Women's Fashion,74,1.804017418,White
+52,340,lenovo thinkpad,Adidas,Women's Fashion,32,1.246471514,Blue
+27,341,timberland boots,Gucci,Men's Fashion,91,4.473672898,Red
+69,342,dyson vacuum,Zara,Women's Fashion,27,3.979717427,Yellow
+29,343,google pixel 7,Gucci,Women's Fashion,91,4.74202906,Yellow
+42,344,watch strap,Nike,Kids' Fashion,44,3.873916155,Blue
+97,345,ikea sofa,H&M,Kids' Fashion,67,1.420409071,Yellow
+62,346,backpack,Adidas,Kids' Fashion,19,4.829417307,Yellow
+76,347,macbook air,H&M,Men's Fashion,18,1.110510848,Blue
+52,348,under armour t-shirt,Zara,Kids' Fashion,76,2.915742059,Blue
+36,349,ipad pro,Adidas,Kids' Fashion,97,3.150290196,White
+50,350,sony bravia tv,H&M,Kids' Fashion,80,2.797018296,Black
+52,351,carter's onesie,Nike,Women's Fashion,95,4.471219775,Red
+41,352,vase,H&M,Men's Fashion,71,1.50329194,Green
+87,353,zara blouse,Nike,Women's Fashion,78,2.912222167,Blue
+7,354,phone case,Gucci,Men's Fashion,74,3.864665917,Red
+59,355,sunglasses,Nike,Kids' Fashion,43,2.489550581,Red
+93,356,crocs,Zara,Kids' Fashion,68,4.330070804,Black
+89,357,instant pot,Adidas,Kids' Fashion,15,3.412001229,Yellow
+66,358,tempur-pedic mattress,Adidas,Men's Fashion,55,1.174952648,Blue
+55,359,lg oled tv,Nike,Kids' Fashion,68,4.449500338,Red
+42,360,nike running shoes,H&M,Women's Fashion,24,2.257292487,Black
+78,361,throw pillows,H&M,Kids' Fashion,62,1.760450534,Blue
+22,362,cookware set,Adidas,Men's Fashion,15,1.281293053,Red
+72,363,adidas tracksuit,Nike,Kids' Fashion,33,3.142884987,Yellow
+60,364,storage rack,Nike,Kids' Fashion,65,2.040456962,Black
+92,365,levi's jeans,Nike,Men's Fashion,16,3.282472037,White
+7,366,gap hoodie,Nike,Women's Fashion,29,4.153341476,Yellow
+17,367,samsung galaxy tab,Nike,Women's Fashion,31,2.710665415,Yellow
+60,368,apple iphone 14,Nike,Women's Fashion,35,1.541757712,Blue
+62,369,ashley recliner,Nike,Women's Fashion,96,3.795107582,Green
+75,370,closet organizer,Nike,Kids' Fashion,58,2.634244312,White
+65,371,kitchenaid mixer,Nike,Women's Fashion,33,1.081098282,White
+63,372,old navy dress,Nike,Men's Fashion,41,1.843919361,White
+87,373,wallet,Adidas,Men's Fashion,63,3.153142823,Green
+23,374,tote bag,Nike,Men's Fashion,20,1.474025215,Black
+68,375,apple watch,Zara,Women's Fashion,49,4.268766181,Blue
+16,376,children's hoodie,H&M,Kids' Fashion,22,3.833159814,Green
+33,377,charging cable,Zara,Women's Fashion,54,3.722545456,Black
+55,378,fitbit charge,Nike,Men's Fashion,45,3.571269953,Red
+89,379,office chair,Nike,Women's Fashion,25,3.637552903,White
+73,380,brooklinen sheets,Gucci,Women's Fashion,23,1.204175626,Red
+32,381,nike air force 1,H&M,Men's Fashion,23,3.324489276,Green
+97,382,bose soundbar,Gucci,Men's Fashion,93,3.584985286,Yellow
+32,383,samsung galaxy s23,H&M,Men's Fashion,86,2.533853796,Black
+90,384,belt,H&M,Kids' Fashion,84,1.461914043,Black
+74,385,power bank,Gucci,Women's Fashion,35,3.666720052,Yellow
+27,386,dell xps 13,Adidas,Women's Fashion,17,3.578353949,Yellow
+52,387,wall art,Adidas,Women's Fashion,24,1.169952748,Green
+7,388,dining table set,H&M,Men's Fashion,86,4.11723275,Green
+51,389,lenovo thinkpad,Zara,Women's Fashion,91,1.547099791,White
+89,390,timberland boots,Adidas,Women's Fashion,86,4.448025482,Green
+66,391,dyson vacuum,Gucci,Women's Fashion,25,3.828184813,Blue
+73,392,google pixel 7,Zara,Men's Fashion,53,2.8148203,White
+19,393,watch strap,H&M,Men's Fashion,32,1.752218472,Black
+77,394,ikea sofa,Gucci,Men's Fashion,56,3.532018951,Yellow
+90,395,backpack,Nike,Women's Fashion,14,2.590749419,Yellow
+33,396,macbook air,Zara,Men's Fashion,74,2.865913132,Blue
+100,397,under armour t-shirt,Zara,Kids' Fashion,94,1.573943498,White
+39,398,ipad pro,H&M,Men's Fashion,16,2.190953332,White
+36,399,sony bravia tv,Adidas,Men's Fashion,37,2.6298403,Yellow
+95,400,carter's onesie,H&M,Women's Fashion,91,2.434738189,Green
+41,401,vase,Gucci,Women's Fashion,93,4.63661739,Green
+10,402,zara blouse,H&M,Women's Fashion,30,1.50367936,Yellow
+83,403,phone case,Adidas,Men's Fashion,61,3.485748049,Red
+37,404,sunglasses,Adidas,Men's Fashion,71,2.938891562,Green
+61,405,crocs,Adidas,Women's Fashion,30,2.679992529,Blue
+89,406,instant pot,Nike,Men's Fashion,54,1.751391581,Black
+50,407,tempur-pedic mattress,Nike,Women's Fashion,78,3.582101277,White
+54,408,lg oled tv,H&M,Men's Fashion,62,2.984203036,White
+28,409,nike running shoes,Nike,Kids' Fashion,26,2.010899196,Red
+48,410,throw pillows,H&M,Kids' Fashion,64,4.723107548,Green
+35,411,cookware set,Nike,Men's Fashion,67,3.263647259,Red
+66,412,adidas tracksuit,Nike,Kids' Fashion,63,3.40240993,Black
+18,413,storage rack,Zara,Women's Fashion,21,4.849343339,Green
+13,414,levi's jeans,Zara,Kids' Fashion,63,2.175163962,Black
+22,415,gap hoodie,H&M,Kids' Fashion,41,2.728876535,Yellow
+30,416,samsung galaxy tab,H&M,Women's Fashion,92,3.251515841,Blue
+58,417,apple iphone 14,H&M,Women's Fashion,88,2.846891504,Red
+82,418,ashley recliner,Zara,Men's Fashion,34,4.986091107,Blue
+44,419,closet organizer,H&M,Kids' Fashion,72,3.302575649,Yellow
+79,420,kitchenaid mixer,Adidas,Men's Fashion,81,4.720487413,White
+18,421,old navy dress,Nike,Kids' Fashion,89,1.654133332,White
+79,422,wallet,Nike,Kids' Fashion,20,2.115579785,Blue
+56,423,tote bag,Adidas,Men's Fashion,83,4.502435021,Black
+52,424,apple watch,Adidas,Women's Fashion,45,3.055542338,Yellow
+100,425,children's hoodie,Nike,Men's Fashion,96,3.812085671,Blue
+11,426,charging cable,Zara,Men's Fashion,48,4.644768215,Black
+8,427,fitbit charge,Zara,Kids' Fashion,15,4.717963173,Yellow
+80,428,office chair,Gucci,Kids' Fashion,34,1.904094939,Green
+57,429,brooklinen sheets,Gucci,Women's Fashion,94,3.828901927,Black
+72,430,nike air force 1,Nike,Kids' Fashion,92,2.771944721,Black
+46,431,bose soundbar,H&M,Kids' Fashion,18,2.621390486,Green
+7,432,samsung galaxy s23,H&M,Kids' Fashion,55,2.238621627,Blue
+10,433,belt,H&M,Men's Fashion,59,3.87845411,Yellow
+44,434,power bank,Zara,Kids' Fashion,22,1.705658206,Yellow
+46,435,dell xps 13,Adidas,Men's Fashion,47,2.722706085,Blue
+27,436,wall art,Zara,Kids' Fashion,99,2.822618311,Black
+9,437,dining table set,Gucci,Men's Fashion,96,3.129701671,Green
+89,438,lenovo thinkpad,Adidas,Kids' Fashion,86,4.685958152,Yellow
+71,439,timberland boots,Zara,Men's Fashion,20,2.574077979,White
+49,440,dyson vacuum,Zara,Women's Fashion,83,4.720335238,White
+47,441,google pixel 7,Adidas,Men's Fashion,50,1.841605619,Black
+88,442,watch strap,H&M,Men's Fashion,74,3.907727442,Red
+37,443,ikea sofa,Gucci,Men's Fashion,11,3.021282847,White
+84,444,backpack,Nike,Men's Fashion,31,1.564570818,White
+38,445,macbook air,H&M,Kids' Fashion,74,4.199138754,Yellow
+18,446,under armour t-shirt,Adidas,Kids' Fashion,91,1.129824851,Black
+84,447,ipad pro,H&M,Kids' Fashion,27,4.730448148,Yellow
+75,448,sony bravia tv,Gucci,Kids' Fashion,53,2.144847419,Green
+5,449,carter's onesie,H&M,Men's Fashion,82,4.547042542,Black
+92,450,vase,Nike,Kids' Fashion,59,4.326285345,Black
+42,451,zara blouse,Adidas,Kids' Fashion,69,2.978109187,Green
+43,452,phone case,H&M,Kids' Fashion,11,3.702569195,Green
+30,453,sunglasses,Nike,Men's Fashion,34,2.573801588,Red
+50,454,crocs,Zara,Kids' Fashion,47,3.665802584,White
+58,455,instant pot,Gucci,Women's Fashion,51,1.290974737,Blue
+93,456,tempur-pedic mattress,Gucci,Men's Fashion,14,4.435460757,Blue
+70,457,lg oled tv,Gucci,Women's Fashion,36,1.595981702,Green
+20,458,nike running shoes,Gucci,Kids' Fashion,18,1.184450033,Black
+52,459,throw pillows,Adidas,Kids' Fashion,10,2.342762728,Black
+39,460,cookware set,H&M,Kids' Fashion,94,2.582289276,Black
+43,461,adidas tracksuit,Zara,Kids' Fashion,93,1.030127034,Red
+65,462,storage rack,Zara,Women's Fashion,34,2.029820364,Yellow
+24,463,levi's jeans,Adidas,Men's Fashion,25,3.182324449,Blue
+53,464,gap hoodie,Zara,Men's Fashion,74,1.362157546,Green
+1,465,samsung galaxy tab,Gucci,Women's Fashion,17,1.202302846,White
+30,466,apple iphone 14,H&M,Men's Fashion,37,1.064478592,Black
+13,467,ashley recliner,Adidas,Women's Fashion,69,1.795343557,Red
+40,468,closet organizer,Zara,Women's Fashion,38,1.314761528,White
+83,469,kitchenaid mixer,Nike,Women's Fashion,95,4.90629582,Yellow
+76,470,old navy dress,Adidas,Kids' Fashion,34,4.638343236,Blue
+38,471,wallet,Nike,Women's Fashion,96,2.31929243,Black
+11,472,tote bag,Adidas,Women's Fashion,67,3.482992748,Green
+98,473,apple watch,Nike,Women's Fashion,51,1.688509535,Red
+79,474,children's hoodie,H&M,Kids' Fashion,68,1.370661542,Yellow
+73,475,charging cable,H&M,Men's Fashion,69,4.074193704,Yellow
+14,476,fitbit charge,H&M,Women's Fashion,70,4.077371639,White
+100,477,office chair,Nike,Men's Fashion,30,1.559270898,Black
+77,478,brooklinen sheets,H&M,Women's Fashion,12,1.342996212,Green
+1,479,nike air force 1,Nike,Men's Fashion,51,1.197572306,Green
+9,480,bose soundbar,Nike,Men's Fashion,70,1.792727108,Blue
+52,481,samsung galaxy s23,Zara,Women's Fashion,24,1.671659401,Blue
+85,482,belt,Gucci,Women's Fashion,97,3.57821856,Yellow
+86,483,power bank,Zara,Women's Fashion,75,2.651376557,Black
+92,484,dell xps 13,Gucci,Men's Fashion,47,2.1247466,Red
+54,485,wall art,H&M,Women's Fashion,70,2.638129577,Black
+69,486,dining table set,Adidas,Women's Fashion,69,1.202709784,Yellow
+21,487,lenovo thinkpad,Adidas,Women's Fashion,62,3.698950312,Blue
+30,488,timberland boots,H&M,Men's Fashion,81,1.194998349,Yellow
+45,489,dyson vacuum,Adidas,Men's Fashion,37,3.560668439,Black
+12,490,google pixel 7,Nike,Men's Fashion,41,1.979704402,Green
+55,491,watch strap,Zara,Kids' Fashion,42,3.122132855,Black
+30,492,ikea sofa,Zara,Kids' Fashion,69,1.378184911,Blue
+57,493,backpack,H&M,Kids' Fashion,88,3.126248293,White
+54,494,macbook air,Zara,Kids' Fashion,82,4.680935629,Green
+14,495,under armour t-shirt,Nike,Women's Fashion,78,1.129654007,Blue
+92,496,ipad pro,Adidas,Kids' Fashion,59,1.72769559,Green
+88,497,sony bravia tv,Gucci,Women's Fashion,30,3.697727096,Yellow
+50,498,carter's onesie,Zara,Men's Fashion,59,2.985982414,Yellow
+60,499,vase,Adidas,Kids' Fashion,93,2.601402474,White
+36,500,zara blouse,Zara,Clothing & Apparel,88,143.87,Red
+20,501,phone case,Adidas,Kids' Fashion,41,4.322167156,Green
+61,502,sunglasses,Zara,Kids' Fashion,33,4.987964321,Blue
+84,503,crocs,Adidas,Kids' Fashion,16,4.534499079,White
+70,504,instant pot,Zara,Men's Fashion,22,2.096109252,Black
+24,505,tempur-pedic mattress,Zara,Women's Fashion,75,1.729782149,Black
+47,506,lg oled tv,Nike,Women's Fashion,51,3.983456227,Blue
+37,507,nike running shoes,Zara,Women's Fashion,85,4.056667235,White
+72,508,throw pillows,Gucci,Men's Fashion,25,4.459064433,Blue
+95,509,cookware set,Gucci,Men's Fashion,28,1.957709762,Blue
+9,510,adidas tracksuit,Nike,Men's Fashion,60,3.108177745,Green
+52,511,storage rack,H&M,Kids' Fashion,78,2.930071614,Black
+71,512,levi's jeans,Nike,Men's Fashion,92,2.36236785,Blue
+7,513,gap hoodie,Zara,Men's Fashion,65,4.061790922,Green
+27,514,samsung galaxy tab,Adidas,Kids' Fashion,47,3.432789514,White
+1,515,apple iphone 14,Nike,Kids' Fashion,64,3.748936698,White
+51,516,ashley recliner,Gucci,Women's Fashion,33,1.604158864,Red
+29,517,closet organizer,Gucci,Men's Fashion,74,2.848969458,Blue
+87,518,kitchenaid mixer,Gucci,Men's Fashion,56,2.580412062,Yellow
+28,519,old navy dress,Adidas,Women's Fashion,29,3.475022401,Blue
+8,520,wallet,Zara,Men's Fashion,13,3.070483462,Red
+90,521,tote bag,Adidas,Men's Fashion,19,3.256780572,White
+24,522,apple watch,Adidas,Men's Fashion,80,2.939079723,Yellow
+82,523,children's hoodie,Gucci,Women's Fashion,71,1.224769959,Black
+51,524,charging cable,Nike,Kids' Fashion,47,1.934450018,Black
+72,525,fitbit charge,Adidas,Kids' Fashion,58,2.443379936,Blue
+36,526,office chair,Zara,Women's Fashion,70,2.929688349,Red
+12,527,brooklinen sheets,Nike,Kids' Fashion,31,4.147790663,Yellow
+98,528,nike air force 1,Zara,Men's Fashion,33,2.714762174,Black
+77,529,bose soundbar,Gucci,Women's Fashion,59,1.995143535,White
+7,530,samsung galaxy s23,Adidas,Kids' Fashion,71,3.356410402,Black
+50,531,belt,H&M,Women's Fashion,45,2.893097706,Green
+32,532,power bank,Zara,Men's Fashion,21,2.066029254,Blue
+12,533,dell xps 13,Nike,Kids' Fashion,11,4.825169004,Green
+40,534,wall art,Adidas,Kids' Fashion,94,4.508485513,Yellow
+24,535,dining table set,Nike,Women's Fashion,87,1.204241995,Red
+82,536,lenovo thinkpad,H&M,Kids' Fashion,18,3.347461074,Yellow
+41,537,timberland boots,Nike,Men's Fashion,68,2.405967071,Red
+11,538,dyson vacuum,Nike,Men's Fashion,94,2.369527546,Blue
+26,539,google pixel 7,Nike,Kids' Fashion,10,3.101623434,Blue
+26,540,watch strap,H&M,Kids' Fashion,80,1.165614991,Yellow
+48,541,ikea sofa,Nike,Women's Fashion,17,2.136926727,Green
+35,542,backpack,Adidas,Men's Fashion,92,4.022021188,Red
+15,543,macbook air,Gucci,Men's Fashion,86,4.165312333,Yellow
+54,544,under armour t-shirt,Nike,Women's Fashion,77,3.556866321,Red
+68,545,ipad pro,Zara,Men's Fashion,82,2.004271238,Red
+6,546,sony bravia tv,Zara,Women's Fashion,93,1.356261781,Red
+6,547,carter's onesie,H&M,Kids' Fashion,89,2.544323557,Yellow
+79,548,vase,Zara,Kids' Fashion,65,1.492992563,Red
+11,549,zara blouse,Zara,Women's Fashion,96,4.28395114,Blue
+57,550,phone case,Nike,Men's Fashion,69,2.928257743,Yellow
+49,551,sunglasses,H&M,Women's Fashion,83,4.073676652,Blue
+2,552,crocs,Adidas,Kids' Fashion,50,4.480168913,Blue
+10,553,instant pot,Adidas,Men's Fashion,90,1.19849412,Green
+11,554,tempur-pedic mattress,Adidas,Men's Fashion,51,4.096963789,Blue
+21,555,lg oled tv,Adidas,Women's Fashion,67,3.936087109,Blue
+26,556,nike running shoes,H&M,Women's Fashion,39,2.600749076,Red
+45,557,throw pillows,Adidas,Women's Fashion,85,1.502021998,Black
+2,558,cookware set,Adidas,Women's Fashion,23,2.02668227,Red
+6,559,adidas tracksuit,Gucci,Women's Fashion,10,4.233459276,Red
+31,560,storage rack,Adidas,Women's Fashion,99,1.002064069,Red
+65,561,levi's jeans,Zara,Men's Fashion,96,3.968456345,Yellow
+37,562,gap hoodie,Zara,Kids' Fashion,29,4.440105991,Green
+44,563,samsung galaxy tab,Adidas,Men's Fashion,39,4.043087203,Blue
+70,564,apple iphone 14,Adidas,Kids' Fashion,31,4.56326549,Blue
+13,565,ashley recliner,Nike,Kids' Fashion,11,2.592885049,White
+100,566,closet organizer,Gucci,Kids' Fashion,80,4.024158908,White
+27,567,kitchenaid mixer,Zara,Kids' Fashion,96,1.206722946,Black
+61,568,old navy dress,Gucci,Kids' Fashion,20,3.492861271,Red
+92,569,wallet,Nike,Kids' Fashion,55,4.239391099,Blue
+4,570,tote bag,Adidas,Women's Fashion,54,1.452466382,Black
+23,571,apple watch,Nike,Men's Fashion,23,2.619218369,Red
+17,572,children's hoodie,H&M,Men's Fashion,63,4.051564761,Blue
+80,573,charging cable,Zara,Kids' Fashion,78,3.401509068,White
+9,574,fitbit charge,Gucci,Women's Fashion,92,4.491894014,Black
+99,575,office chair,H&M,Kids' Fashion,72,4.755480008,White
+76,576,brooklinen sheets,H&M,Women's Fashion,26,3.089887685,White
+41,577,nike air force 1,H&M,Women's Fashion,66,2.160695512,White
+65,578,bose soundbar,Gucci,Women's Fashion,48,3.121693131,Green
+26,579,samsung galaxy s23,Gucci,Women's Fashion,57,4.985949919,White
+38,580,belt,Adidas,Men's Fashion,92,2.494203848,Green
+65,581,power bank,Zara,Men's Fashion,83,4.715188839,Red
+24,582,dell xps 13,Zara,Men's Fashion,70,2.243103547,White
+96,583,wall art,H&M,Kids' Fashion,64,4.45499231,Green
+71,584,dining table set,Gucci,Women's Fashion,17,2.635500721,Black
+6,585,lenovo thinkpad,Adidas,Women's Fashion,68,3.591688841,Yellow
+38,586,timberland boots,Nike,Kids' Fashion,99,2.280076389,Yellow
+41,587,dyson vacuum,Adidas,Women's Fashion,50,1.252961727,Blue
+46,588,google pixel 7,Gucci,Kids' Fashion,24,3.411287732,White
+71,589,watch strap,Adidas,Women's Fashion,99,1.024249752,Red
+56,590,ikea sofa,Nike,Kids' Fashion,65,2.429329839,Green
+61,591,backpack,Gucci,Women's Fashion,97,2.036236385,White
+29,592,macbook air,Nike,Kids' Fashion,47,1.759075153,Yellow
+97,593,under armour t-shirt,H&M,Men's Fashion,89,3.145519148,White
+97,594,ipad pro,Nike,Kids' Fashion,86,3.842198105,Yellow
+53,595,sony bravia tv,Gucci,Women's Fashion,96,3.633088055,Blue
+9,596,carter's onesie,H&M,Women's Fashion,35,3.939543888,Black
+95,597,vase,H&M,Men's Fashion,38,3.243975902,Blue
+79,598,zara blouse,Gucci,Women's Fashion,77,1.426440501,Yellow
+52,599,phone case,H&M,Men's Fashion,80,4.465901208,Green
+40,600,sunglasses,Adidas,Men's Fashion,97,1.497399016,Yellow
+80,601,crocs,Adidas,Women's Fashion,44,1.034707249,White
+7,602,instant pot,Zara,Women's Fashion,11,4.342864389,White
+26,603,tempur-pedic mattress,Zara,Kids' Fashion,13,2.030988403,Black
+74,604,lg oled tv,Gucci,Men's Fashion,10,3.976500694,Yellow
+92,605,nike running shoes,Adidas,Women's Fashion,62,2.901295957,Red
+35,606,throw pillows,Nike,Women's Fashion,28,4.2147036,White
+40,607,cookware set,Nike,Women's Fashion,55,1.178803098,Yellow
+90,608,adidas tracksuit,H&M,Women's Fashion,51,2.711081219,Blue
+89,609,storage rack,Adidas,Kids' Fashion,75,4.785525241,Red
+85,610,levi's jeans,H&M,Women's Fashion,62,2.532856212,Green
+2,611,gap hoodie,Gucci,Kids' Fashion,85,2.032281097,White
+28,612,samsung galaxy tab,Zara,Men's Fashion,27,2.269794299,Blue
+80,613,apple iphone 14,Gucci,Women's Fashion,37,4.652599022,Black
+89,614,ashley recliner,Gucci,Men's Fashion,47,1.350981011,Green
+44,615,closet organizer,Nike,Kids' Fashion,67,2.8944503,Red
+80,616,kitchenaid mixer,Zara,Women's Fashion,98,4.871838867,Red
+19,617,old navy dress,Adidas,Kids' Fashion,77,1.702611669,Black
+51,618,wallet,Gucci,Kids' Fashion,85,4.728247063,Green
+10,619,tote bag,Nike,Women's Fashion,97,1.28844434,Blue
+68,620,apple watch,Nike,Kids' Fashion,37,3.462154378,White
+17,621,children's hoodie,H&M,Men's Fashion,72,2.650083893,Yellow
+30,622,charging cable,Nike,Men's Fashion,45,3.784631414,Red
+67,623,fitbit charge,Adidas,Kids' Fashion,62,1.610505131,Green
+83,624,office chair,Nike,Women's Fashion,70,4.450171665,White
+75,625,brooklinen sheets,Adidas,Kids' Fashion,78,3.452532367,Black
+44,626,nike air force 1,Adidas,Men's Fashion,29,4.180330342,Yellow
+61,627,bose soundbar,Adidas,Men's Fashion,94,1.871649611,Green
+93,628,samsung galaxy s23,Nike,Women's Fashion,64,3.812676437,Red
+80,629,belt,Gucci,Men's Fashion,95,3.579320092,White
+74,630,power bank,Nike,Women's Fashion,84,1.66146129,White
+65,631,dell xps 13,Zara,Kids' Fashion,32,4.197234004,White
+64,632,wall art,Zara,Kids' Fashion,66,3.75533768,Yellow
+73,633,dining table set,Nike,Women's Fashion,72,3.751515852,Red
+9,634,lenovo thinkpad,Nike,Kids' Fashion,27,1.295296419,Yellow
+34,635,timberland boots,Adidas,Women's Fashion,29,2.235056997,Yellow
+10,636,dyson vacuum,Gucci,Kids' Fashion,96,4.602210649,Yellow
+33,637,google pixel 7,Zara,Kids' Fashion,55,3.770055015,Green
+7,638,watch strap,Adidas,Men's Fashion,22,4.905280461,White
+22,639,ikea sofa,Zara,Men's Fashion,26,3.552471479,Blue
+11,640,backpack,Zara,Kids' Fashion,72,2.751416671,Red
+10,641,macbook air,Zara,Kids' Fashion,20,1.985714888,White
+75,642,under armour t-shirt,Gucci,Kids' Fashion,22,4.965199289,Black
+63,643,ipad pro,Zara,Kids' Fashion,42,4.62809882,Black
+64,644,sony bravia tv,H&M,Kids' Fashion,79,1.074566723,White
+46,645,carter's onesie,Zara,Kids' Fashion,98,4.696076856,Black
+36,646,vase,Zara,Men's Fashion,36,2.814233499,Green
+25,647,zara blouse,Adidas,Women's Fashion,60,1.615967237,Black
+74,648,phone case,Gucci,Men's Fashion,20,3.260638818,White
+82,649,sunglasses,Gucci,Women's Fashion,76,2.441480658,Red
+22,650,crocs,Gucci,Women's Fashion,99,4.309089575,Green
+35,651,instant pot,Gucci,Men's Fashion,16,1.005087152,Yellow
+8,652,tempur-pedic mattress,Zara,Kids' Fashion,74,1.062507176,Yellow
+65,653,lg oled tv,Gucci,Kids' Fashion,17,4.811990498,Red
+34,654,nike running shoes,Zara,Kids' Fashion,42,4.276502786,Blue
+6,655,throw pillows,Zara,Men's Fashion,33,1.99931231,Black
+67,656,cookware set,Nike,Men's Fashion,79,4.660541004,White
+36,657,adidas tracksuit,Nike,Men's Fashion,87,2.097545483,Yellow
+60,658,storage rack,Adidas,Women's Fashion,40,3.252305172,Green
+97,659,levi's jeans,Zara,Women's Fashion,21,1.024989526,White
+11,660,gap hoodie,Adidas,Kids' Fashion,41,2.689886463,Blue
+30,661,samsung galaxy tab,Gucci,Kids' Fashion,71,1.533612141,Blue
+4,662,apple iphone 14,Nike,Women's Fashion,14,3.456740111,Black
+17,663,ashley recliner,Zara,Women's Fashion,52,1.194964203,Black
+33,664,closet organizer,H&M,Kids' Fashion,28,4.464839095,White
+89,665,kitchenaid mixer,H&M,Women's Fashion,25,3.171747047,Red
+37,666,old navy dress,H&M,Women's Fashion,76,1.938962642,Black
+49,667,wallet,Nike,Kids' Fashion,64,1.098235316,Blue
+77,668,tote bag,Zara,Men's Fashion,11,1.842278867,White
+100,669,apple watch,Adidas,Women's Fashion,66,2.929741597,White
+48,670,children's hoodie,Gucci,Men's Fashion,55,4.268877638,Yellow
+8,671,charging cable,Adidas,Women's Fashion,16,3.234874807,Blue
+31,672,fitbit charge,Zara,Kids' Fashion,93,2.958262822,Blue
+79,673,office chair,Gucci,Kids' Fashion,83,3.184013143,Yellow
+2,674,brooklinen sheets,Adidas,Kids' Fashion,72,1.947337779,Green
+11,675,nike air force 1,Nike,Kids' Fashion,29,1.398131792,Green
+25,676,bose soundbar,Nike,Women's Fashion,11,2.779424045,Black
+74,677,samsung galaxy s23,Gucci,Women's Fashion,68,4.565208379,Blue
+11,678,belt,H&M,Men's Fashion,85,2.862980933,Black
+99,679,power bank,Adidas,Kids' Fashion,19,1.179131481,Yellow
+5,680,dell xps 13,Nike,Women's Fashion,55,4.049538098,Red
+59,681,wall art,Zara,Kids' Fashion,24,3.809658144,Black
+13,682,dining table set,Adidas,Women's Fashion,52,4.35132221,Blue
+75,683,lenovo thinkpad,Gucci,Men's Fashion,31,2.410307487,White
+31,684,timberland boots,Adidas,Women's Fashion,12,3.941315472,White
+37,685,dyson vacuum,Nike,Men's Fashion,19,1.269435005,White
+9,686,google pixel 7,H&M,Women's Fashion,75,2.946505642,Green
+35,687,watch strap,H&M,Kids' Fashion,74,4.17408542,Blue
+19,688,ikea sofa,H&M,Kids' Fashion,91,1.373619967,White
+5,689,backpack,H&M,Kids' Fashion,32,3.22134178,Black
+11,690,macbook air,H&M,Kids' Fashion,34,2.152949486,White
+38,691,under armour t-shirt,Adidas,Kids' Fashion,13,3.268427817,Blue
+91,692,ipad pro,Nike,Women's Fashion,39,4.705354779,Red
+44,693,sony bravia tv,Nike,Men's Fashion,62,2.554303203,Green
+98,694,carter's onesie,Adidas,Kids' Fashion,51,2.050063994,Red
+45,695,vase,Zara,Women's Fashion,78,4.734713084,Red
+81,696,zara blouse,Adidas,Men's Fashion,39,4.592766561,Green
+61,697,phone case,Nike,Women's Fashion,99,4.804098158,Green
+82,698,sunglasses,Zara,Men's Fashion,85,1.804396765,White
+52,699,crocs,Adidas,Men's Fashion,50,1.653623132,Green
+96,700,instant pot,H&M,Women's Fashion,78,4.824649275,Yellow
+34,701,tempur-pedic mattress,Nike,Women's Fashion,17,2.258849245,Blue
+46,702,lg oled tv,Gucci,Kids' Fashion,58,4.794781603,Blue
+27,703,nike running shoes,Gucci,Men's Fashion,21,3.425180331,Blue
+6,704,throw pillows,Adidas,Kids' Fashion,38,4.979678294,Green
+32,705,cookware set,Nike,Kids' Fashion,67,2.196904671,Black
+91,706,adidas tracksuit,Gucci,Women's Fashion,69,1.050046258,Green
+100,707,storage rack,Adidas,Women's Fashion,68,4.295812637,Green
+17,708,levi's jeans,Nike,Kids' Fashion,76,4.448919723,Black
+57,709,gap hoodie,Adidas,Men's Fashion,53,1.683155281,White
+50,710,samsung galaxy tab,Zara,Men's Fashion,58,2.169090131,Red
+37,711,apple iphone 14,Adidas,Men's Fashion,34,3.483939735,Red
+76,712,ashley recliner,Gucci,Kids' Fashion,100,4.610941929,Green
+25,713,closet organizer,Gucci,Men's Fashion,75,4.440120163,Blue
+91,714,kitchenaid mixer,Zara,Men's Fashion,35,2.491495141,White
+48,715,old navy dress,Nike,Women's Fashion,84,4.868671076,Yellow
+11,716,wallet,Adidas,Men's Fashion,68,3.928338293,Red
+8,717,tote bag,Nike,Women's Fashion,34,4.226909223,Yellow
+73,718,apple watch,Zara,Women's Fashion,30,1.373331834,White
+59,719,children's hoodie,H&M,Women's Fashion,34,1.939961599,Blue
+97,720,charging cable,Adidas,Men's Fashion,27,2.573743469,Black
+42,721,fitbit charge,Zara,Kids' Fashion,77,2.206169939,Blue
+78,722,office chair,Adidas,Women's Fashion,73,3.957991511,Blue
+55,723,brooklinen sheets,Nike,Men's Fashion,97,1.109084448,White
+82,724,nike air force 1,Adidas,Women's Fashion,57,3.165324059,Yellow
+87,725,bose soundbar,Gucci,Women's Fashion,12,3.805121226,Black
+40,726,samsung galaxy s23,Nike,Men's Fashion,10,3.206257442,Red
+72,727,belt,Adidas,Women's Fashion,11,4.420346267,White
+95,728,power bank,Zara,Men's Fashion,63,2.409415897,Yellow
+26,729,dell xps 13,Gucci,Kids' Fashion,10,2.728688821,Yellow
+72,730,wall art,Zara,Kids' Fashion,68,1.607311682,Green
+20,731,dining table set,Adidas,Men's Fashion,62,4.898212138,White
+48,732,lenovo thinkpad,Zara,Women's Fashion,28,2.645058812,Blue
+89,733,timberland boots,Adidas,Women's Fashion,75,4.891155555,Black
+89,734,dyson vacuum,Zara,Women's Fashion,80,1.592563595,Blue
+65,735,google pixel 7,H&M,Men's Fashion,28,3.902509392,Yellow
+11,736,watch strap,Adidas,Men's Fashion,94,2.761694311,White
+20,737,ikea sofa,Adidas,Kids' Fashion,78,1.126795615,Blue
+30,738,backpack,H&M,Men's Fashion,100,1.033843193,Blue
+24,739,macbook air,Gucci,Kids' Fashion,80,1.230817612,Red
+68,740,under armour t-shirt,Nike,Women's Fashion,72,3.691134961,White
+49,741,ipad pro,Nike,Women's Fashion,81,3.386836818,Blue
+54,742,sony bravia tv,H&M,Men's Fashion,85,3.462802611,Yellow
+15,743,carter's onesie,H&M,Women's Fashion,55,1.729135622,Red
+21,744,vase,Zara,Men's Fashion,97,2.999073583,Black
+73,745,zara blouse,Zara,Men's Fashion,40,3.753972994,Blue
+13,746,phone case,Gucci,Kids' Fashion,21,1.250641246,Black
+37,747,sunglasses,Adidas,Kids' Fashion,73,1.419739933,White
+87,748,crocs,Zara,Kids' Fashion,45,3.346345375,Red
+31,749,instant pot,Gucci,Women's Fashion,43,2.386806405,Black
+71,750,tempur-pedic mattress,Nike,Kids' Fashion,57,3.727593991,Red
+65,751,lg oled tv,Gucci,Kids' Fashion,72,2.097525173,Blue
+14,752,nike running shoes,Gucci,Men's Fashion,72,1.973300966,Blue
+17,753,throw pillows,Zara,Kids' Fashion,86,4.209098217,Yellow
+63,754,cookware set,Gucci,Kids' Fashion,79,1.893823744,Red
+99,755,adidas tracksuit,Zara,Women's Fashion,90,3.46720994,White
+37,756,storage rack,Adidas,Men's Fashion,34,1.669924032,Black
+66,757,levi's jeans,Gucci,Kids' Fashion,61,4.188203485,Black
+32,758,gap hoodie,Nike,Women's Fashion,51,4.222293806,Green
+39,759,samsung galaxy tab,Gucci,Kids' Fashion,65,1.829285875,Black
+35,760,apple iphone 14,Nike,Women's Fashion,57,3.458410207,Green
+86,761,ashley recliner,H&M,Men's Fashion,92,3.643455854,Black
+8,762,closet organizer,Nike,Kids' Fashion,50,3.804358644,Blue
+71,763,kitchenaid mixer,Nike,Men's Fashion,25,2.085546642,Green
+10,764,old navy dress,H&M,Women's Fashion,30,2.061492073,Black
+25,765,wallet,H&M,Kids' Fashion,86,4.826714567,Blue
+25,766,tote bag,Zara,Men's Fashion,40,4.461908067,Green
+83,767,apple watch,H&M,Men's Fashion,72,4.63013782,Yellow
+12,768,children's hoodie,H&M,Women's Fashion,95,4.599817817,White
+71,769,charging cable,Zara,Men's Fashion,28,4.476172222,White
+93,770,fitbit charge,H&M,Kids' Fashion,14,4.680516842,Yellow
+71,771,office chair,Zara,Men's Fashion,82,1.565842609,Red
+34,772,brooklinen sheets,Gucci,Men's Fashion,24,4.773680199,Black
+70,773,nike air force 1,Nike,Women's Fashion,74,2.504876163,Black
+74,774,bose soundbar,H&M,Men's Fashion,94,2.977355256,White
+39,775,samsung galaxy s23,H&M,Men's Fashion,60,3.201146073,White
+73,776,belt,Nike,Men's Fashion,86,2.219384304,Red
+40,777,power bank,Adidas,Kids' Fashion,88,1.798129096,Green
+25,778,dell xps 13,Nike,Kids' Fashion,80,3.975467678,White
+98,779,wall art,Nike,Kids' Fashion,94,3.726035874,Yellow
+46,780,dining table set,Gucci,Kids' Fashion,89,1.721478784,Blue
+83,781,lenovo thinkpad,Nike,Men's Fashion,85,4.828402785,Green
+23,782,timberland boots,Adidas,Men's Fashion,31,1.94808694,White
+76,783,dyson vacuum,H&M,Women's Fashion,59,2.197254325,Red
+95,784,google pixel 7,Zara,Men's Fashion,46,3.073906222,White
+77,785,watch strap,H&M,Men's Fashion,57,1.269834028,Red
+65,786,ikea sofa,H&M,Kids' Fashion,73,3.958356668,White
+91,787,backpack,H&M,Women's Fashion,96,3.25514699,Blue
+34,788,macbook air,Adidas,Kids' Fashion,74,3.143872925,Red
+22,789,under armour t-shirt,Nike,Women's Fashion,99,2.514204912,Yellow
+31,790,ipad pro,Adidas,Men's Fashion,34,1.09856738,Red
+73,791,sony bravia tv,Gucci,Women's Fashion,58,3.648417121,Green
+88,792,carter's onesie,Adidas,Kids' Fashion,88,4.645175947,Yellow
+28,793,vase,Zara,Kids' Fashion,82,1.320470072,Black
+9,794,zara blouse,H&M,Women's Fashion,68,4.293960351,Black
+2,795,phone case,Gucci,Kids' Fashion,30,1.481966572,Black
+3,796,sunglasses,H&M,Women's Fashion,86,1.85639746,Black
+68,797,crocs,H&M,Kids' Fashion,62,1.117533504,Red
+28,798,instant pot,H&M,Kids' Fashion,75,1.796726721,Blue
+48,799,tempur-pedic mattress,Adidas,Men's Fashion,20,2.327887123,Yellow
+61,800,lg oled tv,H&M,Men's Fashion,38,4.782806322,Red
+33,801,nike running shoes,Zara,Men's Fashion,39,3.513026866,Black
+66,802,throw pillows,Gucci,Men's Fashion,26,2.642952863,Green
+56,803,cookware set,Nike,Men's Fashion,13,1.615425214,Blue
+66,804,adidas tracksuit,Zara,Kids' Fashion,91,2.630726641,Black
+53,805,storage rack,H&M,Men's Fashion,84,3.389745863,Blue
+100,806,levi's jeans,Zara,Women's Fashion,11,3.778630527,Green
+74,807,gap hoodie,Zara,Men's Fashion,31,2.003227449,Blue
+20,808,samsung galaxy tab,Adidas,Women's Fashion,26,4.324805159,Yellow
+5,809,apple iphone 14,Adidas,Men's Fashion,22,3.142595278,White
+31,810,ashley recliner,Zara,Kids' Fashion,39,1.066913371,Black
+9,811,closet organizer,Gucci,Kids' Fashion,63,1.843096781,White
+9,812,kitchenaid mixer,Nike,Women's Fashion,23,1.176733499,Blue
+42,813,old navy dress,Zara,Men's Fashion,97,3.05083263,Blue
+62,814,wallet,Zara,Women's Fashion,48,2.795980171,Yellow
+78,815,tote bag,Zara,Women's Fashion,16,3.127369464,Black
+24,816,apple watch,Nike,Kids' Fashion,86,1.090838624,Blue
+51,817,children's hoodie,Adidas,Kids' Fashion,15,1.160500672,Black
+42,818,charging cable,Nike,Women's Fashion,36,4.022938202,Blue
+45,819,fitbit charge,Zara,Men's Fashion,41,3.443916707,White
+91,820,office chair,Nike,Women's Fashion,49,3.15966154,White
+65,821,brooklinen sheets,H&M,Women's Fashion,30,3.637743931,Blue
+75,822,nike air force 1,Gucci,Kids' Fashion,48,4.743995466,Green
+65,823,bose soundbar,H&M,Kids' Fashion,77,2.88300725,White
+3,824,samsung galaxy s23,Zara,Women's Fashion,17,1.080282827,White
+32,825,belt,Zara,Men's Fashion,12,1.851395713,White
+35,826,power bank,Adidas,Women's Fashion,92,4.775265823,Red
+13,827,dell xps 13,Nike,Women's Fashion,92,1.780308671,Red
+94,828,wall art,H&M,Women's Fashion,29,4.401707974,Green
+18,829,dining table set,Adidas,Men's Fashion,19,4.257084648,Black
+94,830,lenovo thinkpad,Gucci,Kids' Fashion,54,3.729791859,Green
+19,831,timberland boots,Gucci,Kids' Fashion,37,2.548301229,Black
+96,832,dyson vacuum,Nike,Women's Fashion,87,2.357340748,Blue
+70,833,google pixel 7,H&M,Kids' Fashion,82,1.100055884,Yellow
+99,834,watch strap,H&M,Women's Fashion,98,3.776324762,Yellow
+15,835,ikea sofa,Nike,Kids' Fashion,84,2.891092635,Yellow
+93,836,backpack,Gucci,Women's Fashion,21,4.24899806,White
+59,837,macbook air,Nike,Kids' Fashion,50,2.406013134,Black
+33,838,under armour t-shirt,Zara,Men's Fashion,60,2.677289107,Blue
+26,839,ipad pro,Nike,Kids' Fashion,68,2.655170363,Blue
+73,840,sony bravia tv,Zara,Kids' Fashion,84,3.154720588,Red
+56,841,carter's onesie,Zara,Men's Fashion,37,3.005164208,Blue
+59,842,vase,Adidas,Men's Fashion,44,3.062273281,White
+52,843,zara blouse,Nike,Kids' Fashion,91,2.723012964,Red
+1,844,phone case,Zara,Kids' Fashion,11,2.885109374,Blue
+66,845,sunglasses,Gucci,Men's Fashion,92,2.102424601,Green
+82,846,crocs,Nike,Kids' Fashion,26,4.304919134,Yellow
+88,847,instant pot,Gucci,Women's Fashion,10,1.37498193,Green
+78,848,tempur-pedic mattress,Nike,Kids' Fashion,31,3.763596385,White
+14,849,lg oled tv,Nike,Kids' Fashion,60,3.642990691,Green
+2,850,nike running shoes,Nike,Kids' Fashion,73,1.270582725,Yellow
+24,851,throw pillows,Nike,Men's Fashion,46,2.685204468,Yellow
+38,852,cookware set,H&M,Kids' Fashion,83,3.011248497,Red
+5,853,adidas tracksuit,H&M,Kids' Fashion,20,3.009772948,Green
+72,854,storage rack,Adidas,Kids' Fashion,83,3.709391012,Green
+96,855,levi's jeans,H&M,Kids' Fashion,88,1.902236722,Red
+55,856,gap hoodie,Gucci,Women's Fashion,93,1.801034634,Green
+37,857,samsung galaxy tab,H&M,Men's Fashion,93,4.350896543,Blue
+64,858,apple iphone 14,Zara,Kids' Fashion,96,4.451841229,Yellow
+48,859,ashley recliner,Adidas,Women's Fashion,44,1.400216676,Red
+75,860,closet organizer,Nike,Kids' Fashion,43,4.027847422,Blue
+60,861,kitchenaid mixer,Gucci,Men's Fashion,98,4.660135925,White
+61,862,old navy dress,Adidas,Kids' Fashion,14,1.578920563,Blue
+49,863,wallet,Gucci,Men's Fashion,99,1.433025224,Red
+22,864,tote bag,Nike,Men's Fashion,48,3.940945968,Yellow
+54,865,apple watch,Gucci,Women's Fashion,80,1.672864993,Yellow
+89,866,children's hoodie,H&M,Men's Fashion,66,4.550095006,White
+3,867,charging cable,Nike,Men's Fashion,90,4.23510887,Black
+84,868,fitbit charge,Gucci,Kids' Fashion,72,3.929471959,Red
+98,869,office chair,Zara,Men's Fashion,100,1.839078605,Black
+100,870,brooklinen sheets,Nike,Kids' Fashion,26,2.708009138,Yellow
+56,871,nike air force 1,H&M,Men's Fashion,66,2.622370915,White
+94,872,bose soundbar,H&M,Women's Fashion,96,4.646393154,Black
+16,873,samsung galaxy s23,Gucci,Kids' Fashion,27,3.33871116,Red
+54,874,belt,Gucci,Kids' Fashion,45,4.163516573,Yellow
+74,875,power bank,Adidas,Kids' Fashion,52,3.275055379,Black
+26,876,dell xps 13,Nike,Kids' Fashion,82,1.298168634,Green
+92,877,wall art,Zara,Women's Fashion,29,4.500430873,Red
+34,878,dining table set,Nike,Women's Fashion,59,4.02396113,Yellow
+1,879,lenovo thinkpad,Nike,Kids' Fashion,67,4.301461671,Red
+18,880,timberland boots,Zara,Kids' Fashion,48,1.937806814,White
+25,881,dyson vacuum,H&M,Men's Fashion,20,2.763920221,Red
+35,882,google pixel 7,Gucci,Women's Fashion,57,2.414504767,Yellow
+73,883,watch strap,Nike,Kids' Fashion,49,1.933797663,Yellow
+94,884,ikea sofa,Zara,Men's Fashion,51,2.894494254,Green
+90,885,backpack,Zara,Kids' Fashion,94,3.031971532,White
+38,886,macbook air,Gucci,Men's Fashion,27,3.416143046,Blue
+79,887,under armour t-shirt,Adidas,Men's Fashion,88,3.645241825,Blue
+39,888,ipad pro,Gucci,Kids' Fashion,73,4.95344589,Blue
+60,889,sony bravia tv,Adidas,Kids' Fashion,25,4.59601947,Yellow
+67,890,carter's onesie,H&M,Men's Fashion,42,1.041106324,Black
+32,891,vase,H&M,Women's Fashion,84,1.444006996,White
+63,892,zara blouse,Adidas,Women's Fashion,62,3.942359066,Blue
+98,893,phone case,H&M,Kids' Fashion,76,2.072747672,Red
+22,894,sunglasses,Adidas,Men's Fashion,37,1.411357396,Black
+89,895,crocs,Gucci,Women's Fashion,88,2.104328277,Yellow
+41,896,instant pot,Gucci,Men's Fashion,80,4.369727157,Black
+84,897,tempur-pedic mattress,H&M,Women's Fashion,22,3.816709538,White
+98,898,lg oled tv,Nike,Women's Fashion,44,4.210620205,Green
+83,899,nike running shoes,Gucci,Men's Fashion,85,2.401789778,Red
+94,900,throw pillows,Nike,Men's Fashion,91,1.608144765,Blue
+44,901,cookware set,Zara,Men's Fashion,41,4.640523706,Red
+91,902,adidas tracksuit,Gucci,Women's Fashion,40,3.187460265,Black
+27,903,storage rack,Nike,Women's Fashion,99,2.190807735,Yellow
+80,904,levi's jeans,Zara,Women's Fashion,27,1.766195134,Yellow
+87,905,gap hoodie,Nike,Women's Fashion,83,1.050332468,Red
+5,906,samsung galaxy tab,Nike,Kids' Fashion,23,2.547022476,Yellow
+38,907,apple iphone 14,Adidas,Men's Fashion,27,1.573352781,Yellow
+32,908,ashley recliner,Zara,Kids' Fashion,36,3.194487396,White
+80,909,closet organizer,Nike,Women's Fashion,32,3.325650558,Green
+45,910,kitchenaid mixer,Adidas,Kids' Fashion,34,1.202652212,Green
+63,911,old navy dress,Nike,Kids' Fashion,89,2.09992246,White
+40,912,wallet,Adidas,Men's Fashion,22,3.287389527,Blue
+25,913,tote bag,Gucci,Kids' Fashion,56,3.96900792,Black
+11,914,apple watch,H&M,Kids' Fashion,46,4.057433316,Red
+14,915,children's hoodie,Adidas,Kids' Fashion,35,2.930754718,White
+89,916,charging cable,Nike,Men's Fashion,91,3.456679608,Black
+8,917,fitbit charge,Zara,Men's Fashion,23,2.835769687,Red
+76,918,office chair,H&M,Kids' Fashion,73,3.803150908,Red
+83,919,brooklinen sheets,Adidas,Women's Fashion,96,3.356797624,Red
+21,920,nike air force 1,Gucci,Women's Fashion,95,3.804940641,Red
+13,921,bose soundbar,Gucci,Men's Fashion,24,2.916489594,Green
+81,922,samsung galaxy s23,Gucci,Men's Fashion,45,4.575139767,Green
+13,923,belt,Zara,Men's Fashion,79,2.829893583,White
+92,924,power bank,Nike,Men's Fashion,80,3.703265445,Black
+40,925,dell xps 13,H&M,Women's Fashion,69,3.283881049,Blue
+37,926,wall art,Zara,Women's Fashion,73,2.190376484,Blue
+29,927,dining table set,Adidas,Men's Fashion,71,4.946757548,White
+37,928,lenovo thinkpad,Adidas,Kids' Fashion,10,4.585559724,Black
+64,929,timberland boots,Gucci,Kids' Fashion,33,3.989968345,Blue
+49,930,dyson vacuum,Adidas,Women's Fashion,31,3.012986786,White
+19,931,google pixel 7,Zara,Kids' Fashion,73,3.85576932,Blue
+64,932,watch strap,H&M,Kids' Fashion,68,2.563700693,Yellow
+16,933,ikea sofa,Adidas,Kids' Fashion,76,3.391888262,Blue
+98,934,backpack,Nike,Women's Fashion,82,2.636831887,Green
+77,935,macbook air,Adidas,Men's Fashion,60,1.883630519,Black
+72,936,under armour t-shirt,Gucci,Men's Fashion,33,1.881446925,White
+80,937,ipad pro,Gucci,Men's Fashion,38,1.123239786,Red
+30,938,sony bravia tv,Gucci,Kids' Fashion,100,3.217890048,Blue
+81,939,carter's onesie,H&M,Men's Fashion,93,4.945684191,White
+63,940,vase,Gucci,Kids' Fashion,77,3.721576137,White
+24,941,zara blouse,Zara,Men's Fashion,70,1.659599166,White
+60,942,phone case,Adidas,Men's Fashion,49,1.968877422,Green
+37,943,sunglasses,Gucci,Kids' Fashion,71,4.056119883,Blue
+65,944,crocs,H&M,Kids' Fashion,49,3.077371474,Black
+72,945,instant pot,Gucci,Kids' Fashion,58,2.013072552,Red
+78,946,tempur-pedic mattress,H&M,Women's Fashion,15,1.668270797,Red
+1,947,lg oled tv,Zara,Kids' Fashion,48,3.155635638,White
+37,948,nike running shoes,Gucci,Women's Fashion,83,3.551765705,Yellow
+4,949,throw pillows,Zara,Kids' Fashion,96,4.472837069,Green
+4,950,cookware set,Zara,Men's Fashion,86,1.706311201,Green
+61,951,adidas tracksuit,Nike,Kids' Fashion,62,2.948747206,Black
+17,952,storage rack,Zara,Women's Fashion,60,2.554289247,Black
+88,953,levi's jeans,Nike,Kids' Fashion,19,1.541984698,Blue
+61,954,gap hoodie,Gucci,Women's Fashion,74,2.802296653,Green
+81,955,samsung galaxy tab,Nike,Kids' Fashion,64,1.797722997,White
+39,956,apple iphone 14,H&M,Men's Fashion,88,3.912168792,Black
+2,957,ashley recliner,Nike,Men's Fashion,57,4.928868618,White
+46,958,closet organizer,Adidas,Men's Fashion,16,2.204637506,Green
+100,959,kitchenaid mixer,H&M,Kids' Fashion,45,2.565573143,Yellow
+94,960,old navy dress,Gucci,Men's Fashion,50,4.139661022,Red
+62,961,wallet,Nike,Women's Fashion,40,1.730071279,White
+4,962,tote bag,Adidas,Women's Fashion,97,2.608358765,Green
+85,963,apple watch,H&M,Men's Fashion,21,4.284576209,Black
+1,964,children's hoodie,Nike,Women's Fashion,31,4.541801543,White
+21,965,charging cable,Nike,Men's Fashion,55,3.504891539,Yellow
+6,966,fitbit charge,Gucci,Kids' Fashion,66,4.865912995,Black
+92,967,office chair,Gucci,Kids' Fashion,85,4.003376677,Blue
+84,968,brooklinen sheets,Gucci,Kids' Fashion,46,1.339532012,Black
+12,969,nike air force 1,Gucci,Kids' Fashion,26,2.308312119,Red
+78,970,bose soundbar,H&M,Kids' Fashion,19,4.97683245,White
+82,971,samsung galaxy s23,H&M,Men's Fashion,45,3.375717766,Green
+84,972,belt,Gucci,Men's Fashion,14,4.783297803,White
+4,973,power bank,H&M,Kids' Fashion,20,3.740671233,Red
+56,974,dell xps 13,Gucci,Kids' Fashion,72,3.100457611,Black
+46,975,wall art,Zara,Men's Fashion,19,3.101054267,Black
+82,976,dining table set,Nike,Kids' Fashion,42,1.53547692,White
+4,977,lenovo thinkpad,Nike,Men's Fashion,91,4.040697716,Red
+23,978,timberland boots,Zara,Men's Fashion,98,4.176305464,Black
+77,979,dyson vacuum,Nike,Men's Fashion,96,1.893288846,Blue
+28,980,google pixel 7,H&M,Kids' Fashion,50,4.812332539,Blue
+35,981,watch strap,Nike,Women's Fashion,97,3.444967623,White
+50,982,ikea sofa,Nike,Kids' Fashion,11,4.038688935,Green
+94,983,backpack,Zara,Men's Fashion,50,4.457362282,Red
+70,984,macbook air,Gucci,Men's Fashion,64,2.906020182,Green
+57,985,under armour t-shirt,H&M,Women's Fashion,36,2.512345782,Green
+1,986,ipad pro,Gucci,Men's Fashion,11,4.614652816,Blue
+77,987,sony bravia tv,H&M,Women's Fashion,42,3.249077163,Red
+80,988,carter's onesie,H&M,Men's Fashion,56,2.573964548,Blue
+67,989,vase,Adidas,Men's Fashion,78,4.715256874,Black
+51,990,zara blouse,Gucci,Men's Fashion,16,3.39256674,Yellow
+60,991,phone case,Nike,Kids' Fashion,25,4.972677491,Red
+42,992,sunglasses,Gucci,Women's Fashion,91,4.922173019,Black
+89,993,crocs,H&M,Women's Fashion,33,4.000541836,Yellow
+59,994,instant pot,H&M,Men's Fashion,89,4.44083287,Green
+34,995,tempur-pedic mattress,Adidas,Kids' Fashion,58,4.395111619,Red
+20,996,lg oled tv,Zara,Women's Fashion,55,1.620080592,Black
+42,997,nike running shoes,Nike,Kids' Fashion,13,1.544463934,Green
+9,998,throw pillows,Zara,Men's Fashion,47,3.961913076,White
+8,999,cookware set,Zara,Women's Fashion,68,3.089721518,Blue
+91,1000,adidas tracksuit,Adidas,Women's Fashion,79,3.093552988,White
