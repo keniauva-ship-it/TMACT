@@ -66,8 +66,8 @@ user_id,product_id,product_name,brand,category,price,rating,color
 6,65,lg oled tv,H&M,Kids' Fashion,33,3.045016003,Yellow
 87,66,nike running shoes,H&M,Kids' Fashion,59,4.55091731,Red
 84,67,throw pillows,Gucci,Women's Fashion,41,4.251683239,Green
-43,68,cookware set,Gucci,Women's Fashion,76,381.24,Red
-3,69,adidas tracksuit,Gucci,Women's Fashion,74,3.6666674,Yellow
+43,68,cookware set,Gucci,Women's Fashion,381.24,1,Red
+3,69,adidas tracksuit,Gucci,Women's Fashion,143.87,3.6666674,Yellow
 6,70,storage rack,Gucci,Women's Fashion,36,2.538600852,Yellow
 15,71,levi's jeans,Adidas,Women's Fashion,35,4.864999298,White
 94,72,gap hoodie,H&M,Clothing & Apparel,51,2.793625807,Yellow
@@ -498,7 +498,7 @@ user_id,product_id,product_name,brand,category,price,rating,color
 88,497,sony bravia tv,Gucci,Women's Fashion,30,3.697727096,Yellow
 50,498,carter's onesie,Zara,Men's Fashion,59,2.985982414,Yellow
 60,499,vase,Adidas,Kids' Fashion,93,2.601402474,White
-36,500,zara blouse,Zara,Clothing & Apparel,88,143.87,Red
+36,500,zara blouse,Zara,Clothing & Apparel,143.87,2,Red
 20,501,phone case,Adidas,Kids' Fashion,41,4.322167156,Green
 61,502,sunglasses,Zara,Kids' Fashion,33,4.987964321,Blue
 84,503,crocs,Adidas,Kids' Fashion,16,4.534499079,White
